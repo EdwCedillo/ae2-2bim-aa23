@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Provincia de Cotopaxi - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )eswikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"508cd6cb-67c1-41e5-843c-918cb7fed045",
+"wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Provincia_de_Cotopaxi","wgTitle":"Provincia de Cotopaxi","wgCurRevisionId":152232116,"wgRevisionId":152232116,"wgArticleId":188066,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con enlaces externos rotos","Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos con ficha sin actualizar","Wikipedia:Artículos sin imagen en entidad subnacional","Wikipedia:Artículos con identificadores BNF","Wikipedia:Artículos con identificadores Relación OSM","Wikipedia:Artículos con identificadores TGN","Wikipedia:Páginas con mapas","Cotopaxi (provincia)"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Provincia_de_Cotopaxi","wgRelevantArticleId":188066,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"español","wgCoordinates":{"lat":-0.83333333333333,"lon":-78.85},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q241140","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":
+"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.16">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/1200px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1291">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/800px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="861">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/640px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="689">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Provincia de Cotopaxi - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Provincia_de_Cotopaxi">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Provincia_de_Cotopaxi">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Provincia_de_Cotopaxi rootpage-Provincia_de_Cotopaxi skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Menú principal"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">En Wikipedia, los enlaces de idiomas se encuentran en la parte superior de la página, frente al título del artículo. <a href="#p-lang-btn">Ir arriba</a>.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="La enciclopedia libre"
+			src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar"
+	
+		id=""
+		class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+		title="Buscar en este wiki [f]"accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							
+						>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Herramientas personales" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Cotopaxi" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Cotopaxi" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas personales"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Cotopaxi" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Cotopaxi" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Toponimia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Toponimia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Toponimia</div>
+		</a>
+		
+		<ul id="toc-Toponimia-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Historia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Historia</div>
+		</a>
+		
+		<ul id="toc-Historia-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Gobierno_y_política"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gobierno_y_política">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Gobierno y política</div>
+		</a>
+		
+			<button aria-controls="toc-Gobierno_y_política-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Gobierno y política</span>
+			</button>
+		
+		<ul id="toc-Gobierno_y_política-sublist" class="vector-toc-list">
+			<li id="toc-Política"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Política">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Política</div>
+			</a>
+			
+			<ul id="toc-Política-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-División_administrativa"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#División_administrativa">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>División administrativa</div>
+			</a>
+			
+			<ul id="toc-División_administrativa-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Hidrografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Hidrografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Hidrografía</div>
+		</a>
+		
+		<ul id="toc-Hidrografía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Turismo"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Turismo">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Turismo</div>
+		</a>
+		
+			<button aria-controls="toc-Turismo-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Turismo</span>
+			</button>
+		
+		<ul id="toc-Turismo-sublist" class="vector-toc-list">
+			<li id="toc-Latacunga"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Latacunga">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Latacunga</div>
+			</a>
+			
+			<ul id="toc-Latacunga-sublist" class="vector-toc-list">
+				<li id="toc-Fiesta_de_la_Mama_Negra"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Fiesta_de_la_Mama_Negra">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1.1</span>Fiesta de la Mama Negra</div>
+			</a>
+			
+			<ul id="toc-Fiesta_de_la_Mama_Negra-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Parque_nacional_Cotopaxi"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Parque_nacional_Cotopaxi">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Parque nacional Cotopaxi</div>
+			</a>
+			
+			<ul id="toc-Parque_nacional_Cotopaxi-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Volcán_Quilotoa"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Volcán_Quilotoa">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Volcán Quilotoa</div>
+			</a>
+			
+			<ul id="toc-Volcán_Quilotoa-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Otros_lugares_turísticos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Otros_lugares_turísticos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.4</span>Otros lugares turísticos</div>
+			</a>
+			
+			<ul id="toc-Otros_lugares_turísticos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Comidas_Típicas"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Comidas_Típicas">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.5</span>Comidas Típicas</div>
+			</a>
+			
+			<ul id="toc-Comidas_Típicas-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Demografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Demografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Demografía</div>
+		</a>
+		
+			<button aria-controls="toc-Demografía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Demografía</span>
+			</button>
+		
+		<ul id="toc-Demografía-sublist" class="vector-toc-list">
+			<li id="toc-Datos_demográficos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Datos_demográficos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Datos demográficos</div>
+			</a>
+			
+			<ul id="toc-Datos_demográficos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Indicadores_socio_económicos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Indicadores_socio_económicos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>Indicadores socio económicos</div>
+			</a>
+			
+			<ul id="toc-Indicadores_socio_económicos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Indicadores_sanitarios"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Indicadores_sanitarios">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.3</span>Indicadores sanitarios</div>
+			</a>
+			
+			<ul id="toc-Indicadores_sanitarios-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Indicadores_de_agua_y_saneamiento"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Indicadores_de_agua_y_saneamiento">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.4</span>Indicadores de agua y saneamiento</div>
+			</a>
+			
+			<ul id="toc-Indicadores_de_agua_y_saneamiento-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Economía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Economía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Economía</div>
+		</a>
+		
+		<ul id="toc-Economía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Cotopaxenses_famosos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Cotopaxenses_famosos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Cotopaxenses famosos</div>
+		</a>
+		
+		<ul id="toc-Cotopaxenses_famosos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Bibliografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>Bibliografía</div>
+		</a>
+		
+		<ul id="toc-Bibliografía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Centros_de_información_disponibles"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Centros_de_información_disponibles">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>Centros de información disponibles</div>
+		</a>
+		
+		<ul id="toc-Centros_de_información_disponibles-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">13</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Tabla de contenidos">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Cambiar a la tabla de contenidos</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Cambiar a la tabla de contenidos"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Provincia de Cotopaxi</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-dropdown-checkbox mw-interlanguage-selector"
+		aria-label="Ir a un artículo en otro idioma. Disponible en 42 idiomas"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-42"
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-dropdown-label-text">42 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D9%83%D9%88%D8%AA%D9%88%D8%A8%D8%A7%D9%83%D8%B3%D9%8A" title="مقاطعة كوتوباكسي (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BF%D0%B0%D0%BA%D1%81%D1%96_(%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F)" title="Катапаксі (правінцыя) (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BF%D0%B0%D0%BA%D1%81%D1%96_(%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F)" title="Катапаксі (правінцыя) (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BF%D0%B0%D0%BA%D1%81%D0%B8_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Котопакси (провинция) (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Prov%C3%ADncia_de_Cotopaxi" title="Província de Cotopaxi (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Provincia_de_Cotopaxi" title="Provincia de Cotopaxi (cebuano)" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Provinz_Cotopaxi" title="Provinz Cotopaxi (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Cotopaxi_Province" title="Cotopaxi Province (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo badge-Q70893996 mw-list-item" title=""><a href="https://eo.wikipedia.org/wiki/Cotopaxi_(provinco)" title="Cotopaxi (provinco) (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Cotopaxi_probintzia" title="Cotopaxi probintzia (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AA%D9%88%D9%BE%D8%A7%DA%A9%D8%B3%DB%8C" title="استان کوتوپاکسی (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Cotopaxi_(maakunta)" title="Cotopaxi (maakunta) (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Cotopaxi_(province)" title="Cotopaxi (province) (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Cotopaxi_(Prowins)" title="Cotopaxi (Prowins) (frisón septentrional)" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Cotopaxi_tartom%C3%A1ny" title="Cotopaxi tartomány (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%BF%D5%B8%D5%BA%D5%A1%D5%AD%D5%AB_(%D5%BA%D6%80%D5%B8%D5%BE%D5%AB%D5%B6%D6%81%D5%AB%D5%A1)" title="Կոտոպախի (պրովինցիա) (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Provinsi_Cotopaxi" title="Provinsi Cotopaxi (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Provincia_del_Cotopaxi" title="Provincia del Cotopaxi (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%91%E3%82%AF%E3%82%B7%E7%9C%8C" title="コトパクシ県 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%A2%E1%83%9D%E1%83%9E%E1%83%90%E1%83%AE%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="კოტოპახის პროვინცია (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%BD%94%ED%86%A0%ED%8C%8D%EC%8B%9C%EC%A3%BC" title="코토팍시주 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lad mw-list-item"><a href="https://lad.wikipedia.org/wiki/Cotopaxi_(vilayet)" title="Cotopaxi (vilayet) (ladino)" lang="lad" hreflang="lad" class="interlanguage-link-target"><span>Ladino</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Kotopaksio_provincija" title="Kotopaksio provincija (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pentadbiran_Cotopaxi" title="Pentadbiran Cotopaxi (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Cotopaxi_(provincie)" title="Cotopaxi (provincie) (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Cotopaxi_(provins)" title="Cotopaxi (provins) (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Prowincja_Cotopaxi" title="Prowincja Cotopaxi (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%DA%A9%D9%88%D8%AA%D9%88%D9%BE%D8%A7%DA%A9%D8%B3%DB%8C" title="صوبہ کوتوپاکسی (Western Punjabi)" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Cotopaxi_(prov%C3%ADncia)" title="Cotopaxi (província) (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Kutupaksi_marka" title="Kutupaksi marka (quechua)" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BF%D0%B0%D1%85%D0%B8_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Котопахи (провинция) (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Cotopaxi_Province" title="Cotopaxi Province (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/Cotopaxi_(provinsa)" title="Cotopaxi (provinsa) (sami septentrional)" lang="se" hreflang="se" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Cotopaxi_Province" title="Cotopaxi Province (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Cotopaxi_(provins)" title="Cotopaxi (provins) (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Cotopaxi_(il)" title="Cotopaxi (il) (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BF%D0%B0%D1%85%D1%96_(%D0%BF%D1%80%D0%BE%D0%B2%D1%96%D0%BD%D1%86%D1%96%D1%8F)" title="Котопахі (провінція) (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Cotopaxi_(t%E1%BB%89nh_Ecuador)" title="Cotopaxi (tỉnh Ecuador) (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Cotopaxi_(probinsya)" title="Cotopaxi (probinsya) (waray)" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%A7%91%E6%89%98%E5%B8%95%E5%B8%8C%E7%9C%81" title="科托帕希省 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%A7%91%E6%89%98%E5%B8%95%E5%B8%8C%E7%9C%81" title="科托帕希省 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Cotopaxi_S%C3%A9ng" title="Cotopaxi Séng (chino min nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q241140#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_Cotopaxi" title="Ver la página de contenido [c]" accesskey="c" class=""><span>Artículo</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Discusi%C3%B3n:Provincia_de_Cotopaxi" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t" class=""><span>Discusión</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-dropdown-checkbox"
+		aria-label="Cambiar variante de idioma"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-dropdown-label "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_Cotopaxi" class=""><span>Leer</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit" title="Editar esta página [e]" accesskey="e" class=""><span>Editar</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h" class=""><span>Ver historial</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Más opciones">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Provincia_de_Cotopaxi"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=history"><span>Ver historial</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Provincia_de_Cotopaxi" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Provincia_de_Cotopaxi" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;oldid=152232116" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Provincia_de_Cotopaxi&amp;id=152232116&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q241140" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Provincia+de+Cotopaxi"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Provincia_de_Cotopaxi&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Cotopaxi_Province" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Más opciones">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-coordinates" class="mw-indicator"><div class="mw-parser-output"><span id="coordinates" style="font-size:small"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_Cotopaxi&amp;params=-0.83333333333333_N_-78.85_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 0°50′00″S 78°51′00″O"><span class="latitude">0°50′00″S </span><span class="longitude">78°51′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -0.83333333333333 -78.85"><span class="geo"><span class="latitude">-0.83333333333333, </span><span class="longitude">-78.85</span></span></span></span></a></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="es" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox geography vcard" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera mapa fn org" style="text-align:center;background-color:transparent;color:black;padding:0;">Cotopaxi</th></tr><tr><td colspan="3" style="text-align:center;font-size:100%; font-weight:bold; background-color:#cddeff;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><td colspan="3" style="align:center;"><br /><table class="mergedrow" style="width:100%;"><tbody><tr><td style="text-align:center;background-color:transparent;align:center;vertical-align:middle;"><a href="/wiki/Archivo:Bandera_Provincia_Cotopaxi.svg" class="image"><img alt="Bandera Provincia Cotopaxi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bandera_Provincia_Cotopaxi.svg/100px-Bandera_Provincia_Cotopaxi.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bandera_Provincia_Cotopaxi.svg/150px-Bandera_Provincia_Cotopaxi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bandera_Provincia_Cotopaxi.svg/200px-Bandera_Provincia_Cotopaxi.svg.png 2x" data-file-width="600" data-file-height="400" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;"><a href="/wiki/Bandera_de_Cotopaxi" title="Bandera de Cotopaxi">Bandera</a></div></td><td style="text-align:center;align:center;vertical-align:middle;background-color:transparent;"><a href="/wiki/Archivo:Escudo_de_Cotopaxi.png" class="image"><img alt="Escudo de Cotopaxi.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_Cotopaxi.png/63px-Escudo_de_Cotopaxi.png" decoding="async" width="63" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_Cotopaxi.png/94px-Escudo_de_Cotopaxi.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escudo_de_Cotopaxi.png/125px-Escudo_de_Cotopaxi.png 2x" data-file-width="539" data-file-height="756" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;"><a href="/wiki/Escudo_de_Cotopaxi" title="Escudo de Cotopaxi">Escudo</a></div>
+<br /></td></tr></tbody></table></td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Anexo:Lemas_nacionales" title="Anexo:Lemas nacionales">Lema</a>: Obras para vivir mejor</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Himno" title="Himno">Himno</a>: <i><a href="https://en.wikisource.org/wiki/es:Himno_de_Cotopaxi_(Ecuador)" class="extiw" title="wikisource:es:Himno de Cotopaxi (Ecuador)">Himno de Cotopaxi</a></i></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<a href="/wiki/Archivo:Cotopaxi_in_Ecuador_(%2BGalapagos).svg" class="image"><img alt="Cotopaxi in Ecuador (+Galapagos).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/300px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png" decoding="async" width="300" height="323" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/450px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg/600px-Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg.png 2x" data-file-width="512" data-file-height="551" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de la <b>provincia de Cotopaxi</b> en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></div></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<div class="mw-kartographer-container thumb tnone center"><div class="thumbinner" style="width: 300px;"><a class="mw-kartographer-map" style="width: 300px; height: 300px;" data-mw-kartographer="mapframe" data-style="osm-intl" data-width="300" data-height="300" data-zoom="8" data-lat="-0.83" data-lon="-78.85" data-overlays="[&quot;_c960a1c19ef043fa8ff37590f7822daddb54cdf8&quot;]" href="/wiki/Especial:Map/8/-0.83/-78.85/es"><img src="https://maps.wikimedia.org/img/osm-intl,8,-0.83,-78.85,300x300.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+Cotopaxi&amp;revid=152232116&amp;groups=_c960a1c19ef043fa8ff37590f7822daddb54cdf8" width="300" height="300" decoding="async" srcset="https://maps.wikimedia.org/img/osm-intl,8,-0.83,-78.85,300x300@2x.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+Cotopaxi&amp;revid=152232116&amp;groups=_c960a1c19ef043fa8ff37590f7822daddb54cdf8 2x" alt="Mapa" /></a></div></div><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de Cotopaxi</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_Cotopaxi&amp;params=-0.83333333333333_N_-78.85_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 0°50′00″S 78°51′00″O"><span class="latitude">0°50′00″S </span><span class="longitude">78°51′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -0.83333333333333 -78.85"><span class="geo"><span class="latitude">-0.83333333333333, </span><span class="longitude">-78.85</span></span></span></span></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Capital_(pol%C3%ADtica)" title="Capital (política)">Capital</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Latacunga" title="Latacunga">Latacunga</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;"><span style="font-size:90%">&#160;• Población</span></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span style="font-size:90%">63 842 habs.</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Idioma_oficial" title="Idioma oficial">Idioma oficial</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">Español</a> y <a href="/wiki/Quichua_norte%C3%B1o" title="Quichua norteño">quichua</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Entidad_subnacional" class="mw-redirect" title="Entidad subnacional">Entidad</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Anexo:Pa%C3%ADses" title="Anexo:Países">País</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span class="flagicon"><a href="/wiki/Archivo:Flag_of_Ecuador.svg" class="image" title="Bandera de Ecuador"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></a>&#160;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Anexo:Prefectos_de_Cotopaxi" title="Anexo:Prefectos de Cotopaxi">Prefecta</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Lourdes_Tib%C3%A1n" title="Lourdes Tibán">Lourdes Tibán</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Subdivisiones</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<div class="mw-collapsible mw-collapsed" style="font-size:95%;border:none; padding: 0;">
+<div style="width:100%; background:transparent; font-weight:bold" align="left">7 cantones</div><div class="mw-collapsible-content" style="text-align:left;"><a href="/wiki/Archivo:Flag_of_La_Man%C3%A1.svg" class="image"><img alt="Flag of La Maná.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/20px-Flag_of_La_Man%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/30px-Flag_of_La_Man%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/40px-Flag_of_La_Man%C3%A1.svg.png 2x" data-file-width="960" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_La_Man%C3%A1" title="Cantón La Maná">La Maná</a><br /><span class="flagicon"><a href="/wiki/Archivo:BanderaLatacunga.svg" class="image" title="Bandera de Latacunga"><img alt="Bandera de Latacunga" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/20px-BanderaLatacunga.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/30px-BanderaLatacunga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/40px-BanderaLatacunga.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Cant%C3%B3n_Latacunga" title="Cantón Latacunga">Latacunga</a><br /><a href="/wiki/Archivo:Bandera_de_Pangua.png" class="image"><img alt="Bandera de Pangua.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/20px-Bandera_de_Pangua.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/30px-Bandera_de_Pangua.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/40px-Bandera_de_Pangua.png 2x" data-file-width="837" data-file-height="432" /></a> <a href="/wiki/Cant%C3%B3n_Pangua" title="Cantón Pangua">Pangua</a><br /><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png" class="image"><img alt="Bandera del Cantón Pujilí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/20px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/30px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/40px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png 2x" data-file-width="850" data-file-height="550" /></a> <a href="/wiki/Cant%C3%B3n_Pujil%C3%AD" title="Cantón Pujilí">Pujilí</a><br /><a href="/wiki/Archivo:Bandera_de_Salcedo.png" class="image"><img alt="Bandera de Salcedo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/20px-Bandera_de_Salcedo.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/30px-Bandera_de_Salcedo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/40px-Bandera_de_Salcedo.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Salcedo" title="Cantón Salcedo">Salcedo</a><br /><a href="/wiki/Archivo:Bandera_de_Saquisil%C3%AD.png" class="image"><img alt="Bandera de Saquisilí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/20px-Bandera_de_Saquisil%C3%AD.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/30px-Bandera_de_Saquisil%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/40px-Bandera_de_Saquisil%C3%AD.png 2x" data-file-width="666" data-file-height="333" /></a> <a href="/wiki/Cant%C3%B3n_Saquisil%C3%AD" title="Cantón Saquisilí">Saquisilí</a><br /><a href="/wiki/Archivo:Bandera_de_Sigchos.png" class="image"><img alt="Bandera de Sigchos.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/20px-Bandera_de_Sigchos.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/30px-Bandera_de_Sigchos.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/40px-Bandera_de_Sigchos.png 2x" data-file-width="700" data-file-height="400" /></a> <a href="/wiki/Cant%C3%B3n_Sigchos" title="Cantón Sigchos">Sigchos</a></div>
+</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fundación</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+1 de abril de 1851 (172&#160;años)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%81rea" title="Área">Superficie</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">15</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+6108,23&#160;<a href="/wiki/Kil%C3%B3metro_cuadrado" title="Kilómetro cuadrado">km²</a><span class="wikidata-link lapiz noprint"> <a href="https://www.wikidata.org/wiki/Q241140?uselang=es#P2046" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Altitud" title="Altitud">Altitud</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+&#160;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Media</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+3000 <a href="/wiki/Msnm" class="mw-redirect" title="Msnm">m s. n. m.</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Máxima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+5897 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Mínima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+250 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Clima" title="Clima">Clima</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+De –10 a 30&#160;°C</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Poblaci%C3%B3n" title="Población">Población</a>&#160;(2010)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">12</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+409&#160;205&#160;hab.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Densidad_de_poblaci%C3%B3n" title="Densidad de población">Densidad</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+66,99 hab/km²</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Gentilicio" title="Gentilicio">Gentilicio</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Cotopaxense</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%8Dndice_de_Desarrollo_Humano" class="mw-redirect" title="Índice de Desarrollo Humano">IDH</a>&#160;(2017)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span title="Crecimiento"><img alt="Crecimiento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span> 0.722&#160;(<a href="/wiki/Anexo:Provincias_de_Ecuador_por_IDH" title="Anexo:Provincias de Ecuador por IDH">15</a>.º)&#160;– <span style="color:#00CC00;"><b>alto</b></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Huso_horario" title="Huso horario">Huso horario</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Tiempo_de_Ecuador" class="mw-redirect" title="Tiempo de Ecuador">ECT</a> (UTC–5)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/C%C3%B3digo_postal" title="Código postal">Código postal</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="postal-code">EC05</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Prefijo_telef%C3%B3nico" title="Prefijo telefónico">Prefijo telefónico</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+03</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Matr%C3%ADcula_(autom%C3%B3viles)" title="Matrícula (automóviles)">Matrícula</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+X</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/ISO_3166-2" title="ISO 3166-2">ISO 3166-2</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+EC-X</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fiestas mayores</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<b><a href="/wiki/1_de_abril" title="1 de abril">1 de abril</a></b> (provincialización)</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a rel="nofollow" class="external text" href="http://www.cotopaxi.gob.ec/">Sitio web oficial </a></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q241140" class="extiw" title="d:Q241140">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p><b>Cotopaxi</b> (<small>pronunciado&#160;</small><span class="IPA"><a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">[ko.toˈpak.si]</a></span>) es una de las veinticuatro <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">provincias</a> que conforman la <a href="/wiki/Ecuador" title="Ecuador">República del Ecuador</a>, situada al centro del país, en la <a href="/wiki/Regi%C3%B3n_Sierra" title="Región Sierra">región interandina o Sierra</a>, principalmente sobre la hoya de Patate en el este y en los flancos externos de la cordillera occidental en el oeste. Su capital administrativa es la ciudad de <a href="/wiki/Latacunga" title="Latacunga">Latacunga</a>, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 6085 <a href="/wiki/Km%C2%B2" class="mw-redirect" title="Km²">km²</a>, siendo la décima quinta provincia del país por extensión. Limita al norte con <a href="/wiki/Provincia_de_Pichincha" title="Provincia de Pichincha">Pichincha</a> y <a href="/wiki/Provincia_de_Santo_Domingo_de_los_Ts%C3%A1chilas" title="Provincia de Santo Domingo de los Tsáchilas">Santo Domingo de los Tsáchilas</a>, al sur con <a href="/wiki/Provincia_de_Tungurahua" title="Provincia de Tungurahua">Tungurahua</a> y <a href="/wiki/Provincia_de_Bol%C3%ADvar_(Ecuador)" title="Provincia de Bolívar (Ecuador)">Bolívar</a>, por el occidente con <a href="/wiki/Provincia_de_Los_R%C3%ADos" title="Provincia de Los Ríos">Los Ríos</a> y al oriente con <a href="/wiki/Provincia_de_Napo" title="Provincia de Napo">Napo</a>.
+</p><p>En el territorio cotopaxense habitan 488&#160;716 personas, según la proyección demográfica del INEC para 2020, siendo la décima segunda provincia más poblada del país. La provincia de Cotopaxi está constituida por siete cantones, de los cuales se derivan sus respectivas parroquias urbanas y rurales. Según el último ordenamiento territorial, la provincia de Cotopaxi pertenecerá a una región comprendida también por las provincias de <a href="/wiki/Provincia_de_Chimborazo" title="Provincia de Chimborazo">Chimborazo</a>, <a href="/wiki/Provincia_de_Tungurahua" title="Provincia de Tungurahua">Tungurahua</a> y <a href="/wiki/Provincia_de_Pastaza" title="Provincia de Pastaza">Pastaza</a>, aunque no esté oficialmente conformada, denominada <a href="/wiki/Regi%C3%B3n_Centro_de_Ecuador" class="mw-redirect" title="Región Centro de Ecuador">Región Centro</a>.
+</p><p>Es uno de los más importantes centros administrativos, económicos, financieros y comerciales del centro del Ecuador. El desarrollo de la industria en la provincia, en general, se basó en las destrezas manuales de su habitantes. Las actividades principales de la provincia son el comercio, la ganadería, la industria y la agricultura.
+</p><p>Tuvo distintos períodos migratorios provenientes de la serranía como los panzaleos. Más adelante, fue conquistada por los <a href="/wiki/Inca" title="Inca">incas</a> al mando de <a href="/wiki/Huayna_C%C3%A1pac" title="Huayna Cápac">Huayna Cápac</a>. La colonización española se dio con la fundación española del Asiento de San Vicente Mártir de Latacunga por el primer encomendero español en <a href="/wiki/1534" title="1534">1534</a>. Durante ese período, la entidad máxima y precursora de la provincia sería el <a href="/wiki/Corregimiento_de_Latacunga" title="Corregimiento de Latacunga">corregimiento de Latacunga</a>. Después de la guerra independentista y la anexión de Ecuador a la <a href="/wiki/Gran_Colombia" title="Gran Colombia">Gran Colombia</a>, se crea la <a href="/wiki/Provincia_de_Pichincha" title="Provincia de Pichincha">provincia de Pichincha</a>, el 25 de junio de 1824, en la que dentro de sus límites se encontraba el actual territorio cotopaxense. El <a href="/wiki/1_de_abril" title="1 de abril">1 de abril</a> de <a href="/wiki/1851" title="1851">1851</a>, se crea la novena provincia del país: la provincia de Cotopaxi.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Toponimia">Toponimia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=1" title="Editar sección: Toponimia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La provincia toma el nombre del volcán más grande e importante de su territorio, el <b><a href="/wiki/Volc%C3%A1n_Cotopaxi" title="Volcán Cotopaxi">volcán Cotopaxi</a></b>. <i>Cotopaxi, Cutugphaxsi o Kutupaxi</i>; provienen de <i>kutu</i>, que significa cuello en <a href="/wiki/Idioma_cha%27palaachi" title="Idioma cha&#39;palaachi">idioma cha'palaachi</a>, <i>kutuq</i>, que significa garganta inflamada en <a href="/wiki/Idioma_quechua" class="mw-redirect" title="Idioma quechua">quechua</a>, y <i>phashi</i> que significa luna en <a href="/wiki/Idioma_aimara" title="Idioma aimara">Aimara</a>. Por tanto, Cotopaxi significa <b>Cuello de Luna</b>, donde la letra <i>x</i> representa el fonema <span title="Representación en el Alfabeto Fonético Internacional (IPA o AFI)" class="IPA">/ʃ/</span>.
+</p>
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=2" title="Editar sección: Historia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG/220px-Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG" decoding="async" width="220" height="314" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG/330px-Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG/440px-Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG 2x" data-file-width="2397" data-file-height="3420" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Plano_de_la_Ciudad_de_Latacunga_en_el_siglo_XVIII_-_Colecci%C3%B3n_Particular.JPG" class="internal" title="Aumentar"></a></div>Plano de la Ciudad de Latacunga en el siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVIII</span> - Colección Particular.</div></div></div>
+<p>La fundación española de Latacunga se efectuó por el primer encomendero español en 1534 con el nombre de "Asiento de San Vicente Mártir de Latacunga". En 1539 Gonzalo Pizarro ordena aumentar el número de habitantes, y es en 1584 que se efectúa la fundación definitiva y formal por el Cap. Antonio de Clavijo con el nombre de "San Vicente Mártir de Latacunga y sus corregidores". Luego el 11 de noviembre de 1811 es elevado a la categoría de Villa. Después de la fundación, empezó el reparto de tierras e indios desde Quito, mediante encomiendas, mitas y trabajo forzado en los obrajes. Se establecieron los marquesados: Maenza, Miraflores y Villa Orellana.
+</p><p>Los jesuitas fundaron la primera escuela en 1643. La educación posterior estuvo a cargo de franciscanos, dominicos y agustinos. Por su cercanía a Quito, los nobles reforzaban allá la formación de sus hijos. En 1745 asumió la presidencia de la <a href="/wiki/Real_Audiencia_de_Quito" title="Real Audiencia de Quito">Real Audiencia de Quito</a>, Fernando Sánchez de Orellana, Marqués de Solanda, de Latacunga.
+</p><p>En diciembre de 1808, los marqueses se reunieron en Tilipulo y Salache para preparar el grito de independencia del 10 de agosto de 1809. Luis Fernando Vivero, fue escogido el 9 de octubre de 1820 para secretario de la Junta de Gobierno de Guayaquil.  El 11 de noviembre de 1811, la Junta Superior de Quito elevó a Latacunga a la categoría de Villa. Después de haber apoyado a la <a href="/wiki/Independencia_de_Guayaquil" title="Independencia de Guayaquil">Independencia de Guayaquil</a>; los patriotas de Latacunga, se organizaron durante los primeros días de noviembre; es así como atacan el cuartel realista Fernando Sáenz de Viteri y Felipe Barba; mientras que Lizardo Ruiz y Calixto González del Pino con jóvenes latacungueños, toman la fábrica de pólvora y luego llegan al convento de Santo Domingo, donde estaba el comandante Miguel Morales con una parte del Batallón Los Andes.
+</p><p>Los realistas se encontraban en el techo, desde allí podían fusilar a los patriotas, pero Juan José Linares dio muerte al comandante, logrando la rendición de los españoles. Entre algunos de los patriotas de ese día están: Antonio Tapia, Francisco Salazar, José María Alvear, Josefa Calixto, María Rosa Vela de Páez. Miguel Baca, Francisco Flor, Vicente Viteri Lomas, Luis Pérez de Anda y Mariano Jácome de 16 años de edad, quienes proclamaron la <b>Independencia de Latacunga</b>, que se consolidó con la batalla de Pichincha. El 29 de noviembre de 1822 el Libertador Simón Bolívar llegó a Latacunga.
+</p><p>Con oposición de los quiteños, el 6 de marzo de 1851 los legisladores aprobaron la creación de la <b>Provincia de León</b>, en homenaje a Vicente León con los cantones de Latacunga y Ambato. Objetado por el presidente Diego Noboa el decreto retornó al Congreso, que el 18 de marzo lo confirmó, publicada el 26 de mayo de 1851. El Doctor Miguel Carrión fue el Primer gobernador.  Así bautizada se robusteció con la constitución en 1852 del cantón Pujilí con sus parroquias Zapotal y Quevedo.
+</p>
+<h2><span id="Gobierno_y_pol.C3.ADtica"></span><span class="mw-headline" id="Gobierno_y_política">Gobierno y política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=3" title="Editar sección: Gobierno y política">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Pol.C3.ADtica"></span><span class="mw-headline" id="Política">Política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=4" title="Editar sección: Política">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Prefectos_de_Cotopaxi" title="Anexo:Prefectos de Cotopaxi"> Anexo:Prefectos de Cotopaxi</a></i></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Gobernadores_de_Cotopaxi" title="Anexo:Gobernadores de Cotopaxi"> Anexo:Gobernadores de Cotopaxi</a></i></div>
+<p>La estructura política de Cotopaxi está conformada por el Gobierno Autónomo Descentralizado Provincial denominado comúnmente como «Prefectura», la cual es una <a href="/wiki/Persona_jur%C3%ADdica" title="Persona jurídica">persona jurídica</a> de <a href="/wiki/Derecho_p%C3%BAblico" title="Derecho público">derecho público</a> que goza de autonomía política, administrativa y financiera, y ejerce las funciones ejecutivas, legislativas y de fiscalización dentro de la circunscripción territorial de la provincia.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; La sede de este gobierno seccional está en la ciudad de <a href="/wiki/Latacunga" title="Latacunga">Latacunga</a>, en calidad de capital provincial.
+</p><p>El gobierno provincial está conformada por un prefecto, un viceprefecto y el consejo provincial. El prefecto es la máxima autoridad y representante legal de la función ejecutiva dentro de la provincia y es elegido en binomio junto al viceprefecto por <a href="/wiki/Votaci%C3%B3n_popular" class="mw-redirect" title="Votación popular">votación popular</a> en las urnas.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203; El consejo provincial es el órgano de legislación y fiscalización del gobierno provincial, y está integrado por el prefecto -quien lo preside con voto dirimente-, el viceprefecto, los alcaldes de los siete cantones y siete representantes de los gobiernos de las parroquias rurales.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; En la actualidad, el cargo de prefecta lo ejerce <a href="/wiki/Lourdes_Tib%C3%A1n" title="Lourdes Tibán">Lourdes Tibán</a>, electa para el periodo 2023 - 2027. 
+</p><p>Paralelo al Gobierno Autónomo Descentralizado Provincial de Cotopaxi, el <a href="/wiki/Poder_ejecutivo" title="Poder ejecutivo">poder ejecutivo</a> del <a href="/wiki/Presidente_del_Ecuador" title="Presidente del Ecuador">presidente de la República</a> está representado en la provincia por el <a href="/wiki/Gobernador" title="Gobernador">gobernador</a>. El cargo de gobernador es ocupado por un individuo designado por el presidente de la República, y puede durar en sus funciones indefinidamente mientras así lo decida el primer mandatario del país. Actualmente la gobernadora de la provincia es Tania Vásquez.
+</p>
+<h3><span id="Divisi.C3.B3n_administrativa"></span><span class="mw-headline" id="División_administrativa">División administrativa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=5" title="Editar sección: División administrativa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Cantones_de_la_Provincia_de_Cotopaxi.JPG" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cantones_de_la_Provincia_de_Cotopaxi.JPG/300px-Cantones_de_la_Provincia_de_Cotopaxi.JPG" decoding="async" width="300" height="266" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cantones_de_la_Provincia_de_Cotopaxi.JPG/450px-Cantones_de_la_Provincia_de_Cotopaxi.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fb/Cantones_de_la_Provincia_de_Cotopaxi.JPG 2x" data-file-width="457" data-file-height="405" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Cantones_de_la_Provincia_de_Cotopaxi.JPG" class="internal" title="Aumentar"></a></div>Cantones de Cotopaxi.</div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Alcaldes_de_Cotopaxi" title="Anexo:Alcaldes de Cotopaxi"> Anexo:Alcaldes de Cotopaxi</a></i></div>
+<p>Cotopaxi está dividido en siete <a href="/wiki/Cant%C3%B3n_(entidad_subnacional)" title="Cantón (entidad subnacional)">cantones</a>, que a su vez están conformados por parroquias <a href="/wiki/Espacio_urbano" title="Espacio urbano">urbanas</a> y <a href="/wiki/Rural" class="mw-redirect" title="Rural">rurales</a>. Cada uno de los cantones son administrados a través de una municipalidad y un consejo cantonal, los cuales son elegidos por la población de sus respectivos cantones. La responsabilidad de estos cantones es realizar el mantenimiento de carreteras, administrar los presupuestos del gobierno del estado para programas de asistencia social y económica, y administrar, infraestructuras tales como parques y sistemas de saneamiento básico.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="background: #810541; color: #FFFFFF">
+</th>
+<th style="background: #810541; color: #FFFFFF" width="170">Cantón
+</th>
+<th style="background: #810541; color: #FFFFFF" width="60">Pob. (2010)
+</th>
+<th style="background: #810541; color: #FFFFFF" width="50">Área (km²)
+</th>
+<th style="background: #810541; color: #FFFFFF" width="170">Cabecera Cantonal
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_La_Man%C3%A1.svg" class="image"><img alt="Flag of La Maná.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/20px-Flag_of_La_Man%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/30px-Flag_of_La_Man%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_La_Man%C3%A1.svg/40px-Flag_of_La_Man%C3%A1.svg.png 2x" data-file-width="960" data-file-height="600" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_La_Man%C3%A1" title="Cantón La Maná">La Maná</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">42.216
+</th>
+<th style="background: #FFFFEF; color: #000000">663
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/La_Man%C3%A1" title="La Maná">La Maná</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><span class="flagicon"><a href="/wiki/Archivo:BanderaLatacunga.svg" class="image" title="Bandera de Latacunga"><img alt="Bandera de Latacunga" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/20px-BanderaLatacunga.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/30px-BanderaLatacunga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BanderaLatacunga.svg/40px-BanderaLatacunga.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Latacunga" title="Cantón Latacunga">Latacunga</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">170.489
+</th>
+<th style="background: #FFFFEF; color: #000000">1.377
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Latacunga" title="Latacunga">Latacunga</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Pangua.png" class="image"><img alt="Bandera de Pangua.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/20px-Bandera_de_Pangua.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/30px-Bandera_de_Pangua.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandera_de_Pangua.png/40px-Bandera_de_Pangua.png 2x" data-file-width="837" data-file-height="432" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Pangua" title="Cantón Pangua">Pangua</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">21.965
+</th>
+<th style="background: #FFFFEF; color: #000000">721
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=El_Coraz%C3%B3n_(ciudad)&amp;action=edit&amp;redlink=1" class="new" title="El Corazón (ciudad) (aún no redactado)">El Corazón</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png" class="image"><img alt="Bandera del Cantón Pujilí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/20px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/30px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png/40px-Bandera_del_Cant%C3%B3n_Pujil%C3%AD.png 2x" data-file-width="850" data-file-height="550" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Pujil%C3%AD" title="Cantón Pujilí">Pujilí</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">69.055
+</th>
+<th style="background: #FFFFEF; color: #000000">1.308
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Pujil%C3%AD" class="mw-redirect" title="Pujilí">Pujilí</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Salcedo.png" class="image"><img alt="Bandera de Salcedo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/20px-Bandera_de_Salcedo.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/30px-Bandera_de_Salcedo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_Salcedo.png/40px-Bandera_de_Salcedo.png 2x" data-file-width="800" data-file-height="480" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Salcedo" title="Cantón Salcedo">Salcedo</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">58.216
+</th>
+<th style="background: #FFFFEF; color: #000000">484
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Salcedo_(Ecuador)" class="mw-redirect" title="Salcedo (Ecuador)">Salcedo</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Saquisil%C3%AD.png" class="image"><img alt="Bandera de Saquisilí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/20px-Bandera_de_Saquisil%C3%AD.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/30px-Bandera_de_Saquisil%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bandera_de_Saquisil%C3%AD.png/40px-Bandera_de_Saquisil%C3%AD.png 2x" data-file-width="666" data-file-height="333" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Saquisil%C3%AD" class="mw-redirect" title="Saquisilí">Saquisilí</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">25.320
+</th>
+<th style="background: #FFFFEF; color: #000000">208
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Saquisil%C3%AD" class="mw-redirect" title="Saquisilí">Saquisilí</a>
+</td></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Sigchos.png" class="image"><img alt="Bandera de Sigchos.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/20px-Bandera_de_Sigchos.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/30px-Bandera_de_Sigchos.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bandera_de_Sigchos.png/40px-Bandera_de_Sigchos.png 2x" data-file-width="700" data-file-height="400" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Sigchos" class="mw-redirect" title="Sigchos">Sigchos</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">21.944
+</th>
+<th style="background: #FFFFEF; color: #000000">1.313
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Sigchos" class="mw-redirect" title="Sigchos">Sigchos</a>
+</td></tr></tbody></table>
+<h2><span id="Hidrograf.C3.ADa"></span><span class="mw-headline" id="Hidrografía">Hidrografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=6" title="Editar sección: Hidrografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>El sistema hidrográfico lo constituye el río Cutuchi que nace en el Cotopaxi, está formado a su vez por los ríos Manzanahuayco y Rumiñahui; el sistema lo complementan el Yanayacu, Nagsiche, Chalupas, Illuchi, Patoa, Pumacunchi y Quindigua.
+</p>
+<h2><span class="mw-headline" id="Turismo">Turismo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=7" title="Editar sección: Turismo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Latacunga">Latacunga</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=8" title="Editar sección: Latacunga">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Latacunga" title="Latacunga"> Latacunga</a></i></div>
+<style data-mw-deduplicate="TemplateStyles:r149591075/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tleft"><div class="thumbinner" style="width:224px;max-width:224px"><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/Archivo:FIESTA_DE_LA_MAMA_NEGRA_(26394583569).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg/220px-FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg" decoding="async" width="220" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg/330px-FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg/440px-FIESTA_DE_LA_MAMA_NEGRA_%2826394583569%29.jpg 2x" data-file-width="5268" data-file-height="3456" /></a></div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/Archivo:FIESTA_DE_LA_MAMA_NEGRA_(38115162706).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg/220px-FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg" decoding="async" width="220" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg/330px-FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg/440px-FIESTA_DE_LA_MAMA_NEGRA_%2838115162706%29.jpg 2x" data-file-width="5208" data-file-height="3456" /></a></div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/Archivo:FIESTA_DE_LA_MAMA_NEGRA_(26394742619).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg/220px-FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg" decoding="async" width="220" height="141" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg/330px-FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg/440px-FIESTA_DE_LA_MAMA_NEGRA_%2826394742619%29.jpg 2x" data-file-width="5232" data-file-height="3348" /></a></div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/Archivo:FIESTA_DE_LA_MAMA_NEGRA_(38139245452).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg/220px-FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg" decoding="async" width="220" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg/330px-FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg/440px-FIESTA_DE_LA_MAMA_NEGRA_%2838139245452%29.jpg 2x" data-file-width="4824" data-file-height="3456" /></a></div></div></div><div class="trow" style="display:flow-root"><div class="thumbcaption" style="text-align:left;background-color:transparent">La <a href="/wiki/Mama_Negra" title="Mama Negra">Mama Negra</a>, fiesta simbólica de Latacunga, junto a sus principales personajes.</div></div></div></div>
+<p><b>Latacunga</b> es la capital de la provincia de <a href="/wiki/Cotopaxi_(provincia)" class="mw-redirect" title="Cotopaxi (provincia)">Cotopaxi</a> y cabecera cantonal del cantón homónimo. Se encuentra en la Sierra central del país, en las estribaciones de la cordillera de los <a href="/wiki/Cordillera_de_los_Andes" title="Cordillera de los Andes">Andes</a> en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, cerca del volcán <a href="/wiki/Cotopaxi_(volc%C3%A1n)" class="mw-redirect" title="Cotopaxi (volcán)">Cotopaxi</a> en la hoya de Patate. Se encuentra a 2919 metros sobre el nivel del mar y tiene una temperatura promedio de 12 grados Celsius.
+</p><p>La ciudad de Latacunga ofrece múltiples destinos turísticos de diversa índole (naturaleza, cultura, gastronomía, historia, etc.), dentro de la ciudad y en sus alrededores.
+</p>
+<ul><li><b>Catedral:</b> Empezó a construirse a mediados del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVII</span> con una gran nave y crucero con cúpula octogonal es de estilo románico. A fines del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XIX</span> se construyó el torreón de arquerías románicas y un remate islámico. En su altar de piedra pómez se aprecian piezas de la imaginería colonial. Se encuentra en las calles: Quito y General Mldonado.<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<ul><li><b>Iglesia de El Salto:</b> Tiene una nave y torres gemelas, asentada de norte a sur, fue hecha a finales del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XIX</span> y terminada a mediados del <span style="font-variant:small-caps;text-transform:lowercase">XX</span>. Se ubica entre las calles: Juan Abel Echeverría y Antonio Clavijo, junto a la plaza de El Salto.<sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<ul><li><b>Iglesia de La Merced:</b> Empezó como capilla en 1640, está construida sobre un plano de Cruz Latina, de una nave con dos cruceros, realza una artística cúpula. En 1949, por el terremoto de Ambato, la torre cayó sobre la puerta principal, siendo reconstruida, pero perdió su estructura original. Se encuentra entre las calles: Juan Abel Echeverría, y Quijano y Ordóñez.<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<ul><li><b>Iglesia de San Agustín:</b> De influencia neoclásica muestra columnas circulares con capitel jónico con su terminado en cornisa. La piedra pómez sirve para informar de agilidad a las pilastras que soportan los arcos en los dos pisos. En 1820, el convento estuvo ocupado por fuerzas militares españolas, sirviendo de cuartel a una fracción del Batallón "Los Andes". Esta entre las calles Hermanas Páez y Quito.<sup id="cite_ref-8" class="reference separada"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<ul><li><b>Iglesia de San Francisco:</b> Su construcción empezó en 1600 y culminó en 1693, pero en 1698 la iglesia quedó en ruinas por el terremoto. Está ubicada en la calle General Manuel Maldonado y Quijano y Ordóñez.</li></ul>
+<ul><li><b>Iglesia de San Sebastián:</b> Se ubica en la calle Josefa Calixto, entre Juan Abel Echeverría e Isla San Bartolomé.</li>
+<li><b>Iglesia de San Felipe</b></li>
+<li><b>Iglesia de Santo Domingo</b></li></ul>
+<ul><li><b>Molinos de Monserrat</b>: construidos en 1756, como un obraje colonial, actualmente constituye un centro cultural múltiple, en sus instalaciones se halla el Museo Arqueológico (con reliquias culturales preincásicas) el Museo Folklórico (indumentaria, instrumentos y conjuntos referentes a diferentes manifestaciones de la cultura popular). Y la instalación de la pinacoteca con obras de <a href="/w/index.php?title=Tabara_pintor_ecuatoriano&amp;action=edit&amp;redlink=1" class="new" title="Tabara pintor ecuatoriano (aún no redactado)">Tabara</a>, <a href="/w/index.php?title=Guerrera_pintor_ecuatoriano&amp;action=edit&amp;redlink=1" class="new" title="Guerrera pintor ecuatoriano (aún no redactado)">Guerrera</a>, <a href="/wiki/Oswaldo_Guayasam%C3%ADn" title="Oswaldo Guayasamín">Guayasamin</a>, <a href="/w/index.php?title=Rom%C3%A1n_pintor_ecuatoriano&amp;action=edit&amp;redlink=1" class="new" title="Román pintor ecuatoriano (aún no redactado)">Román</a></li></ul>
+<ul><li><b>Palacio municipal</b>: edificio oficial, sede del ayuntamiento, construido entre 1910 y 1936 en <a href="/wiki/Piedra_p%C3%B3mez" class="mw-redirect" title="Piedra pómez">piedra pómez</a> con influencia dórica y elementos corintios con decoraciones murales que reflejan eventos patrióticos.</li></ul>
+<ul><li><b><a href="/w/index.php?title=Casa_de_los_Marqueses_(Latacunga_Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Casa de los Marqueses (Latacunga Ecuador) (aún no redactado)">Casa de los Marqueses de Miraflores</a></b>: construida en la primera mitad del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVIII</span>, entre sus varios propietarios destaca el latacungueño Ignacio Flores, Marqués de Miraflores y Presidente de la Real Audiencia de Charcas (hoy Bolivia) en 1782. En su construcción se aprecian bóvedas talladas en piedra pómez con hermosos arabescos y mudéjares. En la actualidad funciona el Depto. De Cultura y Relaciones Públicas del Cabildo, pequeños museos folklóricos, cívicos e históricos y biblioteca “Simón Bolívar”.</li></ul>
+<ul><li><b>Hacienda de Tilipulo</b>: originalmente construida como un obraje de explotación comunitaria en 1540 actualmente es una instalación arquitectónica con influencias religiosas que resumen varios aspectos de la historia local.</li></ul>
+<h4><span class="mw-headline" id="Fiesta_de_la_Mama_Negra">Fiesta de la Mama Negra</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=9" title="Editar sección: Fiesta de la Mama Negra">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Esta fiesta se lleva a cabo a finales de septiembre, los días 23 y 24, día del equinoccio de otoño, y que la Iglesia Católica conmemora a la Virgen de la Merced; además se celebra por las fiestas de independencia de la ciudad, el <a href="/wiki/11_de_noviembre" title="11 de noviembre">11 de noviembre</a>. Es un sincretismo religioso que goza de mucho colorido, alegría y desorden público, pues los miles de turistas nacionales y extranjeros que llegan a esta gran fiesta no sólo deleitan sus sentidos con la música, los disfraces y el baile de las comparsas que conforman este festejo, sino del licor que es repartido a cuantos lo pidan. Pese a este detalle, la fiesta se vive como la representatividad del puro folclor nacional.
+</p><p>Latacunga, ciudad incrustada en medio de los Andes ecuatorianos, en América del Sur, guarda en su seno una manifestación socio cultural y folclórica única, la Comparsa de la Mama Negra, también llamada la Santísima Tragedia o la Fiesta de la Capitanía.
+</p><p>Su origen se pierde en la historia, en una mezcla de manifestaciones populares mestizas: paganas y religiosas, aborígenes, africanas y españolas; las mismas que con sus personajes, ritos, atuendos, música y baile dan vida y perdura en el tiempo tan singular expresión de los sentimientos del pueblo, rememorados cada año desde el S. XVII.  En el S. XXI es una celebración en la que se rinde homenaje a la Virgen de la Merced a quien conceden según cuenta la tradición,  la gratitud y reconocimiento por la protección en uno de los procesos eruptivos del Volcán activo más alto del planeta, el Cotopaxi.
+</p><p>El 31 de octubre de 2005 el Instituto Nacional de Patrimonio Cultural acuerda "Declarar como bien perteneciente al Patrimonio Cultural Inmaterial del Estado, a la fiesta de la Mama Negra o fiesta de la Capitanía".
+</p>
+<h3><span class="mw-headline" id="Parque_nacional_Cotopaxi">Parque nacional Cotopaxi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=10" title="Editar sección: Parque nacional Cotopaxi">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Parque_nacional_Cotopaxi" title="Parque nacional Cotopaxi"> Parque nacional Cotopaxi</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Volc%C3%A1n_Cotopaxi_(2015).jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Volc%C3%A1n_Cotopaxi_%282015%29.jpg/300px-Volc%C3%A1n_Cotopaxi_%282015%29.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Volc%C3%A1n_Cotopaxi_%282015%29.jpg/450px-Volc%C3%A1n_Cotopaxi_%282015%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Volc%C3%A1n_Cotopaxi_%282015%29.jpg/600px-Volc%C3%A1n_Cotopaxi_%282015%29.jpg 2x" data-file-width="3543" data-file-height="2362" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Volc%C3%A1n_Cotopaxi_(2015).jpg" class="internal" title="Aumentar"></a></div>Volcán Cotopaxi en proceso eruptivo.</div></div></div>
+<p>El <b>Parque nacional Cotopaxi</b> es un <a href="/wiki/%C3%81rea_protegida" title="Área protegida">área protegida</a> de <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a> situada en el límite de las provincias de <a href="/wiki/Provincia_de_Pichincha" title="Provincia de Pichincha">Pichincha</a>, <a href="/wiki/Cotopaxi_(provincia)" class="mw-redirect" title="Cotopaxi (provincia)">Cotopaxi</a> y <a href="/wiki/Provincia_de_Napo" title="Provincia de Napo">Napo</a> en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, y que incluye en su espacio al <a href="/wiki/Volc%C3%A1n_Cotopaxi" title="Volcán Cotopaxi">Volcán Cotopaxi</a>.
+</p><p>Su ecosistema alberga varias especies arborícolas, sobre todo de <a href="/wiki/Pinus" title="Pinus">pinos</a>, lo que convierte al lugar en un sitio único en Sudamérica ya que recuerda más a un bosque alpino que a un bosque de los <a href="/wiki/Andes" class="mw-redirect" title="Andes">Andes</a>.
+</p><p>El Parque, está comunicado con <a href="/wiki/Quito" title="Quito">Quito</a> y <a href="/wiki/Latacunga" title="Latacunga">Latacunga</a> por la <a href="/wiki/Carretera_Panamericana" title="Carretera Panamericana">carretera Panamericana</a>, de cuatro carriles, que permite el viaje desde <a href="/wiki/Quito" title="Quito">Quito</a>  al parque entrada norte en aproximadamente una hora y cuarto. Y desde la entrada sur vía Lasso <a href="/wiki/Latacunga" title="Latacunga">Latacunga</a> se permite la entrada en aproximadamente cuarenta minutos. Una alternativa es el tren, que parte igualmente desde Quito, y que tarda una hora y media en llegar a la estación "El Boliche" del parque en <a href="/wiki/Latacunga" title="Latacunga">Latacunga</a>, otra alternativa sería ingresando a la ciudad de Machachi, dirigiéndose al Barrio Santa Ana del Pedregal, en donde pueden visitar algunas hosterías.
+</p><p>Su altitud varia desde  3400- 5897 metros sobre el nivel del mar. Su temperatura varía de 0 a 20 grados Celsius; con un promedio anual de precipitaciones de 500 a 1500 mm
+</p><p>Quedan muchos bosques tupidos ya que el resto ha sido destruido por incendios o para sembrar gramíneas. existen páramos extensos con paja de páramo que es la gramínea predominante en la región a medida que se asciende aparecen plantas representativas como chuquiragua, alchemila, colonias de plantas en forma de almohadillas , musgos, líquenes, romelio, quishuar o árbol de dios, mortiño. que es un fruto duro muy utilizado; en la nieves perpetuadas no existe vegetación.
+</p><p>Fauna: lobos, <a href="/wiki/Puma" class="mw-redirect" title="Puma">pumas</a>, osos, venados, conejos, cóndores, caballos salvajes y zorros.
+Geología: lagunas naturales, senderos, nevado Cotopaxi.
+Infraestructura: cabañas, centro de alta montaña, centro de acampado, centro de viajeros, refugios de montañistas.
+Arqueología: Ruinas de ciudadela de los <a href="/wiki/Puruh%C3%A1es" class="mw-redirect" title="Puruháes">puruháes</a>.
+Astronomía: <a href="/wiki/CLIRSEN" class="mw-redirect" title="CLIRSEN">Centro de Levantamientos Integrados de Recursos Naturales por Sensores Remotos (CLIRSEN)</a>
+</p>
+<h3><span id="Volc.C3.A1n_Quilotoa"></span><span class="mw-headline" id="Volcán_Quilotoa">Volcán Quilotoa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=11" title="Editar sección: Volcán Quilotoa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/Archivo:Quilotoa_crater_lake,_Ecuador,_Jan_2010.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg/400px-Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg" decoding="async" width="400" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg/600px-Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg/800px-Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg 2x" data-file-width="3446" data-file-height="1426" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Quilotoa_crater_lake,_Ecuador,_Jan_2010.jpg" class="internal" title="Aumentar"></a></div>Cráter del Quilotoa</div></div></div>
+<p><a href="/wiki/Quilotoa" title="Quilotoa">Quilotoa</a> es una caldera llena de agua y el volcán más occidental de los Andes ecuatorianos. Los 3 kilómetros de ancho caldera se formó por el colapso de este volcán dacita después de una catastrófica erupción <a href="/wiki/%C3%8Dndice_de_explosividad_volc%C3%A1nica" title="Índice de explosividad volcánica">VEI-6</a> hace unos 800 años, lo que produjo flujos piroclásticos y lahares que alcanzaron el Océano Pacífico, y se extendió en el aire un depósito de ceniza volcánica a lo largo de los Andes del Norte. La caldera ha acumulado una profundidad de 250 m del lago del cráter, que tiene un color verdoso, como resultado de los minerales disueltos. Fumarolas se encuentran en el fondo del lago y las aguas termales se producen en el flanco oriental del volcán.
+</p><p>Quilotoa es un sitio turístico de creciente popularidad. La ruta de la "cumbre" (el pequeño pueblo de Quilotoa) es generalmente viajada en un camión contratado o en autobús desde la localidad de Zumbahua a 17 km al sur. Los visitantes deben pagar dos dólares, cada uno a mirar desde el borde de la caldera. Una serie de Hostales simples se han desarrollado en el área inmediata, y ofrecen servicios tales como mulas y guías para la caminata de cinco horas alrededor de la caldera (cuyo diámetro es de unos 9 km), media hora de caminata hacia abajo (y 02.01 horas de caminata de regreso hasta el ascenso de 400 metros verticales), y el alojamiento muy básico en su cuenco. Se permite acampar en la parte inferior del cráter, pero no hay agua potable (excepto botellas de medio litro vendidas en el albergue), y sólo un inodoro que es solo un pozo, ubicado en el albergue.<sup id="cite_ref-9" class="reference separada"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span id="Otros_lugares_tur.C3.ADsticos"></span><span class="mw-headline" id="Otros_lugares_turísticos">Otros lugares turísticos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=12" title="Editar sección: Otros lugares turísticos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Laguna de Yambo</li>
+<li>Feria de Saquisilí</li>
+<li>El Cerro Callo</li>
+<li>Las Ruinas de Pachusala</li>
+<li>El Tambo Mulaló</li>
+<li>Los helados típicos de Salcedo</li></ul>
+<h3><span id="Comidas_T.C3.ADpicas"></span><span class="mw-headline" id="Comidas_Típicas">Comidas Típicas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=13" title="Editar sección: Comidas Típicas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Plato de Chugchucaras: consta de carne de cerdo frito, mote (maíz blanco hervido), papas, plátanos fritos, empanadas, palomitas de maíz y cortezas de cerdo. Se acompaña de ají, una salsa picante hecha con chiles, tomates, cilantro y cebolla.
+</p><p>Llapingachos: patatas cocinadas, puré de alrededor de un centro de queso que se sirve generalmente con carne de cerdo al horno o frito. Generalmente se sirve con aguacate, chorizo, huevo frito, tomate y ensalada de lechuga a un lado.
+</p><p>Allullas: son preparadas con harina de trigo, la cual es cocida con manteca pura de chancho y huevos son muy crocantes.
+</p><p>Helados de Salcedo: son elaborados a base del jugo de frutas frescas, especialmente de coco, frutilla, mora, naranjilla, aguacate, mango, guanábana, papaya, etc.
+</p><p>Cuy Asado (Saquisilí): comprende un cuy (adobado y asado al carbón), acompañado de papas cocidas con lechuga, tomate y zarza (similar a un estofado que tiene cebolla larga, leche, maní, entre otros.)
+</p>
+<h2><span id="Demograf.C3.ADa"></span><span class="mw-headline" id="Demografía">Demografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=14" title="Editar sección: Demografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Laguna_del_Quilotoa_(9)_(22883529232).jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg/300px-Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg/450px-Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg/600px-Laguna_del_Quilotoa_%289%29_%2822883529232%29.jpg 2x" data-file-width="4496" data-file-height="3000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Laguna_del_Quilotoa_(9)_(22883529232).jpg" class="internal" title="Aumentar"></a></div>Los provincia es cuna de la nacionalidad indígena Panzaleo.</div></div></div>
+<h3><span id="Datos_demogr.C3.A1ficos"></span><span class="mw-headline" id="Datos_demográficos">Datos demográficos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=15" title="Editar sección: Datos demográficos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Población total: 458.581
+<ul><li>Mujeres: 210.580</li>
+<li>Hombres: 198.625</li></ul></li>
+<li>Población rural: 255.965</li>
+<li>Población indígena (%): 15</li></ul>
+<h3><span id="Indicadores_socio_econ.C3.B3micos"></span><span class="mw-headline" id="Indicadores_socio_económicos">Indicadores socio económicos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=16" title="Editar sección: Indicadores socio económicos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Analfabetismo (%): 21,59
+<ul><li>Analfabetismo mujeres (%): 22.95</li></ul></li>
+<li>Pobreza por NBI (rural) (%): 90,47</li>
+<li>Número de personas sin NBI: 231.573</li>
+<li>Gasto en salud per cápita MSP (U$/habitante año): 36</li></ul>
+<h3><span class="mw-headline" id="Indicadores_sanitarios">Indicadores sanitarios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=17" title="Editar sección: Indicadores sanitarios">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Mortalidad infantil x 1.00 nacidos vivos: 45,90</li>
+<li>Enfermedades diarreicas: 6.925</li>
+<li>Médicos x 10 000 hab.: 11,90</li>
+<li>Enfermeras x 10 000 hab.: 3,40</li>
+<li>Aux. de enfermeras x 10 000 hab.: 7,30</li>
+<li>Camas hospitalarias x 1.00 hab.: 1,1</li></ul>
+<h3><span class="mw-headline" id="Indicadores_de_agua_y_saneamiento">Indicadores de agua y saneamiento</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=18" title="Editar sección: Indicadores de agua y saneamiento">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Agua entubada (rural) (%): 18,78</li>
+<li>Número de viviendas con agua entubada: 10.736</li></ul>
+<h2><span id="Econom.C3.ADa"></span><span class="mw-headline" id="Economía">Economía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=19" title="Editar sección: Economía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cotopaxi tiene un gran número de pobladores indígenas que se dedican a las <a href="/wiki/Sector_agr%C3%ADcola" class="mw-redirect" title="Sector agrícola">labores agrícolas</a>. En Cotopaxi se producen alimentos como el <a href="/wiki/Zea_mays" title="Zea mays">maíz</a>, <a href="/wiki/Hordeum_vulgare" title="Hordeum vulgare">cebada</a>, <a href="/wiki/Solanum_tuberosum" title="Solanum tuberosum">papa</a>, <a href="/wiki/Brassica_oleracea_var._italica" title="Brassica oleracea var. italica">brócoli</a>, <a href="/wiki/Triticum_aestivum" title="Triticum aestivum">trigo</a>, y se cultivan flores para <a href="/wiki/Exportaci%C3%B3n" title="Exportación">exportación</a>(en las zonas templadas), mientras que en zonas más cálidas o subtropicales se cultiva <a href="/wiki/Grano_de_cacao" title="Grano de cacao">cacao</a>, banano, <a href="/wiki/Coffea" title="Coffea">café</a> y <a href="/wiki/Saccharum_officinarum" title="Saccharum officinarum">caña de azúcar</a>, así como algunas frutas tropicales. Grandes extensiones de terreno en esta provincia son destinados a los pastos aptos para el ganado vacuno. Se produce leche, carne y lácteos.
+</p>
+<h2><span class="mw-headline" id="Cotopaxenses_famosos">Cotopaxenses famosos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=20" title="Editar sección: Cotopaxenses famosos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Vicente_Le%C3%B3n" title="Vicente León">Vicente León</a>, jurisconsulto, filántropo (1773-1839)</li>
+<li><a href="/wiki/Alfonso_Rumazo_Gonz%C3%A1lez" title="Alfonso Rumazo González">Alfonso Rumazo González</a>, escritor, historiador, crítico literario (1903-2002)</li>
+<li><a href="/wiki/Alberto_Enr%C3%ADquez_Gallo" title="Alberto Enríquez Gallo">Alberto Enríquez Gallo</a>, Jefe Supremo, militar y político (1894-1962)</li>
+<li><a href="/wiki/Sixto_Vizuete" title="Sixto Vizuete">Sixto Vizuete</a>, entrenador de fútbol (1961-)</li>
+<li><a href="/wiki/Guillermo_Rodr%C3%ADguez_Lara" title="Guillermo Rodríguez Lara">Guillermo Rodríguez Lara</a></li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=21" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Provincias_del_Ecuador" class="mw-redirect" title="Provincias del Ecuador">Provincias del Ecuador</a></li>
+<li><a href="/wiki/Regi%C3%B3n_Interandina_de_Ecuador" class="mw-redirect" title="Región Interandina de Ecuador">Región Interandina de Ecuador</a></li>
+<li><a href="/wiki/Latacunga" title="Latacunga">Latacunga</a></li>
+<li><a href="/wiki/Volc%C3%A1n_Cotopaxi" title="Volcán Cotopaxi">Volcán Cotopaxi</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=22" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2020.xlsx">http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2020.xlsx</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 40</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 49</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 43</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="broken-link"><a rel="nofollow" class="external free" href="http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=148:la-catedral-&amp;catid=96:iglesias">http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=148:la-catedral-&amp;catid=96:iglesias</a></span> <span class="plainlinks" style="background-color: lightyellow; font-size:85%">(<a href="/wiki/Ayuda:C%C3%B3mo_recuperar_un_enlace_roto" title="Ayuda:Cómo recuperar un enlace roto">enlace roto</a> disponible en <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>; véase el <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=148:la-catedral-&amp;catid=96:iglesias">historial</a>, la <a rel="nofollow" class="external text" href="//web.archive.org/web/1/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=148:la-catedral-&amp;catid=96:iglesias">primera versión</a> y la <a rel="nofollow" class="external text" href="//web.archive.org/web/2/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=148:la-catedral-&amp;catid=96:iglesias">última</a>).</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="broken-link"><a rel="nofollow" class="external free" href="http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=147:iglesia-de-el-salto-&amp;catid=96:iglesias">http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=147:iglesia-de-el-salto-&amp;catid=96:iglesias</a></span> <span class="plainlinks" style="background-color: lightyellow; font-size:85%">(<a href="/wiki/Ayuda:C%C3%B3mo_recuperar_un_enlace_roto" title="Ayuda:Cómo recuperar un enlace roto">enlace roto</a> disponible en <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>; véase el <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=147:iglesia-de-el-salto-&amp;catid=96:iglesias">historial</a>, la <a rel="nofollow" class="external text" href="//web.archive.org/web/1/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=147:iglesia-de-el-salto-&amp;catid=96:iglesias">primera versión</a> y la <a rel="nofollow" class="external text" href="//web.archive.org/web/2/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=147:iglesia-de-el-salto-&amp;catid=96:iglesias">última</a>).</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="broken-link"><a rel="nofollow" class="external free" href="http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=149:la-merced&amp;catid=96:iglesias">http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=149:la-merced&amp;catid=96:iglesias</a></span> <span class="plainlinks" style="background-color: lightyellow; font-size:85%">(<a href="/wiki/Ayuda:C%C3%B3mo_recuperar_un_enlace_roto" title="Ayuda:Cómo recuperar un enlace roto">enlace roto</a> disponible en <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>; véase el <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=149:la-merced&amp;catid=96:iglesias">historial</a>, la <a rel="nofollow" class="external text" href="//web.archive.org/web/1/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=149:la-merced&amp;catid=96:iglesias">primera versión</a> y la <a rel="nofollow" class="external text" href="//web.archive.org/web/2/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=149:la-merced&amp;catid=96:iglesias">última</a>).</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="broken-link"><a rel="nofollow" class="external free" href="http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=150:san-agustin&amp;catid=96:iglesias">http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=150:san-agustin&amp;catid=96:iglesias</a></span> <span class="plainlinks" style="background-color: lightyellow; font-size:85%">(<a href="/wiki/Ayuda:C%C3%B3mo_recuperar_un_enlace_roto" title="Ayuda:Cómo recuperar un enlace roto">enlace roto</a> disponible en <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>; véase el <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=150:san-agustin&amp;catid=96:iglesias">historial</a>, la <a rel="nofollow" class="external text" href="//web.archive.org/web/1/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=150:san-agustin&amp;catid=96:iglesias">primera versión</a> y la <a rel="nofollow" class="external text" href="//web.archive.org/web/2/http://www.latacunga.gov.ec/index.php?option=com_content&amp;view=article&amp;id=150:san-agustin&amp;catid=96:iglesias">última</a>).</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vivatravelguides.com/south-america/ecuador/andean-highlands/central-highlands/quilotoa-loop/quilotoa">Viva Quilotoa Travel Guide site visit Jan 31, 2009</a></span>
+</li>
+</ol></div>
+<h2><span id="Bibliograf.C3.ADa"></span><span class="mw-headline" id="Bibliografía">Bibliografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=23" title="Editar sección: Bibliografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span id="CITAREFDeler1983" class="citation libro">Deler, Jean Paul (1983). <i>Geografía histórica:El manejo del espacio en el Ecuador, etapas claves</i>. Geografía básica del Ecuador (Jean Paul Deler; Nelson Gómez; Michel Portais. edición). Quito - Ecuador: Centro Ecuatoriano de Investigación Geográfica.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProvincia+de+Cotopaxi&amp;rft.au=Deler%2C+Jean+Paul&amp;rft.aufirst=Jean+Paul&amp;rft.aulast=Deler&amp;rft.btitle=Geograf%C3%ADa+hist%C3%B3rica%3AEl+manejo+del+espacio+en+el+Ecuador%2C+etapas+claves&amp;rft.date=1983&amp;rft.edition=Jean+Paul+Deler%3B+Nelson+G%C3%B3mez%3B+Michel+Portais.&amp;rft.genre=book&amp;rft.place=Quito+-+Ecuador&amp;rft.pub=Centro+Ecuatoriano+de+Investigaci%C3%B3n+Geogr%C3%A1fica&amp;rft.series=Geograf%C3%ADa+b%C3%A1sica+del+Ecuador&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFSaransig2009" class="citation libro">Saransig, Julio (2009). <i>Los territorios indígenas dentro de un estado nación</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProvincia+de+Cotopaxi&amp;rft.au=Saransig%2C+Julio&amp;rft.aufirst=Julio&amp;rft.aulast=Saransig&amp;rft.btitle=Los+territorios+ind%C3%ADgenas+dentro+de+un+estado+naci%C3%B3n&amp;rft.date=2009&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFSaransig_Picuasi2011" class="citation libro">Saransig Picuasi, Julio (2011).  Instituto de Idiomas, Ciencias y Saberes Ancestrales del Ecuador IICSAE Ministerio de Educación, ed. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161105101708/http://saransig.s5.com/"><i>Toponimias y heráldica Andina en el Ordenamiento Territorial tomado de la Tesis Aportes al Ordenamiento Territorial desde la Cosmovisión de los Pueblos Originarios, PUCE Quito</i></a> (Ensayo de investigación edición). Quito - Ecuador: IICSAE. Archivado desde <a rel="nofollow" class="external text" href="http://saransig.s5.com">el original</a> el 5 de noviembre de 2016.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProvincia+de+Cotopaxi&amp;rft.au=Saransig+Picuasi%2C+Julio&amp;rft.aufirst=Julio&amp;rft.aulast=Saransig+Picuasi&amp;rft.btitle=Toponimias+y+her%C3%A1ldica+Andina+en+el+Ordenamiento+Territorial+tomado+de+la+Tesis+Aportes+al+Ordenamiento+Territorial+desde+la+Cosmovisi%C3%B3n+de+los+Pueblos+Originarios%2C+PUCE+Quito&amp;rft.date=2011&amp;rft.edition=Ensayo+de+investigaci%C3%B3n&amp;rft.genre=book&amp;rft.place=Quito+-+Ecuador&amp;rft.pub=IICSAE&amp;rft_id=http%3A%2F%2Fsaransig.s5.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li></ul>
+<h2><span id="Centros_de_informaci.C3.B3n_disponibles"></span><span class="mw-headline" id="Centros_de_información_disponibles">Centros de información disponibles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=24" title="Editar sección: Centros de información disponibles">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Biblioteca de la Pontificia Universidad Católica del Ecuador, sede Quito.</li>
+<li>Biblioteca del Banco Central del Ecuador, sede Quito.</li>
+<li>Biblioteca Benjamín Carrión, Casa de la Cultura Ecuatoriana, sede Quito.</li>
+<li>Biblioteca CODENPE, sede Quito.</li>
+<li>Biblioteca de la Universidad Salesiana Abyayala, sede Quito.</li>
+<li>Biblioteca de la Universidad Intercultural de las Nacionalidades y Pueblos Indígenas Amawtay Wasi, sede chakra Conocoto, Quito, .</li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Cotopaxi&amp;action=edit&amp;section=25" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Provincia" class="extiw" title="commons:Category:Provincia">Provincia de Cotopaxi</a></b>.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171115015422/https://turismo593.com/ecuador/cotopaxi/">Turismo593 Guía Turística no oficial del Ecuador - Cotopaxi - alojamiento, lugares turísticos y más...</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q241140" class="extiw" title="wikidata:Q241140">Q241140</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Cotopaxi_Province">Cotopaxi Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q241140%22">Q241140</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Francia" title="Biblioteca Nacional de Francia">BNF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb160286469">160286469</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb160286469">(data)</a></span></li>
+<li><b>Lugares</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/OpenStreetMap" title="OpenStreetMap">OSM</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/relation/963072">963072</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Getty_Thesaurus_of_Geographic_Names" class="mw-redirect" title="Getty Thesaurus of Geographic Names">TGN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://vocab.getty.edu/page/tgn/1001211">1001211</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q241140" class="extiw" title="wikidata:Q241140">Q241140</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Cotopaxi_Province">Cotopaxi Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q241140%22">Q241140</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1436
+Cached time: 20230707173931
+Cache expiry: 22830
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.457 seconds
+Real time usage: 0.717 seconds
+Preprocessor visited node count: 7073/1000000
+Post‐expand include size: 65488/2097152 bytes
+Template argument size: 7673/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11812/5000000 bytes
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 5307811/52428800 bytes
+Number of Wikibase entities loaded: 5/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  483.950      1 -total
+ 65.44%  316.695      1 Plantilla:Ficha_de_entidad_subnacional
+ 61.88%  299.472      1 Plantilla:Ficha
+ 24.86%  120.319     27 Plantilla:Propiedad
+ 18.04%   87.306      1 Plantilla:Control_de_autoridades
+  5.67%   27.422      3 Plantilla:Cita_libro
+  4.69%   22.691      1 Plantilla:Coord
+  3.40%   16.477     18 Plantilla:Ambas
+  3.21%   15.515      1 Plantilla:Listaref
+  2.94%   14.240      1 Plantilla:Bandera2
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:188066-0!canonical and timestamp 20230707173931 and revision id 152232116. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Provincia_de_Cotopaxi&amp;oldid=152232116">https://es.wikipedia.org/w/index.php?title=Provincia_de_Cotopaxi&amp;oldid=152232116</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Cotopaxi_(provincia)" title="Categoría:Cotopaxi (provincia)">Cotopaxi (provincia)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_enlaces_externos_rotos" title="Categoría:Wikipedia:Artículos con enlaces externos rotos">Wikipedia:Artículos con enlaces externos rotos</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_por_trasladar_a_Wikidata" title="Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata">Wikipedia:Artículos con datos por trasladar a Wikidata</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_ficha_sin_actualizar" title="Categoría:Wikipedia:Artículos con ficha sin actualizar">Wikipedia:Artículos con ficha sin actualizar</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_sin_imagen_en_entidad_subnacional" title="Categoría:Wikipedia:Artículos sin imagen en entidad subnacional">Wikipedia:Artículos sin imagen en entidad subnacional</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNF" title="Categoría:Wikipedia:Artículos con identificadores BNF">Wikipedia:Artículos con identificadores BNF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_Relaci%C3%B3n_OSM" title="Categoría:Wikipedia:Artículos con identificadores Relación OSM">Wikipedia:Artículos con identificadores Relación OSM</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_TGN" title="Categoría:Wikipedia:Artículos con identificadores TGN">Wikipedia:Artículos con identificadores TGN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:P%C3%A1ginas_con_mapas" title="Categoría:Wikipedia:Páginas con mapas">Wikipedia:Páginas con mapas</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 2 jul 2023 a las 23:21.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución Compartir Igual 4.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//foundation.wikimedia.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Provincia_de_Cotopaxi&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="cdx-button cdx-button--icon-only vector-limited-width-toggle"
+	><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1385","wgBackendResponseTime":104,"wgKartographerLiveData":{"_c960a1c19ef043fa8ff37590f7822daddb54cdf8":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q241140","properties":{"fill-opacity":0.1,"title":"geoshape1","fill":"#4D87CA"}}]},"wgPageParseReport":{"limitreport":{"cputime":"0.457","walltime":"0.717","ppvisitednodes":{"value":7073,"limit":1000000},"postexpandincludesize":{"value":65488,"limit":2097152},"templateargumentsize":{"value":7673,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11812,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  483.950      1 -total"," 65.44%  316.695      1 Plantilla:Ficha_de_entidad_subnacional"," 61.88%  299.472      1 Plantilla:Ficha"," 24.86%  120.319     27 Plantilla:Propiedad"," 18.04%   87.306      1 Plantilla:Control_de_autoridades","  5.67%   27.422      3 Plantilla:Cita_libro","  4.69%   22.691      1 Plantilla:Coord","  3.40%   16.477     18 Plantilla:Ambas","  3.21%   15.515      1 Plantilla:Listaref","  2.94%   14.240      1 Plantilla:Bandera2"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":5307811,"limit":52428800}},"cachereport":{"origin":"mw1436","timestamp":"20230707173931","ttl":22830,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de Cotopaxi","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_Cotopaxi","sameAs":"http:\/\/www.wikidata.org\/entity\/Q241140","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q241140","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-05T17:58:07Z","dateModified":"2023-07-02T23:21:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de Cotopaxi","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_Cotopaxi","sameAs":"http:\/\/www.wikidata.org\/entity\/Q241140","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q241140","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-05T17:58:07Z","dateModified":"2023-07-02T23:21:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Cotopaxi_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script>
+</body>
+</html>

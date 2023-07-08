@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Provincia de Manabí - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )eswikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"6c49122b-cb1a-4d43-8353-14c9fd633ecd",
+"wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Provincia_de_Manabí","wgTitle":"Provincia de Manabí","wgCurRevisionId":152292963,"wgRevisionId":152292963,"wgArticleId":175189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos con ficha sin actualizar","Wikipedia:Artículos con identificadores BNF","Wikipedia:Artículos con identificadores GND","Wikipedia:Artículos con identificadores Relación OSM","Wikipedia:Artículos con identificadores TGN","Wikipedia:Páginas con mapas","Manabí"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Provincia_de_Manabí","wgRelevantArticleId":175189,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{
+"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"español","wgCoordinates":{"lat":-0.75,"lon":-80.083333333333},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q504666","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready",
+"skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","ext.tmh.player.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","ext.tmh.player","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.16">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/1200px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1291">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/800px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="861">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/640px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="689">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Provincia de Manabí - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Provincia_de_Manab%C3%AD">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Provincia_de_Manab%C3%AD">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Provincia_de_Manabí rootpage-Provincia_de_Manabí skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Menú principal"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">En Wikipedia, los enlaces de idiomas se encuentran en la parte superior de la página, frente al título del artículo. <a href="#p-lang-btn">Ir arriba</a>.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="La enciclopedia libre"
+			src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar"
+	
+		id=""
+		class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+		title="Buscar en este wiki [f]"accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							
+						>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Herramientas personales" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Manab%C3%AD" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Manab%C3%AD" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas personales"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Manab%C3%AD" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Manab%C3%AD" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Toponimia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Toponimia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Toponimia</div>
+		</a>
+		
+		<ul id="toc-Toponimia-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Historia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Historia</div>
+		</a>
+		
+		<ul id="toc-Historia-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Geografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Geografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Geografía</div>
+		</a>
+		
+			<button aria-controls="toc-Geografía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Geografía</span>
+			</button>
+		
+		<ul id="toc-Geografía-sublist" class="vector-toc-list">
+			<li id="toc-Relieve"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Relieve">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Relieve</div>
+			</a>
+			
+			<ul id="toc-Relieve-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Perfil_costanero"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Perfil_costanero">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Perfil costanero</div>
+			</a>
+			
+			<ul id="toc-Perfil_costanero-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Hidrografía"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hidrografía">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Hidrografía</div>
+			</a>
+			
+			<ul id="toc-Hidrografía-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Clima"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Clima">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>Clima</div>
+			</a>
+			
+			<ul id="toc-Clima-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Gobierno_y_política"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gobierno_y_política">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Gobierno y política</div>
+		</a>
+		
+			<button aria-controls="toc-Gobierno_y_política-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Gobierno y política</span>
+			</button>
+		
+		<ul id="toc-Gobierno_y_política-sublist" class="vector-toc-list">
+			<li id="toc-Política"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Política">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Política</div>
+			</a>
+			
+			<ul id="toc-Política-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-División_administrativa"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#División_administrativa">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>División administrativa</div>
+			</a>
+			
+			<ul id="toc-División_administrativa-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Turismo"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Turismo">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Turismo</div>
+		</a>
+		
+		<ul id="toc-Turismo-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Demografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Demografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Demografía</div>
+		</a>
+		
+			<button aria-controls="toc-Demografía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Demografía</span>
+			</button>
+		
+		<ul id="toc-Demografía-sublist" class="vector-toc-list">
+			<li id="toc-Composición_(Según_el_censo_de_2010)[5]​"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Composición_(Según_el_censo_de_2010)[5]​">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Composición (Según el censo de 2010)<sup><span>[</span>5<span>]</span></sup>&#8203;</div>
+			</a>
+			
+			<ul id="toc-Composición_(Según_el_censo_de_2010)[5]​-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Cultura_gastronómica"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Cultura_gastronómica">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Cultura gastronómica</div>
+		</a>
+		
+		<ul id="toc-Cultura_gastronómica-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Dialectos_y_estructura_lingüística"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Dialectos_y_estructura_lingüística">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Dialectos y estructura lingüística</div>
+		</a>
+		
+		<ul id="toc-Dialectos_y_estructura_lingüística-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Tabla de contenidos">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Cambiar a la tabla de contenidos</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Cambiar a la tabla de contenidos"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Provincia de Manabí</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-dropdown-checkbox mw-interlanguage-selector"
+		aria-label="Ir a un artículo en otro idioma. Disponible en 45 idiomas"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-45"
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-dropdown-label-text">45 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D9%85%D8%A7%D9%86%D8%A7%D8%A8%D9%8A" title="مقاطعة مانابي (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%B1%D1%96_(%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F)" title="Манабі (правінцыя) (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%B1%D1%96" title="Манабі (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%B1%D0%B8" title="Манаби (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Provi%C3%B1s_Manab%C3%AD" title="Proviñs Manabí (bretón)" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Prov%C3%ADncia_de_Manab%C3%AD" title="Província de Manabí (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Provincia_de_Manab%C3%AD" title="Provincia de Manabí (cebuano)" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Manab%C3%AD_(provincie)" title="Manabí (provincie) (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Provinz_Manab%C3%AD" title="Provinz Manabí (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Manab%C3%AD_Province" title="Manabí Province (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Provinco_Manab%C3%AD" title="Provinco Manabí (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Manab%C3%AD_probintzia" title="Manabí probintzia (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7%D9%86%D8%A7%D8%A8%DB%8C" title="استان مانابی (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Manab%C3%AD_(Prowins)" title="Manabí (Prowins) (frisón septentrional)" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Manab%C3%AD_tartom%C3%A1ny" title="Manabí tartomány (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%B6%D5%A1%D5%A2%D5%AB_(%D5%BA%D6%80%D5%B8%D5%BE%D5%AB%D5%B6%D6%81%D5%AB%D5%A1)" title="Մանաբի (պրովինցիա) (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Provinsi_Manab%C3%AD" title="Provinsi Manabí (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Provincia_di_Manab%C3%AD" title="Provincia di Manabí (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8A%E3%83%93%E7%9C%8C" title="マナビ県 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%9C%E1%83%90%E1%83%91%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="მანაბის პროვინცია (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%EB%82%98%EB%B9%84%EC%A3%BC" title="마나비주 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lad mw-list-item"><a href="https://lad.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (ladino)" lang="lad" hreflang="lad" class="interlanguage-link-target"><span>Ladino</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Manabi_provincija" title="Manabi provincija (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pentadbiran_Manab%C3%AD" title="Pentadbiran Manabí (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Prowincja_Manab%C3%AD" title="Prowincja Manabí (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D9%85%D8%A7%D9%86%D8%A7%D8%A8%DB%8C" title="صوبہ مانابی (Western Punjabi)" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Manawi_marka" title="Manawi marka (quechua)" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%B1%D0%B8" title="Манаби (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Manab%C3%AD_Province" title="Manabí Province (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/Manab%C3%AD_(provinsa)" title="Manabí (provinsa) (sami septentrional)" lang="se" hreflang="se" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Manab%C3%AD_Province" title="Manabí Province (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Manab%C3%AD_(provincia)" title="Manabí (provincia) (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Manab%C3%AD_(il)" title="Manabí (il) (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%B1%D1%96" title="Манабі (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%A7%D9%86%D8%A7%D8%A8%DB%8C_%D8%B5%D9%88%D8%A8%DB%81" title="مانابی صوبہ (urdu)" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Manab%C3%AD" title="Manabí (waray)" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E9%A9%AC%E7%BA%B3%E6%AF%94%E7%9C%81" title="马纳比省 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E7%BA%B3%E6%AF%94%E7%9C%81" title="马纳比省 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Manab%C3%AD_S%C3%A9ng" title="Manabí Séng (chino min nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q504666#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_Manab%C3%AD" title="Ver la página de contenido [c]" accesskey="c" class=""><span>Artículo</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Discusi%C3%B3n:Provincia_de_Manab%C3%AD" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t" class=""><span>Discusión</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-dropdown-checkbox"
+		aria-label="Cambiar variante de idioma"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-dropdown-label "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_Manab%C3%AD" class=""><span>Leer</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit" title="Editar esta página [e]" accesskey="e" class=""><span>Editar</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h" class=""><span>Ver historial</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Más opciones">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Provincia_de_Manab%C3%AD"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=history"><span>Ver historial</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Provincia_de_Manab%C3%AD" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Provincia_de_Manab%C3%AD" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;oldid=152292963" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Provincia_de_Manab%C3%AD&amp;id=152292963&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q504666" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Provincia+de+Manab%C3%AD"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Provincia_de_Manab%C3%AD&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Manab%C3%AD_Province" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Más opciones">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-coordinates" class="mw-indicator"><div class="mw-parser-output"><span id="coordinates" style="font-size:small"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_Manab%C3%AD&amp;params=-0.75_N_-80.083333333333_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 0°45′00″S 80°05′00″O"><span class="latitude">0°45′00″S </span><span class="longitude">80°05′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -0.75 -80.083333333333"><span class="geo"><span class="latitude">-0.75, </span><span class="longitude">-80.083333333333</span></span></span></span></a></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="es" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox geography vcard" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera mapa fn org" style="text-align:center;background-color:transparent;color:black;padding:0;">Manabí</th></tr><tr><td colspan="3" style="text-align:center;font-size:100%; font-weight:bold; background-color:#cddeff;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;">
+<a href="/wiki/Archivo:Manabi_in_Ecuador_(%2BGalapagos).svg" class="image"><img alt="Manabi in Ecuador (+Galapagos).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/250px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png" decoding="async" width="250" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/375px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/500px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png 2x" data-file-width="512" data-file-height="551" /></a><br /><div style="display:inline;font-size:smaller; font-weight:normal;"></div>
+</td></tr><tr><td colspan="3" style="align:center;"><br /><table class="mergedrow" style="width:100%;"><tbody><tr><td style="text-align:center;background-color:transparent;align:center;vertical-align:middle;"><a href="/wiki/Archivo:Bandera_Provincia_Manab%C3%AD.svg" class="image"><img alt="Bandera Provincia Manabí.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bandera_Provincia_Manab%C3%AD.svg/100px-Bandera_Provincia_Manab%C3%AD.svg.png" decoding="async" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bandera_Provincia_Manab%C3%AD.svg/150px-Bandera_Provincia_Manab%C3%AD.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bandera_Provincia_Manab%C3%AD.svg/200px-Bandera_Provincia_Manab%C3%AD.svg.png 2x" data-file-width="750" data-file-height="500" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;"><a href="/wiki/Bandera_de_Manab%C3%AD" title="Bandera de Manabí">Bandera</a></div></td><td style="text-align:center;align:center;vertical-align:middle;background-color:transparent;"><a href="/wiki/Archivo:Escudo-Manabi.png" class="image"><img alt="Escudo-Manabi.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Escudo-Manabi.png/66px-Escudo-Manabi.png" decoding="async" width="66" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Escudo-Manabi.png/100px-Escudo-Manabi.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Escudo-Manabi.png/133px-Escudo-Manabi.png 2x" data-file-width="773" data-file-height="1024" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;"><a href="/wiki/Escudo_de_Manab%C3%AD" title="Escudo de Manabí">Escudo</a></div>
+<br /></td></tr></tbody></table></td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Anexo:Lemas_nacionales" title="Anexo:Lemas nacionales">Lema</a>: «Manabí, mágico y diverso»</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Himno" title="Himno">Himno</a>: <i><a href="https://en.wikisource.org/wiki/es:Himno_de_Manab%C3%AD_(Ecuador)" class="extiw" title="wikisource:es:Himno de Manabí (Ecuador)">Himno de Manabí</a></i><br /><div class="center"><div class="floatnone"><audio id="mwe_player_0" controls="" preload="none" width="140" style="width:140px;" data-durationhint="177" data-mwtitle="Himno_a_Manabí.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/Himno_a_Manab%C3%AD.ogg/Himno_a_Manab%C3%AD.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" /><source src="//upload.wikimedia.org/wikipedia/commons/d/d2/Himno_a_Manab%C3%AD.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Archivo Ogg original (103 kbps)" data-shorttitle="Fuente Ogg" data-width="0" data-height="0" /></audio></div></div><div style="line-height:1.1em; text-align:center; font-size:smaller;" class="problemas_sonido"><i><a href="/wiki/Ayuda:Multimedia" title="Ayuda:Multimedia">¿Problemas al reproducir este archivo?</a></i></div></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<a href="/wiki/Archivo:Manabi_in_Ecuador_(%2BGalapagos).svg" class="image"><img alt="Manabi in Ecuador (+Galapagos).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/300px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png" decoding="async" width="300" height="323" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/450px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Manabi_in_Ecuador_%28%2BGalapagos%29.svg/600px-Manabi_in_Ecuador_%28%2BGalapagos%29.svg.png 2x" data-file-width="512" data-file-height="551" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de la <b>provincia de Manabí</b> en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></div></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<div class="mw-kartographer-container thumb tnone center"><div class="thumbinner" style="width: 250px;"><a class="mw-kartographer-map" style="width: 250px; height: 250px;" data-mw-kartographer="mapframe" data-style="osm-intl" data-width="250" data-height="250" data-zoom="7" data-lat="-0.75" data-lon="-80.08" data-overlays="[&quot;_cb2a503dfc119c6b9f03fd68fa2a6e36f0d34cd9&quot;]" href="/wiki/Especial:Map/7/-0.75/-80.08/es"><img src="https://maps.wikimedia.org/img/osm-intl,7,-0.75,-80.08,250x250.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+Manab%C3%AD&amp;revid=152292963&amp;groups=_cb2a503dfc119c6b9f03fd68fa2a6e36f0d34cd9" width="250" height="250" decoding="async" srcset="https://maps.wikimedia.org/img/osm-intl,7,-0.75,-80.08,250x250@2x.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+Manab%C3%AD&amp;revid=152292963&amp;groups=_cb2a503dfc119c6b9f03fd68fa2a6e36f0d34cd9 2x" alt="Mapa" /></a></div></div><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de Manabí</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_Manab%C3%AD&amp;params=-0.75_N_-80.083333333333_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 0°45′00″S 80°05′00″O"><span class="latitude">0°45′00″S </span><span class="longitude">80°05′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -0.75 -80.083333333333"><span class="geo"><span class="latitude">-0.75, </span><span class="longitude">-80.083333333333</span></span></span></span></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Capital_(pol%C3%ADtica)" title="Capital (política)">Capital</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;"><span style="font-size:90%">&#160;• Población</span></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span style="font-size:90%">321 800 habs.</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Idioma_oficial" title="Idioma oficial">Idioma oficial</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">Español</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Entidad_subnacional" class="mw-redirect" title="Entidad subnacional">Entidad</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Anexo:Pa%C3%ADses" title="Anexo:Países">País</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span class="flagicon"><a href="/wiki/Archivo:Flag_of_Ecuador.svg" class="image" title="Bandera de Ecuador"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></a>&#160;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Anexo:Prefectos_de_Manab%C3%AD" title="Anexo:Prefectos de Manabí">Prefecto</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Leonardo_Orlando_Arteaga" class="mw-redirect" title="Leonardo Orlando Arteaga">Leonardo Orlando</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Subdivisiones</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<div class="mw-collapsible mw-collapsed" style="font-size:95%;border:none; padding: 0;">
+<div style="width:100%; background:transparent; font-weight:bold" align="left">22 cantones</div><div class="mw-collapsible-content" style="text-align:left;"><a href="/wiki/Archivo:Bandera_de_Calceta.svg" class="image"><img alt="Bandera de Calceta.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/20px-Bandera_de_Calceta.svg.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/30px-Bandera_de_Calceta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/40px-Bandera_de_Calceta.svg.png 2x" data-file-width="573" data-file-height="286" /></a> <a href="/wiki/Cant%C3%B3n_Bol%C3%ADvar_(Manab%C3%AD)" title="Cantón Bolívar (Manabí)">Bolívar</a><br /><a href="/wiki/Archivo:Flag_of_Chone.svg" class="image"><img alt="Flag of Chone.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/20px-Flag_of_Chone.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/30px-Flag_of_Chone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/40px-Flag_of_Chone.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Chone" title="Cantón Chone">Chone</a><br /><a href="/wiki/Archivo:Flag_of_El_Carmen.svg" class="image"><img alt="Flag of El Carmen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/20px-Flag_of_El_Carmen.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/30px-Flag_of_El_Carmen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/40px-Flag_of_El_Carmen.svg.png 2x" data-file-width="1000" data-file-height="500" /></a> <a href="/wiki/Cant%C3%B3n_El_Carmen" title="Cantón El Carmen">El Carmen</a><br /><a href="/wiki/Archivo:Bandera_de_Flavio_Alfaro.png" class="image"><img alt="Bandera de Flavio Alfaro.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/20px-Bandera_de_Flavio_Alfaro.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/30px-Bandera_de_Flavio_Alfaro.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/40px-Bandera_de_Flavio_Alfaro.png 2x" data-file-width="900" data-file-height="533" /></a> <a href="/wiki/Cant%C3%B3n_Flavio_Alfaro" title="Cantón Flavio Alfaro">Flavio Alfaro</a><br /><a href="/wiki/Archivo:Bandera_de_Jama.png" class="image"><img alt="Bandera de Jama.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/20px-Bandera_de_Jama.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/30px-Bandera_de_Jama.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/40px-Bandera_de_Jama.png 2x" data-file-width="950" data-file-height="612" /></a> <a href="/wiki/Cant%C3%B3n_Jama" title="Cantón Jama">Jama</a><br /><a href="/wiki/Archivo:Flag_of_Jaramij%C3%B3.svg" class="image"><img alt="Flag of Jaramijó.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/20px-Flag_of_Jaramij%C3%B3.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/30px-Flag_of_Jaramij%C3%B3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/40px-Flag_of_Jaramij%C3%B3.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Jaramij%C3%B3" title="Cantón Jaramijó">Jaramijó</a><br /><a href="/wiki/Archivo:Flag_of_Jipijapa.svg" class="image"><img alt="Flag of Jipijapa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/20px-Flag_of_Jipijapa.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/30px-Flag_of_Jipijapa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/40px-Flag_of_Jipijapa.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Jipijapa" title="Cantón Jipijapa">Jipijapa</a><br /><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png" class="image"><img alt="Bandera del Cantón Junín.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/20px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/30px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/40px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png 2x" data-file-width="1000" data-file-height="588" /></a> <a href="/wiki/Cant%C3%B3n_Jun%C3%ADn" title="Cantón Junín">Junín</a><br /><span class="flagicon"><a href="/wiki/Archivo:Flag_of_Manta.svg" class="image" title="Bandera de Manta"><img alt="Bandera de Manta" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/20px-Flag_of_Manta.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/30px-Flag_of_Manta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/40px-Flag_of_Manta.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Cant%C3%B3n_Manta" title="Cantón Manta">Manta</a><br /><a href="/wiki/Archivo:Flag_of_Montecristi.svg" class="image"><img alt="Flag of Montecristi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/20px-Flag_of_Montecristi.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/30px-Flag_of_Montecristi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/40px-Flag_of_Montecristi.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Montecristi" title="Cantón Montecristi">Montecristi</a><br /><a href="/wiki/Archivo:Bandera_de_Olmedo.png" class="image"><img alt="Bandera de Olmedo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/20px-Bandera_de_Olmedo.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/30px-Bandera_de_Olmedo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/40px-Bandera_de_Olmedo.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Olmedo_(Manab%C3%AD)" title="Cantón Olmedo (Manabí)">Olmedo</a><br /><a href="/wiki/Archivo:Bandera_de_Paj%C3%A1n.png" class="image"><img alt="Bandera de Paján.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/20px-Bandera_de_Paj%C3%A1n.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/30px-Bandera_de_Paj%C3%A1n.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/40px-Bandera_de_Paj%C3%A1n.png 2x" data-file-width="900" data-file-height="504" /></a> <a href="/wiki/Cant%C3%B3n_Paj%C3%A1n" title="Cantón Paján">Paján</a><br /><a href="/wiki/Archivo:Flag_of_Pedernales.svg" class="image"><img alt="Flag of Pedernales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/20px-Flag_of_Pedernales.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/30px-Flag_of_Pedernales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/40px-Flag_of_Pedernales.svg.png 2x" data-file-width="750" data-file-height="500" /></a> <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a><br /><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Pichincha.png" class="image"><img alt="Bandera del Cantón Pichincha.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/20px-Bandera_del_Cant%C3%B3n_Pichincha.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/30px-Bandera_del_Cant%C3%B3n_Pichincha.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/40px-Bandera_del_Cant%C3%B3n_Pichincha.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Pichincha" title="Cantón Pichincha">Pichincha</a><br /><span class="flagicon"><a href="/wiki/Archivo:Flag_of_Portoviejo.svg" class="image" title="Bandera de Portoviejo"><img alt="Bandera de Portoviejo" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/20px-Flag_of_Portoviejo.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/30px-Flag_of_Portoviejo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/40px-Flag_of_Portoviejo.svg.png 2x" data-file-width="1023" data-file-height="512" /></a></span> <a href="/wiki/Cant%C3%B3n_Portoviejo" title="Cantón Portoviejo">Portoviejo</a><br /><a href="/wiki/Archivo:Bandera_de_Puerto_L%C3%B3pez.png" class="image"><img alt="Bandera de Puerto López.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/20px-Bandera_de_Puerto_L%C3%B3pez.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/30px-Bandera_de_Puerto_L%C3%B3pez.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/40px-Bandera_de_Puerto_L%C3%B3pez.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Puerto_L%C3%B3pez" title="Cantón Puerto López">Puerto López</a><br /><a href="/wiki/Archivo:Bandera_de_Rocafuerte.png" class="image"><img alt="Bandera de Rocafuerte.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/20px-Bandera_de_Rocafuerte.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/30px-Bandera_de_Rocafuerte.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/40px-Bandera_de_Rocafuerte.png 2x" data-file-width="570" data-file-height="333" /></a> <a href="/wiki/Cant%C3%B3n_Rocafuerte" title="Cantón Rocafuerte">Rocafuerte</a><br /><a href="/wiki/Archivo:BanderaSanVicente.jpg" class="image"><img alt="BanderaSanVicente.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/20px-BanderaSanVicente.jpg" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/30px-BanderaSanVicente.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/40px-BanderaSanVicente.jpg 2x" data-file-width="950" data-file-height="533" /></a> <a href="/wiki/Cant%C3%B3n_San_Vicente" title="Cantón San Vicente">San Vicente</a><br /><a href="/wiki/Archivo:Bandera_de_Santa_Ana_de_Vuelta_Larga.png" class="image"><img alt="Bandera de Santa Ana de Vuelta Larga.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/20px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/30px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/40px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png 2x" data-file-width="800" data-file-height="500" /></a> <a href="/wiki/Cant%C3%B3n_Santa_Ana_(Ecuador)" title="Cantón Santa Ana (Ecuador)">Santa Ana</a><br /><a href="/wiki/Archivo:Flag_of_Sucre.svg" class="image"><img alt="Flag of Sucre.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/20px-Flag_of_Sucre.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/30px-Flag_of_Sucre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/40px-Flag_of_Sucre.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Sucre" title="Cantón Sucre">Sucre</a><br /><a href="/wiki/Archivo:Bandera_de_Tosagua.png" class="image"><img alt="Bandera de Tosagua.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/20px-Bandera_de_Tosagua.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/30px-Bandera_de_Tosagua.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/40px-Bandera_de_Tosagua.png 2x" data-file-width="400" data-file-height="202" /></a> <a href="/wiki/Cant%C3%B3n_Tosagua" title="Cantón Tosagua">Tosagua</a><br /><a href="/wiki/Archivo:Bandera_de_24_de_Mayo.png" class="image"><img alt="Bandera de 24 de Mayo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/20px-Bandera_de_24_de_Mayo.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/30px-Bandera_de_24_de_Mayo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/40px-Bandera_de_24_de_Mayo.png 2x" data-file-width="700" data-file-height="400" /></a> <a href="/wiki/Cant%C3%B3n_Veinticuatro_de_Mayo" title="Cantón Veinticuatro de Mayo">Veinticuatro de Mayo</a></div>
+</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fundación</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+25 de junio de 1824 (199&#160;años)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%81rea" title="Área">Superficie</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">4</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+18&#160;939,6&#160;<a href="/wiki/Kil%C3%B3metro_cuadrado" title="Kilómetro cuadrado">km²</a><span class="wikidata-link lapiz noprint"> <a href="https://www.wikidata.org/wiki/Q504666?uselang=es#P2046" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Altitud" title="Altitud">Altitud</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+&#160;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Media</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+350 <a href="/wiki/Msnm" class="mw-redirect" title="Msnm">m s. n. m.</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Máxima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+100 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Mínima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+0 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Clima" title="Clima">Clima</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+De 17 a 40&#160;°C</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Poblaci%C3%B3n" title="Población">Población</a>&#160;(2022)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">3</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+1&#160;585&#160;372&#160;hab.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Densidad_de_poblaci%C3%B3n" title="Densidad de población">Densidad</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+81,61 hab/km²</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Gentilicio" title="Gentilicio">Gentilicio</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Manabita</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%8Dndice_de_Desarrollo_Humano" class="mw-redirect" title="Índice de Desarrollo Humano">IDH</a>&#160;(2017)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span title="Crecimiento"><img alt="Crecimiento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span> 0.733&#160;(<a href="/wiki/Anexo:Provincias_de_Ecuador_por_IDH" title="Anexo:Provincias de Ecuador por IDH">10</a>.º)&#160;– <span style="color:#00CC00;"><b>alto</b></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Huso_horario" title="Huso horario">Huso horario</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Tiempo_de_Ecuador" class="mw-redirect" title="Tiempo de Ecuador">ECT</a> (UTC–5)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/C%C3%B3digo_postal" title="Código postal">Código postal</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="postal-code">EC13</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Prefijo_telef%C3%B3nico" title="Prefijo telefónico">Prefijo telefónico</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+05</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Matr%C3%ADcula_(autom%C3%B3viles)" title="Matrícula (automóviles)">Matrícula</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+M</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/ISO_3166-2" title="ISO 3166-2">ISO 3166-2</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+EC-M</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fiestas mayores</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<b>24 de junio</b> (provincialización)</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a rel="nofollow" class="external text" href="http://ww.manabi.gob.ec/">Sitio web oficial </a></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q504666" class="extiw" title="d:Q504666">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p><b>Manabí</b> es una de las veinticuatro <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">provincias</a> que conforman la <a href="/wiki/Ecuador" title="Ecuador">República del Ecuador</a>, situada al occidente del país, en la zona geográfica conocida como <a href="/wiki/Regi%C3%B3n_Costa" title="Región Costa">región litoral o Costa</a>. Su capital administrativa es la ciudad de <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>. Ocupa un territorio de unos 18&#160;939 <a href="/wiki/Km%C2%B2" class="mw-redirect" title="Km²">km²</a>, siendo la cuarta provincia del país por extensión, detrás de <a href="/wiki/Provincia_de_Pastaza" title="Provincia de Pastaza">Pastaza</a>, <a href="/wiki/Provincia_de_Morona_Santiago" title="Provincia de Morona Santiago">Morona Santiago</a> y <a href="/wiki/Provincia_de_Orellana" title="Provincia de Orellana">Orellana</a>. Además del territorio continental, pertenecen a la jurisdicción de la provincia la <a href="/wiki/Isla_de_la_Plata" title="Isla de la Plata">isla de la Plata</a> y la <a href="/wiki/Isla_Salango" title="Isla Salango">isla Salango</a>. Limita al norte con <a href="/wiki/Provincia_de_Esmeraldas" title="Provincia de Esmeraldas">Esmeraldas</a>; por el este con <a href="/wiki/Provincia_de_Santo_Domingo_de_los_Ts%C3%A1chilas" title="Provincia de Santo Domingo de los Tsáchilas">Santo Domingo de los Tsáchilas</a> y <a href="/wiki/Provincia_de_Los_R%C3%ADos" title="Provincia de Los Ríos">Los Ríos</a>; al sur con <a href="/wiki/Provincia_de_Santa_Elena" title="Provincia de Santa Elena">Santa Elena</a>; al este y al sur con <a href="/wiki/Guayas" class="mw-redirect" title="Guayas">Guayas</a>, y al oeste con el <a href="/wiki/Oc%C3%A9ano_Pac%C3%ADfico" title="Océano Pacífico">océano Pacífico</a>, a lo largo de una franja marítima de unos 350&#160;km.
+</p><p>En el territorio manabita, habitan 1&#160;585&#160;372 personas, según la proyección demográfica del INEC para 2022, siendo la tercera provincia más poblada del país después de <a href="/wiki/Guayas" class="mw-redirect" title="Guayas">Guayas</a> y <a href="/wiki/Provincia_de_Pichincha" title="Provincia de Pichincha">Pichincha</a>. La provincia de Manabí está constituida por veintidós cantones, con sus respectivas parroquias urbanas y rurales.
+</p><p>Es uno de los más importantes centros administrativos, económicos, financieros y comerciales del Ecuador. Las actividades principales de la provincia son el comercio; la ganadería; la industria; la pesca, ya que se encuentra el segundo puerto más importante del país y las mayores fábricas de atún en Manta; el sector agropecuario en la vida rural, y el turismo, principalmente en sus extensas playas.
+</p><p>Tuvo distintos períodos migratorios provenientes de varias zonas como los <a href="/wiki/Caranquis" title="Caranquis">caras</a> y los <a href="/wiki/Cultura_mante%C3%B1a" title="Cultura manteña">mantas</a>. La colonización española se dio <a href="/wiki/1534" title="1534">1534</a>, cuando <a href="/wiki/Pedro_de_Alvarado" title="Pedro de Alvarado">Pedro de Alvarado</a> exploró la zona, y en <a href="/wiki/1535" title="1535">1535</a>, año en que <a href="/wiki/Francisco_Pacheco_(capit%C3%A1n)" class="mw-redirect" title="Francisco Pacheco (capitán)">Francisco Pacheco</a> fundó la ciudad de <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, y antes de realizarla hizo un largo recorrido de exploración en sus costas adyacentes. Durante ese período, la entidad máxima y precursora de la provincia sería el <a href="/wiki/Gobierno_de_Car%C3%A1quez" title="Gobierno de Caráquez">Gobierno de Caráquez</a>. Después de la guerra independentista y la anexión de Ecuador a la <a href="/wiki/Gran_Colombia" title="Gran Colombia">Gran Colombia</a>, se crea Manabí el 25 de junio de 1824, lo que la hace una de las 7 primeras provincias del Ecuador.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Toponimia">Toponimia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=1" title="Editar sección: Toponimia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Según el cronista los aborígenes conocían al Partido de Puerto Viejo como <i>Manapi</i> o <i>Manaphi</i> refiriéndose a una tribu que pobló el valle central y oriental del actual <a href="/w/index.php?title=Rio_Portoviejo&amp;action=edit&amp;redlink=1" class="new" title="Rio Portoviejo (aún no redactado)">río Portoviejo</a> además de inmediaciones de la costa sur. Durante la colonia se dice que también los españoles cambiaron la letra <b>P</b> por la <b>B</b> y llegaron a llamarle como le decían los indios aborígenes como «Manabí», aunque no existen evidencias claras de haberse adoptado el referido nombre, ni de haberse producido el cambio.
+</p>
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=2" title="Editar sección: Historia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Tenencia_de_Puerto_Viejo" title="Tenencia de Puerto Viejo"> Tenencia de Puerto Viejo</a></i></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Gobierno_de_Car%C3%A1quez" title="Gobierno de Caráquez"> Gobierno de Caráquez</a></i></div>
+<p>La parte sur de Manabí fue sede del señorío de Cancebí, mientras que la parte central y norte fue primero un reino indígena compuesto por confederaciones de tribus y estas a la vez por caseríos, aunque realmente existieron los caseríos de Pechance además del señorío principal, que según el historiador quiteño <a href="/wiki/Juan_de_Velasco" title="Juan de Velasco">Juan de Velasco</a> era el centro motor de la parte oriental (es decir <a href="/wiki/Chone" title="Chone">Chone</a>, <a href="/wiki/Flavio_Alfaro" title="Flavio Alfaro">Flavio Alfaro</a> y <a href="/wiki/El_Carmen_(Manab%C3%AD)" class="mw-redirect" title="El Carmen (Manabí)">El Carmen</a>) de lo que se conocía con el nombre de <b>Reino de Los Caras</b>, entidad jurídica que tenía su sede y capital en el actual <a href="/wiki/Bah%C3%ADa_de_Car%C3%A1quez" title="Bahía de Caráquez">Bahía de Caráquez</a>.
+</p><p>La <a href="/wiki/Cultura_mante%C3%B1a" title="Cultura manteña">cultura manteña</a> (Capital: Jocay), se extendió desde el centro, al sur del territorio, formado por las siguientes tribus: Los Cancebíes, Apechiniques, Pichotas, Japotoes, Picoazaes, Jarahuas, Machalillas, Pichuncis y Xipaxapas.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Escudo_Colonial_de_Portoviejo.JPG" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Escudo_Colonial_de_Portoviejo.JPG/300px-Escudo_Colonial_de_Portoviejo.JPG" decoding="async" width="300" height="301" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Escudo_Colonial_de_Portoviejo.JPG/450px-Escudo_Colonial_de_Portoviejo.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Escudo_Colonial_de_Portoviejo.JPG/600px-Escudo_Colonial_de_Portoviejo.JPG 2x" data-file-width="2285" data-file-height="2290" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Escudo_Colonial_de_Portoviejo.JPG" class="internal" title="Aumentar"></a></div><a href="/wiki/Carlos_I_de_Espa%C3%B1a" title="Carlos I de España">Carlos I de España</a> Rey de España y Emperador del Sacro Imperio Romano Germánico, quien fue testigo fiel de la fundación de Portoviejo la dotó de un escudo oficial de armas en <a href="/wiki/1540" title="1540">1540</a> con un <a href="/wiki/Grifo" title="Grifo">grifo</a> como simbología imperial y los españoles avecinados le hicieron conocer que la villa había sido fundada en nombre.</div></div></div>
+<p>Durante el coloniaje español, en la primera mitad del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVIII</span>, la zona del antiguo <a href="/wiki/Gobierno_de_Car%C3%A1quez" title="Gobierno de Caráquez">Gobierno de Caráquez</a>, y que hoy ocupan los cantones <a href="/wiki/Cant%C3%B3n_El_Carmen" title="Cantón El Carmen">El Carmen</a>, <a href="/wiki/Chone" title="Chone">Chone</a>, <a href="/wiki/Cant%C3%B3n_Sucre" title="Cantón Sucre">Sucre</a>, <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a>, <a href="/wiki/Cant%C3%B3n_Jama" title="Cantón Jama">Jama</a>, <a href="/wiki/Cant%C3%B3n_San_Vicente" title="Cantón San Vicente">San Vicente</a>, <a href="/wiki/Cant%C3%B3n_Bol%C3%ADvar_(Manab%C3%AD)" title="Cantón Bolívar (Manabí)">Bolívar</a>, <a href="/wiki/Tosagua" title="Tosagua">Tosagua</a>, <a href="/wiki/Cant%C3%B3n_Jun%C3%ADn" title="Cantón Junín">Junín</a> y <a href="/wiki/Cant%C3%B3n_Pichincha" title="Cantón Pichincha">Pichincha</a>, pasó a ser jurisdicción de la Gobernación de <a href="/wiki/Esmeraldas_(provincia)" class="mw-redirect" title="Esmeraldas (provincia)">Esmeraldas</a>, regida por <a href="/wiki/Pedro_Vicente_Maldonado" title="Pedro Vicente Maldonado">Pedro Vicente Maldonado</a>. Y la zona del también antiguo reino de los <a href="/wiki/Cultura_mante%C3%B1a" title="Cultura manteña">Manta</a>, que en la Colonia se llamaba "Partido o Tenencia de <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>", y que hoy ocupan los cantones <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, <a href="/wiki/Cant%C3%B3n_Rocafuerte" title="Cantón Rocafuerte">Rocafuerte</a>, <a href="/wiki/Montecristi_(cant%C3%B3n)" class="mw-redirect" title="Montecristi (cantón)">Montecristi</a>, <a href="/wiki/Jaramij%C3%B3_(cant%C3%B3n)" class="mw-redirect" title="Jaramijó (cantón)">Jaramijó</a>, <a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a>, <a href="/wiki/Santa_Ana_(cant%C3%B3n_Manab%C3%AD)" class="mw-redirect" title="Santa Ana (cantón Manabí)">Santa Ana</a>, <a href="/wiki/Veinticuatro_de_Mayo" class="mw-redirect" title="Veinticuatro de Mayo">Veinticuatro de Mayo</a>, <a href="/wiki/Cant%C3%B3n_Olmedo_(Manab%C3%AD)" title="Cantón Olmedo (Manabí)">Olmedo</a>, <a href="/wiki/Jipijapa_(cant%C3%B3n)" class="mw-redirect" title="Jipijapa (cantón)">Jipijapa</a>, <a href="/wiki/Cant%C3%B3n_Paj%C3%A1n" title="Cantón Paján">Paján</a> y <a href="/wiki/Cant%C3%B3n_Puerto_L%C3%B3pez" title="Cantón Puerto López">Puerto López</a> paso a formar parte de la Gobernación de <a href="/wiki/Santiago_de_Guayaquil" class="mw-redirect" title="Santiago de Guayaquil">Guayaquil</a>.
+</p><p>Por Manabí llegaron al país los sabios de la Misión Geodésica Francesa, presidida por Carlos de la Condamine, cuando el actual Ecuador se llamaba <a href="/wiki/Real_Audiencia_de_Quito" title="Real Audiencia de Quito">Real Audiencia de Quito</a>, que el primero de marzo de 1736, desembarcaron en <a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a>.
+</p><p>Luego de sellada la Independencia del País del dominio español, el 24 de mayo de 1822, lo que hoy es <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, con el nombre de Departamento del Sur, entró a formar parte de la <a href="/wiki/Gran_Colombia" title="Gran Colombia">Gran Colombia</a>, fundada por el Libertador <a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar" title="Simón Bolívar">Simón Bolívar</a>. En virtud de ello, al crearse las principales provincias de nuestra Nación, <a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar" title="Simón Bolívar">Bolívar</a> hace la creación de lo que se llamó "Provincia de Portoviejo", el 2 de agosto de 1822, pero con esta creación no obtuvo personería Jurídica la Provincia, ya que estaba regida por un juez político, que obedecía órdenes del Gobernador de <a href="/wiki/Santiago_de_Guayaquil" class="mw-redirect" title="Santiago de Guayaquil">Guayaquil</a>. Poseía 2 cantones: <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a> y <a href="/wiki/Montecristi_(cant%C3%B3n)" class="mw-redirect" title="Montecristi (cantón)">Montecristi</a>.
+</p><p>La verdadera creación político-administrativa de la Provincia se operó dos años después, cuando el Congreso de Bogotá, presidido por el General Francisco de Paula Santander, promulgó la Primera Ley de División Territorial el 25 de junio de 1824, que lo otorgó la anhelada personería Jurídica a la Provincia, que pasó a denominarse Manabí. Esta Ley, desmembrando territorio de <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, aumenta un tercer cantón, <a href="/wiki/Jipijapa_(cant%C3%B3n)" class="mw-redirect" title="Jipijapa (cantón)">Jipijapa</a>, y al designar un Gobernador frente a la administración pública, colocó a Manabí en plano de igualdad con <a href="/wiki/Guayas_(provincia)" class="mw-redirect" title="Guayas (provincia)">Provincia del Guayas</a>.
+Se asentó la capital en la ciudad de <a href="/wiki/Portoviejo" title="Portoviejo">San Gregorio de Portoviejo</a>.
+</p><p>Cuando se llevó a cabo la creación formal de la Provincia de Manabí, su área territorial ascendía a 25&#8201;620 kilómetros cuadrados. Pero en 1825 pierde Atacames, y en 1878, en el Gobierno de Veintimilla, pierde a Muisne (antiguo Mompiche), ya que ambas comarcas fueron anexadas a <a href="/wiki/Esmeraldas_(provincia)" class="mw-redirect" title="Esmeraldas (provincia)">Esmeraldas</a>.
+</p><p>Al separarse la nación de la Gran Colombia, el 13 de mayo de 1830, ya como pueblo independiente y soberano con el nombre de <a href="/wiki/Rep%C3%BAblica_del_Ecuador" class="mw-redirect" title="República del Ecuador">Ecuador</a>, bajo la Presidencia del Venezolano General Juan José Flores, antiguo lugarteniente del <a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar" title="Simón Bolívar">Libertador</a>, fue designado como primer gobernador de Manabí, bajo el Estado Ecuatoriano, el Coronel Juan Antonio Muñoz.
+</p><p>El Consejo Provincial de Manabí inició su vida Institucional el 11 de marzo de 1947, siendo su primer Presidente el médico manabita Dr. Oswaldo Loor Moreira.
+</p><p>El 16 de abril de <a href="/wiki/2016" title="2016">2016</a> a las 18:58 horas un <a href="/wiki/Terremoto_de_Ecuador_de_2016" title="Terremoto de Ecuador de 2016">terremoto de magnitud 7,8</a> con epicentro cerca de la <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">ciudad de Pedernales</a>, entre <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Cojimíes</a> y <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a> asoló la provincia, dejando como resultado cientos de víctimas fatales, miles de heridos y cuantiosos daños estructurales y económicos valorados por sobre los 2000 millones de dólares; siendo considerada la peor catástrofe del <a href="/wiki/Ecuador" title="Ecuador">país</a> en 60 años y la peor de la provincia en toda su historia. El sismo destruyó sus ciudades principales (<a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, <a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a>, <a href="/wiki/Bah%C3%ADa_de_Car%C3%A1quez" title="Bahía de Caráquez">Bahía</a> y <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a>), así como otras localidades muy turísticas tales como <a href="/wiki/Cant%C3%B3n_Jama" title="Cantón Jama">Jama</a>, <a href="/wiki/Jipijapa_(canton)" class="mw-redirect" title="Jipijapa (canton)">Jipijapa</a>, <a href="/wiki/Montecristi_(Ecuador)" title="Montecristi (Ecuador)">Montecristi</a>, <a href="/wiki/Calceta_(ciudad)" title="Calceta (ciudad)">Calceta</a>, <a href="/wiki/Cant%C3%B3n_El_Carmen" title="Cantón El Carmen">El Carmen</a>, <a href="/wiki/Cant%C3%B3n_Jaramij%C3%B3" title="Cantón Jaramijó">Jaramijó</a>, <a href="/wiki/Cant%C3%B3n_Rocafuerte" title="Cantón Rocafuerte">Rocafuerte</a>, <a href="/wiki/Tosagua" title="Tosagua">Tosagua</a>, <a href="/wiki/Chone" title="Chone">Chone</a> y <a href="/wiki/Cant%C3%B3n_Flavio_Alfaro" title="Cantón Flavio Alfaro">Flavio Alfaro</a>. Sin embargo las dos localidades más afectadas por el sismo fueron <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a> y <a href="/wiki/Cant%C3%B3n_San_Vicente" title="Cantón San Vicente">Canoa</a>, ubicadas muy cerca del epicentro, donde los daños y pérdidas suman más del 70% del total.
+</p><p>Actualmente la provincia vive una emergencia sanitaria ocasionada por la enfermedad denóminada <a href="/wiki/COVID-19" title="COVID-19">COVID-19</a>, El primer caso en este lugar de hecho fue importado desde <a href="/wiki/Espa%C3%B1a" title="España">España</a>, Está en el segundo puesto de contagios con más de 1800 casos, y en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a> hay más de 22.000 casos hasta el 26 de abril, siendo <a href="/wiki/Provincia_del_Guayas" title="Provincia del Guayas">Guayas</a> la que más contagios tiene a nivel nacional.
+</p>
+<h2><span id="Geograf.C3.ADa"></span><span class="mw-headline" id="Geografía">Geografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=3" title="Editar sección: Geografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Comuna-salango1.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Comuna-salango1.jpg/300px-Comuna-salango1.jpg" decoding="async" width="300" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Comuna-salango1.jpg/450px-Comuna-salango1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Comuna-salango1.jpg/600px-Comuna-salango1.jpg 2x" data-file-width="1500" data-file-height="991" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Comuna-salango1.jpg" class="internal" title="Aumentar"></a></div>Vista panorámica de la comuna <a href="/wiki/Salango" title="Salango">Salango</a>.</div></div></div>
+<p>La provincia de Manabí limita al norte con la provincia de <a href="/wiki/Esmeraldas" class="mw-disambig" title="Esmeraldas">Esmeraldas</a>, al sur con las provincias de <a href="/wiki/Provincia_de_Santa_Elena" title="Provincia de Santa Elena">Santa Elena</a> y <a href="/wiki/Provincia_de_Guayas" class="mw-redirect" title="Provincia de Guayas">Guayas</a>, al este con las provincias de <a href="/wiki/Provincia_de_Santo_Domingo_de_los_Ts%C3%A1chilas" title="Provincia de Santo Domingo de los Tsáchilas">Santo Domingo de los Tsáchilas</a>, <a href="/wiki/Provincia_de_Los_R%C3%ADos" title="Provincia de Los Ríos">Los Ríos</a> y <a href="/wiki/Provincia_de_Guayas" class="mw-redirect" title="Provincia de Guayas">Guayas</a>, y al oeste con el <a href="/wiki/Oc%C3%A9ano_Pac%C3%ADfico" title="Océano Pacífico">Océano Pacífico</a> y su capital es <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>.
+Además del territorio continental, pertenecen a la jurisdicción de la provincia la <a href="/wiki/Isla_de_la_Plata" title="Isla de la Plata">Isla de la Plata</a> y la <a href="/wiki/Isla_Salango" title="Isla Salango">Isla Salango</a> que se encuentran frente al <a href="/wiki/Parque_nacional_Machalilla" title="Parque nacional Machalilla">parque nacional Machalilla</a>.
+</p><p>Con una superficie de 18.939&#160;km², la más extensa del litoral, se puede apreciar que la provincia sea a términos más pequeña que la dependencia sudamericana de <a href="/wiki/Guyana_Francesa" class="mw-redirect" title="Guyana Francesa">Guyana Francesa</a> (83.534&#160;km²), pero Manabí contiene más del triple de la población que dicho territorio (259.377 habitantes).
+</p>
+<h3><span class="mw-headline" id="Relieve">Relieve</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=4" title="Editar sección: Relieve">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Su territorio ocupa extensas llanuras del litoral. De la provincia del Guayas viene la cordillera costanera del <a href="/wiki/Cordillera_Chong%C3%B3n_Colonche" class="mw-redirect" title="Cordillera Chongón Colonche">Chongón-Colonche</a> que da origen a las montañas de <a href="/w/index.php?title=Paj%C3%A1n_y_Puca&amp;action=edit&amp;redlink=1" class="new" title="Paján y Puca (aún no redactado)">Paján y Puca</a>. Las elevaciones no sobrepasan los 1200 metros sobre el nivel del mar.
+</p><p>En el cantón <a href="/wiki/Cant%C3%B3n_Montecristi" title="Cantón Montecristi">Montecristi</a> existen cordones aislados de los cerros de este nombre y los cerros de Hojas-Jaboncillo. Hacia el norte se dirige la <a href="/w/index.php?title=Cordillera_de_Balzar&amp;action=edit&amp;redlink=1" class="new" title="Cordillera de Balzar (aún no redactado)">Cordillera de Balzar</a>, que comprende los cerros de Los Liberales y de Canoa; de allí sigue un ramal que se une con los cerros de Jama y se continúan hacia el norte con los cerros de Coaque, el Cerro Pata de Pájaro, uno de los más altos de La Provincia de Manabí con 845&#160;<span style="white-space:nowrap">m s. n. m.</span>, continúan hacia el Norte las Montañas de Cojimíes y las montañas de Mache-Chindul.
+</p>
+<h3><span class="mw-headline" id="Perfil_costanero">Perfil costanero</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=5" title="Editar sección: Perfil costanero">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Se extiende 350&#160;km de la <a href="/wiki/Oc%C3%A9ano_Pac%C3%ADfico" title="Océano Pacífico">Costa del Pacífico</a>. Los accidentes geográficos de mayor importancia son de norte a sur: las penínsulas de Cojimíes y de Caráquez; los cabos Pasado, San Mateo y San Lorenzo, las puntas Cojimíes, Surrones, Brava, Charapotó, Jaramijó, Cayo y Ayampe; las bahías: de Cojimíes, de Caráquez y de Manta; las ensenadas: Jama, Crucita, Cayo o Machalilla.
+</p><p>A 15&#160;<a href="/wiki/Km" class="mw-redirect" title="Km">km</a> de la costa de <a href="/w/index.php?title=Puerto_Cayo&amp;action=edit&amp;redlink=1" class="new" title="Puerto Cayo (aún no redactado)">Puerto Cayo</a> se encuentra la <a href="/wiki/Isla_de_la_Plata" title="Isla de la Plata">Isla de la Plata</a>, que tiene una superficie de 14&#160;km². Otra isla más pequeña que la anterior es la Isla del Amor, frente a Cojimíes en el cantón <a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a>.
+</p>
+<h3><span id="Hidrograf.C3.ADa"></span><span class="mw-headline" id="Hidrografía">Hidrografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=6" title="Editar sección: Hidrografía">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El cruce de la cordillera de <a href="/wiki/Cordillera_Chong%C3%B3n_Colonche" class="mw-redirect" title="Cordillera Chongón Colonche">Chongón-Colonche</a> y la <a href="/w/index.php?title=Cordillera_de_Balzar&amp;action=edit&amp;redlink=1" class="new" title="Cordillera de Balzar (aún no redactado)">Cordillera de Balzar</a> obstaculiza la existencia de ríos de caudal que desemboquen en el <a href="/wiki/Oc%C3%A9ano_Pac%C3%ADfico" title="Océano Pacífico">Océano Pacífico</a>, con excepción cuantos que son importantes como el <a href="/wiki/R%C3%ADo_Chone" title="Río Chone">río Chone</a> y <a href="/w/index.php?title=R%C3%ADo_Portoviejo&amp;action=edit&amp;redlink=1" class="new" title="Río Portoviejo (aún no redactado)">río Portoviejo</a> que son los únicos con cauce profundo; esto determina que ciertas zonas de la provincia estén predispuestas a inundaciones en las temporadas invernales de mayor precipitación.
+</p><p>El <a href="/wiki/R%C3%ADo_Chone" title="Río Chone">río Chone</a> es el más importante por su caudal, nace en las faldas occidentales de la cordillera de Balzar y desemboca en <a href="/wiki/Bah%C3%ADa_de_Car%C3%A1quez" title="Bahía de Caráquez">Bahía de Caráquez</a>. Sus principales afluentes son: por la margen derecha los ríos Mosquito, Garrapata, San Lorenzo y por la margen izquierda: el Tosagua, con sus afluentes: Canuto y Calceta. La cuenca que riegan estos ríos es una de las más importantes y fértiles de la provincia.
+El <a href="/w/index.php?title=Rio_Portoviejo&amp;action=edit&amp;redlink=1" class="new" title="Rio Portoviejo (aún no redactado)">río Portoviejo</a> nace en las montañas de <a href="/wiki/Cant%C3%B3n_Paj%C3%A1n" title="Cantón Paján">Paján</a> y Puca y desemboca en la bahía de Charapotó en un sitio turístico conocido como "La Boca".
+</p><p>El río Canoa nace en las montañas de ese nombre y recibe las aguas del Tabuchilla y el Muchacho. El Río Cojimíes es importante debido a su caudal y además divide las Provincias de Manabí y Esmeraldas; Entre Canoa y San Vicente desemboca el río Briceño que es de poco caudal. Finalmente el río Jama que nace en los cerros de su nombre y su principal tributario, el río Mariano.
+</p>
+<h3><span class="mw-headline" id="Clima">Clima</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=7" title="Editar sección: Clima">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oscila entre <a href="/wiki/Clima_subtropical_seco" class="mw-redirect" title="Clima subtropical seco">subtropical seco</a> a <a href="/wiki/Clima_tropical_h%C3%BAmedo" class="mw-redirect" title="Clima tropical húmedo">tropical húmedo</a> y <a href="/w/index.php?title=Clima_tropical_extremadamente_h%C3%BAmedo&amp;action=edit&amp;redlink=1" class="new" title="Clima tropical extremadamente húmedo (aún no redactado)">tropical extremadamente húmedo</a> y está determinado por las <a href="/wiki/Corrientes_marinas" class="mw-redirect" title="Corrientes marinas">corrientes marinas</a>; durante el <a href="/wiki/Invierno" title="Invierno">invierno</a> que se inicia a principios de diciembre y concluye en mayo el clima es caluroso y está influenciado por la corriente cálida del <a href="/wiki/El_Ni%C3%B1o" class="mw-redirect" title="El Niño">El Niño</a>, por el contrario el <a href="/wiki/Verano" title="Verano">verano</a> que va de junio a diciembre es menos caluroso gracias a la corriente fría de <a href="/wiki/Corriente_de_Humboldt" title="Corriente de Humboldt">Humboldt</a>, aunque la temperatura no es uniforme en toda la provincia, la temperatura media en <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, la capital, es de 25&#160;<a href="/wiki/%C2%B0C" class="mw-redirect" title="°C">°C</a> y en la ciudad de <a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a>, de 23,8&#160;°C.
+</p>
+<h2><span id="Gobierno_y_pol.C3.ADtica"></span><span class="mw-headline" id="Gobierno_y_política">Gobierno y política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=8" title="Editar sección: Gobierno y política">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Prefectos_de_Manab%C3%AD" title="Anexo:Prefectos de Manabí"> Anexo:Prefectos de Manabí</a></i></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Gobernadores_de_Manab%C3%AD" title="Anexo:Gobernadores de Manabí"> Anexo:Gobernadores de Manabí</a></i></div>
+<h3><span id="Pol.C3.ADtica"></span><span class="mw-headline" id="Política">Política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=9" title="Editar sección: Política">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La estructura política de la provincia, si bien es liderada a nivel ejecutivo por la Gobernación de Manabí, también cuenta con niveles de Gobiernos seccionales, denominados Gobiernos Autónomos Descentralizados (GAD), tales como los Municipios (Alcaldías), las Juntas Parroquiales Rurales y el GAD provincial, denominado comúnmente como «Prefectura», la cual es una <a href="/wiki/Persona_jur%C3%ADdica" title="Persona jurídica">persona jurídica</a> de <a href="/wiki/Derecho_p%C3%BAblico" title="Derecho público">derecho público</a> que goza de autonomía política, administrativa y financiera, y ejerce ciertas competencias como vialidad rural, fomento agroproductivo y riego, de acuerdo al Artículo No. 263 de la Constitución de la República vigente desde el año 2.008. Tales competencias las ejerce la Prefectura con subjeción a la Constitución y las Leyes dentro de la circunscripción territorial de la provincia.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; La sede de este gobierno seccional está en la ciudad de <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a>, en calidad de capital provincial.
+</p><p>El gobierno provincial está conformada por un prefecto, un viceprefecto y el consejo provincial. El prefecto es la máxima autoridad del Gobierno Autónomo Descentralizado de la Provincia (Prefectura de Manabí)y su representante legal institucional y es elegido en binomio junto al viceprefecto por <a href="/wiki/Votaci%C3%B3n_popular" class="mw-redirect" title="Votación popular">votación popular</a> en las urnas.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203; El consejo provincial es el órgano de legislación y fiscalización del gobierno provincial, y está integrado por el prefecto -quien lo preside con voto dirimente-, el viceprefecto, los alcaldes de los veinte y dos cantones manabitas, y representantes de los gobiernos de las parroquias rurales.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; En la actualidad el cargo de prefecto lo ejerce Leonardo Orlando, reelegido para el periodo 2023 - 2027. La máxima representación del Poder Ejecutivo en la provincia, la ejerce el gobernador, quien representa al Presidente de la República y es un cargo de libre nombramiento y remoción. Actualmente el gobernador de la provincia es Hernán Barreiro.
+</p>
+<h3><span id="Divisi.C3.B3n_administrativa"></span><span class="mw-headline" id="División_administrativa">División administrativa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=10" title="Editar sección: División administrativa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Alcaldes_de_Manab%C3%AD" title="Anexo:Alcaldes de Manabí"> Anexo:Alcaldes de Manabí</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Cantones_de_Manab%C3%AD.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cantones_de_Manab%C3%AD.png/300px-Cantones_de_Manab%C3%AD.png" decoding="async" width="300" height="398" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cantones_de_Manab%C3%AD.png/450px-Cantones_de_Manab%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cantones_de_Manab%C3%AD.png/600px-Cantones_de_Manab%C3%AD.png 2x" data-file-width="771" data-file-height="1023" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Cantones_de_Manab%C3%AD.png" class="internal" title="Aumentar"></a></div>Cantones de Manabí</div></div></div>
+<p>Manabí está dividido en 22 <a href="/wiki/Cant%C3%B3n_(entidad_subnacional)" title="Cantón (entidad subnacional)">cantones</a>, que a su vez están conformados por parroquias <a href="/wiki/Espacio_urbano" title="Espacio urbano">urbanas</a> y <a href="/wiki/Rural" class="mw-redirect" title="Rural">rurales</a>. Es la segunda provincia ecuatoriana en número de cantones. Cada uno de los cantones son administrados a través de una municipalidad y un consejo cantonal, los cuales son elegidos por la población de sus respectivos cantones. La responsabilidad de estos cantones es realizar el mantenimiento de carreteras, administrar los presupuestos del gobierno del estado para programas de asistencia social y económica, y administrar, infraestructuras tales como parques y sistemas de saneamiento básico.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>#
+</th>
+<th>Cantón
+</th>
+<th>Cabecera cantonal
+</th>
+<th>Hab. (2020)
+</th>
+<th>Área (km²)
+</th>
+<th>Densidad
+</th></tr>
+<tr>
+<td>1</td>
+<td><a href="/wiki/Archivo:Bandera_de_Calceta.svg" class="image"><img alt="Bandera de Calceta.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/20px-Bandera_de_Calceta.svg.png" decoding="async" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/30px-Bandera_de_Calceta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandera_de_Calceta.svg/40px-Bandera_de_Calceta.svg.png 2x" data-file-width="573" data-file-height="286" /></a> <b><a href="/wiki/Cant%C3%B3n_Bol%C3%ADvar_(Manab%C3%AD)" title="Cantón Bolívar (Manabí)">Bolívar</a></b></td>
+<td><a href="/wiki/Calceta_(ciudad)" title="Calceta (ciudad)">Calceta</a></td>
+<td>45.493</td>
+<td>537</td>
+<td>75,85
+</td></tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/Archivo:Flag_of_Chone.svg" class="image"><img alt="Flag of Chone.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/20px-Flag_of_Chone.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/30px-Flag_of_Chone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Chone.svg/40px-Flag_of_Chone.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <b><a href="/wiki/Cant%C3%B3n_Chone" title="Cantón Chone">Chone</a></b></td>
+<td><a href="/wiki/Chone" title="Chone">Chone</a></td>
+<td>131.002</td>
+<td>3017</td>
+<td>41,92
+</td></tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/Archivo:Flag_of_El_Carmen.svg" class="image"><img alt="Flag of El Carmen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/20px-Flag_of_El_Carmen.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/30px-Flag_of_El_Carmen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_El_Carmen.svg/40px-Flag_of_El_Carmen.svg.png 2x" data-file-width="1000" data-file-height="500" /></a> <b><a href="/wiki/Cant%C3%B3n_El_Carmen" title="Cantón El Carmen">El Carmen</a></b></td>
+<td><a href="/wiki/El_Carmen_(Ecuador)" title="El Carmen (Ecuador)">El Carmen</a></td>
+<td>135.344</td>
+<td>1732</td>
+<td>78,14
+</td></tr>
+<tr>
+<td>4</td>
+<td><a href="/wiki/Archivo:Bandera_de_Flavio_Alfaro.png" class="image"><img alt="Bandera de Flavio Alfaro.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/20px-Bandera_de_Flavio_Alfaro.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/30px-Bandera_de_Flavio_Alfaro.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandera_de_Flavio_Alfaro.png/40px-Bandera_de_Flavio_Alfaro.png 2x" data-file-width="900" data-file-height="533" /></a> <b><a href="/wiki/Cant%C3%B3n_Flavio_Alfaro" title="Cantón Flavio Alfaro">Flavio Alfaro</a></b></td>
+<td><a href="/wiki/Flavio_Alfaro_(ciudad)" title="Flavio Alfaro (ciudad)">Flavio Alfaro</a></td>
+<td>23.822</td>
+<td>1343</td>
+<td>18,61
+</td></tr>
+<tr>
+<td>5</td>
+<td><a href="/wiki/Archivo:Bandera_de_Jama.png" class="image"><img alt="Bandera de Jama.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/20px-Bandera_de_Jama.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/30px-Bandera_de_Jama.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_Jama.png/40px-Bandera_de_Jama.png 2x" data-file-width="950" data-file-height="612" /></a> <b><a href="/wiki/Cant%C3%B3n_Jama" title="Cantón Jama">Jama</a></b></td>
+<td><a href="/wiki/Jama_(Ecuador)" title="Jama (Ecuador)">Jama</a></td>
+<td>26.116</td>
+<td>575</td>
+<td>40,44
+</td></tr>
+<tr>
+<td>6</td>
+<td><a href="/wiki/Archivo:Flag_of_Jaramij%C3%B3.svg" class="image"><img alt="Flag of Jaramijó.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/20px-Flag_of_Jaramij%C3%B3.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/30px-Flag_of_Jaramij%C3%B3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Jaramij%C3%B3.svg/40px-Flag_of_Jaramij%C3%B3.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <b><a href="/wiki/Cant%C3%B3n_Jaramij%C3%B3" title="Cantón Jaramijó">Jaramijó</a></b></td>
+<td><a href="/wiki/Jaramij%C3%B3" title="Jaramijó">Jaramijó</a></td>
+<td>28.439</td>
+<td>97</td>
+<td>190,57
+</td></tr>
+<tr>
+<td>7</td>
+<td><a href="/wiki/Archivo:Flag_of_Jipijapa.svg" class="image"><img alt="Flag of Jipijapa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/20px-Flag_of_Jipijapa.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/30px-Flag_of_Jipijapa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Jipijapa.svg/40px-Flag_of_Jipijapa.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <b><a href="/wiki/Cant%C3%B3n_Jipijapa" title="Cantón Jipijapa">Jipijapa</a></b></td>
+<td><a href="/wiki/Jipijapa_(Ecuador)" class="mw-redirect" title="Jipijapa (Ecuador)">Jipijapa</a></td>
+<td>74.645</td>
+<td>1420</td>
+<td>50,08
+</td></tr>
+<tr>
+<td>8</td>
+<td><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png" class="image"><img alt="Bandera del Cantón Junín.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/20px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/30px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png/40px-Bandera_del_Cant%C3%B3n_Jun%C3%ADn.png 2x" data-file-width="1000" data-file-height="588" /></a> <b><a href="/wiki/Cant%C3%B3n_Jun%C3%ADn" title="Cantón Junín">Junín</a></b></td>
+<td><a href="/w/index.php?title=Jun%C3%ADn_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Junín (Ecuador) (aún no redactado)">Junín</a></td>
+<td>18.820</td>
+<td>246</td>
+<td>77
+</td></tr>
+<tr>
+<td>9</td>
+<td><span class="flagicon"><a href="/wiki/Archivo:Flag_of_Manta.svg" class="image" title="Bandera de Manta"><img alt="Bandera de Manta" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/20px-Flag_of_Manta.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/30px-Flag_of_Manta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Manta.svg/40px-Flag_of_Manta.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <b><a href="/wiki/Cant%C3%B3n_Manta" title="Cantón Manta">Manta</a></b></td>
+<td><a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a></td>
+<td>264.281</td>
+<td>309</td>
+<td>1027,34
+</td></tr>
+<tr>
+<td>10</td>
+<td><a href="/wiki/Archivo:Flag_of_Montecristi.svg" class="image"><img alt="Flag of Montecristi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/20px-Flag_of_Montecristi.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/30px-Flag_of_Montecristi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Montecristi.svg/40px-Flag_of_Montecristi.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <b><a href="/wiki/Cant%C3%B3n_Montecristi" title="Cantón Montecristi">Montecristi</a></b></td>
+<td><a href="/wiki/Montecristi_(Ecuador)" title="Montecristi (Ecuador)">Montecristi</a></td>
+<td>107.785</td>
+<td>734</td>
+<td>95,76
+</td></tr>
+<tr>
+<td>11</td>
+<td><a href="/wiki/Archivo:Bandera_de_Olmedo.png" class="image"><img alt="Bandera de Olmedo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/20px-Bandera_de_Olmedo.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/30px-Bandera_de_Olmedo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Olmedo.png/40px-Bandera_de_Olmedo.png 2x" data-file-width="800" data-file-height="480" /></a> <b><a href="/wiki/Cant%C3%B3n_Olmedo_(Manab%C3%AD)" title="Cantón Olmedo (Manabí)">Olmedo</a></b></td>
+<td><a href="/wiki/Olmedo_(Manab%C3%AD)" title="Olmedo (Manabí)">Olmedo</a></td>
+<td>10.194</td>
+<td>253</td>
+<td>38,9
+</td></tr>
+<tr>
+<td>12</td>
+<td><a href="/wiki/Archivo:Bandera_de_Paj%C3%A1n.png" class="image"><img alt="Bandera de Paján.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/20px-Bandera_de_Paj%C3%A1n.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/30px-Bandera_de_Paj%C3%A1n.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bandera_de_Paj%C3%A1n.png/40px-Bandera_de_Paj%C3%A1n.png 2x" data-file-width="900" data-file-height="504" /></a> <b><a href="/wiki/Cant%C3%B3n_Paj%C3%A1n" title="Cantón Paján">Paján</a></b></td>
+<td><a href="/w/index.php?title=Paj%C3%A1n_(parroquia)&amp;action=edit&amp;redlink=1" class="new" title="Paján (parroquia) (aún no redactado)">Paján</a></td>
+<td>37.093</td>
+<td>1079</td>
+<td>34,35
+</td></tr>
+<tr>
+<td>13</td>
+<td><a href="/wiki/Archivo:Flag_of_Pedernales.svg" class="image"><img alt="Flag of Pedernales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/20px-Flag_of_Pedernales.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/30px-Flag_of_Pedernales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Pedernales.svg/40px-Flag_of_Pedernales.svg.png 2x" data-file-width="750" data-file-height="500" /></a> <b><a href="/wiki/Cant%C3%B3n_Pedernales" title="Cantón Pedernales">Pedernales</a></b></td>
+<td><a href="/wiki/Pedernales_(Ecuador)" title="Pedernales (Ecuador)">Pedernales</a></td>
+<td>63.441</td>
+<td>1932</td>
+<td>28,53
+</td></tr>
+<tr>
+<td>14</td>
+<td><a href="/wiki/Archivo:Bandera_del_Cant%C3%B3n_Pichincha.png" class="image"><img alt="Bandera del Cantón Pichincha.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/20px-Bandera_del_Cant%C3%B3n_Pichincha.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/30px-Bandera_del_Cant%C3%B3n_Pichincha.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Cant%C3%B3n_Pichincha.png/40px-Bandera_del_Cant%C3%B3n_Pichincha.png 2x" data-file-width="800" data-file-height="480" /></a> <b><a href="/wiki/Cant%C3%B3n_Pichincha" title="Cantón Pichincha">Pichincha</a></b></td>
+<td><a href="/w/index.php?title=Pichincha_(ciudad_de_Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Pichincha (ciudad de Ecuador) (aún no redactado)">Pichincha</a></td>
+<td>29.599</td>
+<td>1067</td>
+<td>28,34
+</td></tr>
+<tr>
+<td>15</td>
+<td><span class="flagicon"><a href="/wiki/Archivo:Flag_of_Portoviejo.svg" class="image" title="Bandera de Portoviejo"><img alt="Bandera de Portoviejo" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/20px-Flag_of_Portoviejo.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/30px-Flag_of_Portoviejo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Portoviejo.svg/40px-Flag_of_Portoviejo.svg.png 2x" data-file-width="1023" data-file-height="512" /></a></span> <b><a href="/wiki/Cant%C3%B3n_Portoviejo" title="Cantón Portoviejo">Portoviejo</a></b></td>
+<td><a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a></td>
+<td>321.800</td>
+<td>968</td>
+<td>289,28
+</td></tr>
+<tr>
+<td>16</td>
+<td><a href="/wiki/Archivo:Bandera_de_Puerto_L%C3%B3pez.png" class="image"><img alt="Bandera de Puerto López.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/20px-Bandera_de_Puerto_L%C3%B3pez.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/30px-Bandera_de_Puerto_L%C3%B3pez.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bandera_de_Puerto_L%C3%B3pez.png/40px-Bandera_de_Puerto_L%C3%B3pez.png 2x" data-file-width="800" data-file-height="480" /></a> <b><a href="/wiki/Cant%C3%B3n_Puerto_L%C3%B3pez" title="Cantón Puerto López">Puerto López</a></b></td>
+<td><a href="/wiki/Puerto_L%C3%B3pez_(Ecuador)" title="Puerto López (Ecuador)">Puerto López</a></td>
+<td>24.688</td>
+<td>420</td>
+<td>48,69
+</td></tr>
+<tr>
+<td>17</td>
+<td><a href="/wiki/Archivo:Bandera_de_Rocafuerte.png" class="image"><img alt="Bandera de Rocafuerte.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/20px-Bandera_de_Rocafuerte.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/30px-Bandera_de_Rocafuerte.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bandera_de_Rocafuerte.png/40px-Bandera_de_Rocafuerte.png 2x" data-file-width="570" data-file-height="333" /></a> <b><a href="/wiki/Cant%C3%B3n_Rocafuerte" title="Cantón Rocafuerte">Rocafuerte</a></b></td>
+<td><a href="/w/index.php?title=Rocafuerte_(ciudad)&amp;action=edit&amp;redlink=1" class="new" title="Rocafuerte (ciudad) (aún no redactado)">Rocafuerte</a></td>
+<td>37.312</td>
+<td>280</td>
+<td>119,53
+</td></tr>
+<tr>
+<td>18</td>
+<td><a href="/wiki/Archivo:BanderaSanVicente.jpg" class="image"><img alt="BanderaSanVicente.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/20px-BanderaSanVicente.jpg" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/30px-BanderaSanVicente.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BanderaSanVicente.jpg/40px-BanderaSanVicente.jpg 2x" data-file-width="950" data-file-height="533" /></a> <b><a href="/wiki/Cant%C3%B3n_San_Vicente" title="Cantón San Vicente">San Vicente</a></b></td>
+<td><a href="/w/index.php?title=San_Vicente_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="San Vicente (Ecuador) (aún no redactado)">San Vicente</a></td>
+<td>24.799</td>
+<td>718</td>
+<td>51,63
+</td></tr>
+<tr>
+<td>19</td>
+<td><a href="/wiki/Archivo:Bandera_de_Santa_Ana_de_Vuelta_Larga.png" class="image"><img alt="Bandera de Santa Ana de Vuelta Larga.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/20px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/30px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Santa_Ana_de_Vuelta_Larga.png/40px-Bandera_de_Santa_Ana_de_Vuelta_Larga.png 2x" data-file-width="800" data-file-height="500" /></a> <b><a href="/wiki/Cant%C3%B3n_Santa_Ana_(Ecuador)" title="Cantón Santa Ana (Ecuador)">Santa Ana</a></b></td>
+<td><a href="/w/index.php?title=Santa_Ana_de_Vuelta_Larga&amp;action=edit&amp;redlink=1" class="new" title="Santa Ana de Vuelta Larga (aún no redactado)">Santa Ana de Vuelta Larga</a></td>
+<td>48.152</td>
+<td>1022</td>
+<td>46,36
+</td></tr>
+<tr>
+<td>20</td>
+<td><a href="/wiki/Archivo:Flag_of_Sucre.svg" class="image"><img alt="Flag of Sucre.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/20px-Flag_of_Sucre.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/30px-Flag_of_Sucre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sucre.svg/40px-Flag_of_Sucre.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <b><a href="/wiki/Cant%C3%B3n_Sucre" title="Cantón Sucre">Sucre</a></b></td>
+<td><a href="/wiki/Bah%C3%ADa_de_Car%C3%A1quez" title="Bahía de Caráquez">Bahía de Caráquez</a></td>
+<td>62.443</td>
+<td>764</td>
+<td>77,43
+</td></tr>
+<tr>
+<td>21</td>
+<td><a href="/wiki/Archivo:Bandera_de_Tosagua.png" class="image"><img alt="Bandera de Tosagua.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/20px-Bandera_de_Tosagua.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/30px-Bandera_de_Tosagua.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandera_de_Tosagua.png/40px-Bandera_de_Tosagua.png 2x" data-file-width="400" data-file-height="202" /></a> <b><a href="/wiki/Cant%C3%B3n_Tosagua" title="Cantón Tosagua">Tosagua</a></b></td>
+<td><a href="/wiki/Tosagua" title="Tosagua">Tosagua</a></td>
+<td>42.297</td>
+<td>377</td>
+<td>101,7
+</td></tr>
+<tr>
+<td>22</td>
+<td><a href="/wiki/Archivo:Bandera_de_24_de_Mayo.png" class="image"><img alt="Bandera de 24 de Mayo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/20px-Bandera_de_24_de_Mayo.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/30px-Bandera_de_24_de_Mayo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandera_de_24_de_Mayo.png/40px-Bandera_de_24_de_Mayo.png 2x" data-file-width="700" data-file-height="400" /></a> <b><a href="/wiki/Cant%C3%B3n_Veinticuatro_de_Mayo" title="Cantón Veinticuatro de Mayo">Veinticuatro de Mayo</a></b></td>
+<td><a href="/wiki/Sucre_(Ecuador)" title="Sucre (Ecuador)">Sucre</a></td>
+<td>28.512</td>
+<td>524</td>
+<td>55,04
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Turismo">Turismo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=11" title="Editar sección: Turismo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La provincia de Manabí cuenta con 320 kilómetros de playa, desde <a href="/w/index.php?title=Ayampe&amp;action=edit&amp;redlink=1" class="new" title="Ayampe (aún no redactado)">Ayampe</a> (en el sur) hasta <a href="/wiki/Cojim%C3%ADes" title="Cojimíes">Cojimíes</a> (en el norte). Geografía caracterizada por acantilados, desembocaduras, estuarios, islotes, islas, lajas y rocas. Desde el norte al sur cuenta con balnearios marítimos y balnearios de agua dulce.
+</p>
+<ul><li><b>En la zona norte:</b> <a href="/wiki/Bah%C3%ADa_de_Car%C3%A1quez" title="Bahía de Caráquez">Bahía de Caráquez</a>, San Vicente, Chirije, Cojimíes, Pedernales, Punta Palmar, Jama, El Matal, Canoa, Don Juan, Briceño y otras.</li>
+<li><b>En la zona centro y sur:</b> Puerto Cayo, San Jacinto, San Clemente, Crucita, <a href="/wiki/Playa_Murci%C3%A9lago" class="mw-redirect" title="Playa Murciélago">El Murciélago</a>, Santa Marianita, San Lorenzo, Machalilla, Los Frailes, Puerto López, Salango, Ayampe.</li></ul>
+<h2><span id="Demograf.C3.ADa"></span><span class="mw-headline" id="Demografía">Demografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=12" title="Editar sección: Demografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Playa_murcielago.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Playa_murcielago.jpg/300px-Playa_murcielago.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Playa_murcielago.jpg/450px-Playa_murcielago.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Playa_murcielago.jpg/600px-Playa_murcielago.jpg 2x" data-file-width="900" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Playa_murcielago.jpg" class="internal" title="Aumentar"></a></div>Playa "El Murciélago" de Manta.</div></div></div>
+<p>Su población es de 1&#8201;395&#8201;249 habitantes.
+</p>
+<ul><li>tasa anual de crecimiento: 1,65%</li>
+<li>edad media de la población: 28,2 años</li>
+<li>analfabetismo &gt;=15 años: 10,2%</li>
+<li>analfabetismo digital &gt;=10 años: 34,3%</li></ul>
+<h3><span id="Composici.C3.B3n_.28Seg.C3.BAn_el_censo_de_2010.29.5B5.5D.E2.80.8B"></span><span class="mw-headline" id="Composición_(Según_el_censo_de_2010)[5]​">Composición (Según el censo de 2010)<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=13" title="Editar sección: Composición (Según el censo de 2010)[5]​">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mestizos" class="mw-redirect" title="Mestizos">Mestizos</a>: 69,7%</li>
+<li><a href="/wiki/Montubio" class="mw-redirect" title="Montubio">Montubios</a>: 19,2%</li>
+<li><a href="/wiki/Afroecuatorianos" class="mw-redirect" title="Afroecuatorianos">Afroecuatorianos</a>: 6,0%</li>
+<li><a href="/wiki/Blanco_(persona)" title="Blanco (persona)">Blancos</a>: 4,7%</li>
+<li>Otros: 0,3%</li>
+<li><a href="/wiki/Ind%C3%ADgenas" class="mw-redirect" title="Indígenas">Indígenas</a>: 0,2%</li></ul>
+<p>También la provincia consta en tener la 3.ª <a href="/wiki/%C3%81rea_metropolitana" title="Área metropolitana">área metropolitana</a> más poblada del país. La <a href="/wiki/Conurbaci%C3%B3n_de_Portoviejo" class="mw-redirect" title="Conurbación de Portoviejo">Conurbación de Portoviejo</a> es la región metropolitana más poblada de Manabí y 3.ª en <i>ranking</i> nacional con 686&#8201;140 habitantes. Portoviejo es considerada la cabecera de esta conurbación y Manta el puerto principal de la red urbana. Los demás 4 cantones que están dentro de esta conurbación son considerados cantones suburbanos de Portoviejo y Manta. Se dice que con más de 685&#8201;000 habitantes casi la mitad de la población manabita vive dentro de esta conurbación.
+</p>
+<center>
+<table class="toc" cellpadding="0" cellspacing="2" width="45%" style="float:center; text-align:center;clear:all; margin-left:3px; font-size:90%">
+<tbody><tr>
+<td style="background-color:#4bc663; text-align:center;" colspan="4"><b>Evolución de la población de la provincia de Manabí<br />cantón Portoviejo y ciudad de Portoviejo</b><sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td width="80" align="center" style="background-color:#68dd7f;"><b>Censos</b>
+</td>
+<td width="110" align="center" style="background-color:#68dd7f;"><b>Provincia de Manabí</b>
+</td>
+<td width="110" align="center" style="background-color:#68dd7f;"><b><a href="/wiki/Cant%C3%B3n_Portoviejo" title="Cantón Portoviejo">Cantón Portoviejo</a></b>
+</td>
+<td width="110" align="center" style="background-color:#68dd7f;"><b><a href="/wiki/Portoviejo" title="Portoviejo">Ciudad de Portoviejo</a></b>
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">1.950
+</td>
+<td align="center" style="background-color:#f5f5f5;">401.378
+</td>
+<td align="center" style="background-color:#f5f5f5;">63.090
+</td>
+<td align="center" style="background-color:#f5f5f5;">16.330
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">1.962
+</td>
+<td align="center" style="background-color:#f5f5f5;">612.542
+</td>
+<td align="center" style="background-color:#f5f5f5;">95.651
+</td>
+<td align="center" style="background-color:#f5f5f5;">32.228
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">1.974
+</td>
+<td align="center" style="background-color:#f5f5f5;">817.966
+</td>
+<td align="center" style="background-color:#f5f5f5;">126.957
+</td>
+<td align="center" style="background-color:#f5f5f5;">59.550
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">1.982
+</td>
+<td align="center" style="background-color:#f5f5f5;">906.676
+</td>
+<td align="center" style="background-color:#f5f5f5;">167.085
+</td>
+<td align="center" style="background-color:#f5f5f5;">102.628
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">1.990
+</td>
+<td align="center" style="background-color:#f5f5f5;">1'031.927
+</td>
+<td align="center" style="background-color:#f5f5f5;">202.112
+</td>
+<td align="center" style="background-color:#f5f5f5;">132.937
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">2001
+</td>
+<td align="center" style="background-color:#f5f5f5;">1'186.025
+</td>
+<td align="center" style="background-color:#f5f5f5;">238.430
+</td>
+<td align="center" style="background-color:#f5f5f5;">171.847
+</td></tr>
+<tr>
+<td align="center" style="background-color:#bff2c9;">2010
+</td>
+<td align="center" style="background-color:#f5f5f5;">1'369.780
+</td>
+<td align="center" style="background-color:#f5f5f5;">280.029
+</td>
+<td align="center" style="background-color:#f5f5f5;">206.682
+</td></tr>
+<tr>
+<td style="background-color:#4bc663; text-align:center;" colspan="4"><b>Fuente: <a rel="nofollow" class="external text" href="http://www.ecuadorencifras.gob.ec/documentos/web-inec/Bibliotecas/Fasciculos_Censales/Fasc_Provinciales/Fasciculo_Manabi.pdf">Instituto Nacional de Estadísticas y Censos</a></b>
+</td></tr>
+</tbody></table>
+</center>
+<h2><span id="Cultura_gastron.C3.B3mica"></span><span class="mw-headline" id="Cultura_gastronómica">Cultura gastronómica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=14" title="Editar sección: Cultura gastronómica">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La existencia de los característicos "paradores", restaurantes al borde de la vía, identifican a la provincia. Lo que determina es el frecuente uso del <a href="/wiki/Pl%C3%A1tano_(fruto)" class="mw-redirect" title="Plátano (fruto)">plátano</a> sin madurar y la sazón chonera de fuerte presencia debido a la migración. La gastronomía manabita es reconocida a nivel nacional e internacional, así como sus expresiones tradicionales que se reflejan en sus festividades.
+</p>
+<h2><span id="Dialectos_y_estructura_ling.C3.BC.C3.ADstica"></span><span class="mw-headline" id="Dialectos_y_estructura_lingüística">Dialectos y estructura lingüística</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=15" title="Editar sección: Dialectos y estructura lingüística">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Idioma_espa%C3%B1ol_en_Ecuador" class="mw-redirect" title="Idioma español en Ecuador"> Idioma español en Ecuador</a></i></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo,_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG/300px-Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG/450px-Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG/600px-Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo%2C_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG 2x" data-file-width="4608" data-file-height="3456" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Indigenas_pescando_en_la_Provincia_de_Puerto_Viejo,_basado_en_un_dibujo_de_G._Benzoni_-_Museo_Agua_Blanca.JPG" class="internal" title="Aumentar"></a></div>Indígenas pescando en la Provincia de Puerto Viejo, basado en un dibujo de Girolano Benzoni - Museo Agua Blanca, Cantón Puerto López.</div></div></div>
+<p>En el caso de la provincia de Manabí, originalmente uno de los primeros territorios abordados en los iniciales años de la conquista del <a href="/wiki/Reino_de_Quito" title="Reino de Quito">Reino de Quito</a>, desde 1526 que se produjo el primer contacto euro-americano se hizo posible la mixtura de un lenguaje cuya refiltración constante y variante en el acento se perennizó para no definir un <i>dejo</i>, <i>deje</i> o <i>habla acentuado</i>; originándose este dialecto con indicios históricos hallados en la creación de la antigua <a href="/wiki/Tenencia_de_Puerto_Viejo" title="Tenencia de Puerto Viejo">Tenencia de Puerto Viejo</a>, pues de comprobación se deduce que durante la perduración del <a href="/wiki/Corregimiento_de_Guayaquil" title="Corregimiento de Guayaquil">Corregimiento de Guayaquil</a> los llamados <i>naturales de la Costa por la calidez húmeda</i> tenían una <i>dispar tonalidad del habla</i> a los de la Sierra. Estos arraigos históricos dieron como resultado la consistencia lingüística de una <i>neutralidad frágil</i> y <i>destruible</i> percibida así principalmente en tiempos actuales, por la injerencia de acentos marcadamente cercanos y foráneos, pues se halla considerado por hoy el dialecto más neutro del ámbito lingüístico ecuatorial (catalogado como de aspecto fonético <i>dulce</i> y ciertamente de tonalidad emotiva <i>cruda</i> o <i>franca</i> en relación con las otras variantes ecuatoriales). Incluso el esquema y/o <i>estructura fonética</i> en la pronunciación no es muy distinguible con la presencia de los acentos y tildaciones fijas en las sílabas; además generalmente se halla identificado el uso de palabras referenciales cuyo primitivo origen arábigo-andaluz fue de poco siendo apropiado por la <i>identidad cultural montubia</i>, estando definitivamente ligados al medio de la vida bucólica y campestre del llano. Esto hace posible la caracterización personificada de un dialecto de ramificaciones particulares propiamente de coyuntura racial <i>mestiza</i>, con la aportación indígena de la <a href="/wiki/Cultura_Mante%C3%B1a" class="mw-redirect" title="Cultura Manteña">Cultura Manteña</a> con diversidad de apellidaciones, topónimos y modismos autóctonos que no han sido bien estudiados en su origen y contexto original, debido a que la documentación de los estragos de la conquista en Manabí desaparecieron.
+</p><p>Entre las principales características del <i>dialecto manabita</i> tenemos las siguientes:
+</p>
+<ul><li>Se acortan o reducen algunas consonantes como si estuvieren aminorados los fonemas en un tiempo de mayor diferenciación. Ejemplo: Ocurre exclusivamente con la <i>M</i> o la <i>N</i> terminales e intermedias, cuyas estructuras fonéticas son repetitivas en un <i>un medio de tiempo (1/2)</i> menos antecediendo el tiempo del fonema inicial pronunciado. Así la <i>eme</i> o la <i>ene</i> se repiten medio tiempo menos del sonido producido al inicio en manera consecuente. Esto explica quizás la presencia de estos fonemas en las culturas aborígenes de Manabí, lo cual no es comprobable aún, pero verificable principalmente en la franja costera y el llano periférico de la campiña.</li>
+<li>Curiosamente el tratamiento de la comunicación se precipita con mayor confianza a dar énfasis en frecuentar el uso de <i>sustantivos diminutivos</i> en la forma del habla y no escrita, o por su parte se disminuye la dicha morfología fonética como ocurre con los adjetivos. Ejemplo: de <i>negra</i>, como <i>negrita</i>. De  <i>colorada</i>; como <i>coloradita</i>. Esta conjugación fonética se extiende al verbo que hace que pierda el sentido de las tildes con las palabras esdrújulas en comparación a las graves, dando como producto la escucha de un sentido neutral que forma el dialecto; cuasi tendiéndose a perder el acento total de la palabra de esta manera.</li>
+<li>La cultura montubia ha utilizado a lo largo del tiempo la adulteración lingüística de ciertos sustantivos como verbos y viceversa. Este recurso idiomático tiene su origen en la práctica de la poesía <a href="/wiki/Culteranismo" title="Culteranismo">culterana</a> castellana, pero adaptada a la realidad de la localidad; lastimosamente no existe una recopilación oficial de términos que nos cite la variedad de este discurso diferenciador entre la línea cronológica del manabitismo y de la construcciones culturales ataviadas en <i>lo montubio</i>. Ejemplo de ello pueden ser palabras como <i>viravuelta</i>, <i>capiro</i> u otras <i>quejas neutras</i> propias vinculadas a nominaciones de plantas, frutos y animales. Las <a href="/wiki/Met%C3%A1tesis" title="Metátesis">metátesis</a> ortográficas adoptadas de forma imprecisa desde el siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVI</span> originaron la conjugación de confusas morfologías lingüísticas sustantivales, verbales y adjetivales, en una mezcolanza de pronunciación que impresiona. En su momento las medidas de la <a href="/wiki/Real_Academia_Espa%C3%B1ola" title="Real Academia Española">Real Academia Española</a> replicadas en el plano ecuatorial durante el reinado reformador de <a href="/wiki/Carlos_III_de_Espa%C3%B1a" title="Carlos III de España">Carlos III</a> y en otros gobiernos de la república que fueron abiertamente <i>hispanófilos</i> como el de <a href="/wiki/Juan_Jos%C3%A9_Flores" title="Juan José Flores">Juan José Flores</a> hicieron que estas formas de escritura propias entraran en desuso despectivo o a un plano considerado injustamente <i>vulgar</i>, sin que por lo menos se llegase a elaborar un listado de estos términos ausentes hoy y otros perdidos sin existir alguna muestra de recopilación archivada que debió poseerlos y custodiarlos el <a href="/wiki/Cabildo_colonial" title="Cabildo colonial">cabildo colonial</a> con sede en <a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a> y que los Escribanos lo aprendieron de los indios naturales y mestizos, a motivo de haber desaparecido hasta hoy casi en su totalidad todo el acervo documental de la provincia tocante al periodo colonial inicial e intermedio (reinados de <a href="/wiki/Juana_I_de_Castilla" title="Juana I de Castilla">Joana I</a>, <a href="/wiki/Carlos_I_de_Espa%C3%B1a" title="Carlos I de España">Carlos I</a>, <a href="/wiki/Felipe_II_de_Espa%C3%B1a" title="Felipe II de España">Felipe II</a>, <a href="/wiki/Felipe_III_de_Espa%C3%B1a" title="Felipe III de España">Felipe III</a>, <a href="/wiki/Felipe_IV_de_Espa%C3%B1a" title="Felipe IV de España">Felipe IV</a>, <a href="/wiki/Carlos_II_de_Espa%C3%B1a" title="Carlos II de España">Carlos II</a>, <a href="/wiki/Felipe_V_de_Espa%C3%B1a" title="Felipe V de España">Felipe V</a>, <a href="/wiki/Luis_I_de_Espa%C3%B1a" title="Luis I de España">Luis I</a>, <a href="/wiki/Fernando_VI_de_Espa%C3%B1a" title="Fernando VI de España">Fernando VI</a> e intervalos con <a href="/wiki/Carlos_III_de_Espa%C3%B1a" title="Carlos III de España">Carlos III</a>), además hipotéticamente hubieran servido estos de muchísimo interés y valor para determinar exactamente otras cuestiones de estudios enfocados a las versiones locales de <a href="/wiki/Esteganograf%C3%ADa" title="Esteganografía">esteganografía</a> y <a href="/wiki/Haplolog%C3%ADa" title="Haplología">haplología</a> que se produjeron con la enseñanza privilegiada de la pronunciación y escritura castellana, y así generar investigaciones históricas de particularidades que no se podrán escudriñar jamás.</li>
+<li>Como en muchos dialectos, no existe el fonema interdental sordo y, por lo tanto, se pronuncia como /s/ las palabras con ce, ci o z.</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/Archivo:Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA,_por_Guam%C3%A1n_Poma_de_Ayala.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg/250px-Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg" decoding="async" width="250" height="354" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg/375px-Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg/500px-Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA%2C_por_Guam%C3%A1n_Poma_de_Ayala.jpg 2x" data-file-width="830" data-file-height="1176" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Ciudad_la_Villa_de_Puerto_Viexo_del_Per%C3%BA,_por_Guam%C3%A1n_Poma_de_Ayala.jpg" class="internal" title="Aumentar"></a></div>Ciudad la Villa de Puerto Viexo del Perú, según <a href="/wiki/Felipe_Guam%C3%A1n_Poma_de_Ayala" title="Felipe Guamán Poma de Ayala">Felipe Guamán Poma de Ayala</a>.</div></div></div>
+<ul><li>En la contemporaneidad vigente se suele reducir el <i>llamado tratamiento público</i> o silenciosamente <i>privado</i> que se hace o dirige hacia una persona (el alguien) en singular con el <i>oye</i> delicadamente agudo; el cual equivale al similar <i>oche</i> que ha tendido a relacionarse en <i>tonalidad afeminada</i>, y que reducido de esta manera al amigable <i>oe</i> se percibe un fonema mucho más grave y relacionado en tonalidad de pronunciación masculinizante, pero con énfasis confianzudo, grotesco y anacrónico para quienes no aceptan las abreviaciones interpretadas como <i>vulgarismos</i>. Esta última usanza dialéctica es común entre los jóvenes y las personas de fuerte lazo referencial de amistad o familiar.</li>
+<li>Conservación tangible en la diversidad de vocabularios a manera de tratamiento personal con el <i>castellano antiguo</i> de finales del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVI</span>, que principalmente se relacionan a los objetos comunes de uso. Ejemplo: <i>aljibe</i>, <i>ilustre</i>, <i>Doña</i>, <i>Don</i>, etc. Este tipo de vocabulario coloquial se enfoca en proveer nombres o calificativos tratamiento a la gente adulta o personas desconocidas. Entre mayor relación con el medio bucólico exista, mucho más intensa es la riqueza del vocabulario acumulado.</li>
+<li>El reconocido <i>tratamiento de llamado</i> que reside exclusivamente alrededor de la palabra <i>mande</i> –posiblemente deriva de las <i>mandas montubias</i> o de los mandatos y las órdenes dadas por los <i>señores hacendados patrones</i> a sus sirvientes y trabajadores– es muy común para dar a conocer la atención fija que tiene una persona hacia otra. Históricamente la depreciación de la <i>cultura montubia</i> ha estereotipado el uso de esta palabra que suele interpretarse en los espacios urbanos como inadecuada o insultante. Pero en la privacidad de la comunicación familiar prima su uso cuando los padres llaman o solicitan a sus hijos para disponer que se obedezca alguna orden, dando la tonalidad efusiva el significante de <i>tratamiento motriz</i> o <i>expresión facial</i> a modo cariño y cuando es grave demuestra desafecto o petición radical en condiciones curiosamente ambivalentes.</li>
+<li>El <i>tú</i> llamado <i>trato de tuteo</i> y el de <i>usted</i>, llamado <i>trato de señoreo</i>, <i>de señorear</i> o <i>doneo</i> (derivación referencial del <i>Don</i> masculino y el <i>Doña</i> femenino). El primer tratamiento se asocia con la confianza familiar o amistosa, mientras que el segundo marca una distancia de respeto, edad, experiencia, jerarquía y hasta señoreaje de obediencia (tono de sumisión feudal). Depende también quién lo asocie pronunciar al comportamiento individual de cada persona, hallándose otra diferencia secundaria que suele abordarse el <i>tú</i> para las personas conocidas y el <i>usted</i> por el contrario para las desconocidas.</li>
+<li>Los <i>sustantivos aumentativos</i> cuyas terminaciones suelen ser en <i>-ísimo/-a</i>, <i>-sísimo/-a</i>, con los <i>ismos</i>, o en las terminaciones exagerativas <i>ón/ona</i>, son contrarios a la costumbre de colocar modismos ortográficos y abreviaciones propias de la comunicación de la lengua castellana actual, con tendencia a exagerar la situación vivencial del <i>algo</i> o el <i>alguien</i> referencial. Así por ejemplo es muy típico en este lenguaje oír la pronunciación de palabras que suenan a <i>halagos</i> o <i>sublimaciones interpersonales</i>, lo cual es tomado como exceso de confianza o manera de atrevimiento e imprudencia lingüística, hasta entender el logro de cortesías extremadamente redundantes, aunque la sencillez contemporánea tiende a que se pierda estas manera de calificar el uso de palabras durante la <i>conversación</i>. Ejemplo: de <i>bella</i>, <i>bellísima</i> y <i>bellisísima</i>. De <i>fuerte</i>, <i>fuertón</i>, <i>fuertísimo</i>, <i>fuertisísimo</i> (esto muy vinculado con el habla montubia). De <i>tostado</i>, deriva en <i>tuestado</i> y surgen <i>tuestao</i>, <i>tuestado</i> o <i>tuesto</i>, <i>tuestadísimo</i>, <i>tuestadisísimo</i> y hasta en verbo como <i>tostar</i>. Asimismo vuelve a la conjugación inicial como <i>tostadísimo</i> y sus variantes. Todo esto es simplemente el resultado de palabras preocupadas por conjugar del relativo de <i>tostado</i> que viene del verbo <i>tostar</i> (la conjugación de los pronombres de esta última palabra es muy confusa a nivel jurisdiccional). Otro ejemplo es de <i>pocillo</i>, con <i>-illo</i>, de <i>loquilla</i>, con <i>-illa</i> y de <i>locario</i>, con <i>-rio</i>, a modo de indicar <i>pequeñez física</i> o <i>grandeza</i> en la exageración de un comportamiento.</li>
+<li>Concreto uso de sinónimos en palabras que significan una sola cosa pero que se relacionan con un ámbito o ambiente distinto. Relativos de la palabra revisar y coger tales como: <i>adentrar</i>, <i>apañar</i>, <i>aguaitar</i>, <i>tantear</i>. Así por ejemplo <i>adentrar</i> es colocarse o meterse abajo, encima o en medio de algo. <i>Apañar</i> es recoger cualquier cuerpo o ente caído y visto. <i>Aguaitar</i> es revisar algo relacionado con los animales y la flora en lo lejano. <i>Tantear</i> es usual para el uso de sucesos o acontecimientos precipitados dentro del espacio de la casa o de las huertas y cultivos adyacentes a estas, además es una pesquisa cometida con un fin determinado. <i>Aventar</i>, se entiende como <i>echar</i> o <i>atrever</i>.</li>
+<li>La compra o venta de ciertos productos y bastimentos en su pronunciación corresponden a nombres cuyo sistema de medidas es netamente originario de las equivalencias y significados de las <a href="/wiki/Antiguas_medidas_espa%C3%B1olas" title="Antiguas medidas españolas">antiguas medidas españolas</a> o de procedencia castellana, principalmente los adoptados desde la <a href="/wiki/Crisis_del_siglo_XVII" title="Crisis del siglo XVII">crisis del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVII</span></a>. Por lo general ciertas denominaciones de este tiempo focalizándonos en la <i>identidad montubia</i> ha sido expuesto a ser ridiculizado por un punto de vista netamente despectivo de la <a href="/wiki/Burgues%C3%ADa" title="Burguesía">burguesía</a> local intitulada como réplica de las <i>novelerías y maneras guayaquileñas</i> debido al exceso de influencia mercantil y política en Manabí desde la independencia, y por quienes en la <a href="/wiki/Siglo_XIX" title="Siglo XIX">decimononimia</a> adoptaron neoextranjerismos <i>anglosajones</i> o <i><a href="/wiki/Anglicismo" title="Anglicismo">anglicismos</a></i> y <i>francófilos</i> o <i>galicismos</i>, pasando las primitivas denominaciones castellanas a un desuso que solamente predominó en el ambiente de la campiña; por tanto hubo un momento de depreciación cultural autóctona para estereotipar y satirizar al habitante de la montaña erradamente. Esto es tan notorio que se respeta incluso la originalidad de la palabra extranjera sin respetársele adecuadamente la transformación al castellano para muchos casos.</li>
+<li>El medio social de abolengo que habita la campiña y que ostenta la posesión de terrenos vastos, suele incluir <i>expresiones alusivas de cultas</i> en la etiqueta del tratamiento típico de la <a href="/wiki/Colonizaci%C3%B3n_espa%C3%B1ola_de_Am%C3%A9rica" title="Colonización española de América">colonia</a>; usando ciertos vocabularios que reseñan el <i>adulador</i>, <i>caballeresco</i> y <i>nobiliario</i> comportamiento <i>señoritista castellano-<a href="/wiki/Andaluc%C3%ADa" title="Andalucía">andaluz</a></i> del <a href="/wiki/Siglo_de_Oro" title="Siglo de Oro">Siglo de Oro Español</a>.</li>
+<li>Actualmente es notoria la imprecisión de <i>lo contable</i> y <i>no contable</i> que se adopta como <i>simplismo idiomático</i> en el vocabulario urbano y de rural circunstancia sin desarrollo comercial elevado, pues existen caracteres aplicados en el <i>lenguaje coloquial</i>. Ejemplo: <i>Comprar un agua</i>, sin especificar a la o las <i>botella(s) de agua</i>. <i>Aguaitar el ají</i>, sin referirse a <i>coger los ajíes de la mata</i>, en persona plural, por lo que sucede una extensiva confusión notoria entre el número de sustantivos existentes, que no especifican cantidades ni lugares o características físicas exactas muchas veces.</li>
+<li>En el habla montubia de antaño trasciende un desfase ortográfico y lingüístico entre la pronunciación de palabras cuyas características por un lado tienden a conjugar dos consonantes en una sola palabra velozmente 1/4 de tiempo sin rescatar el desliz de la lengua: Así por ejemplo del verbo <i>pasar</i> en tiempo presente es <i>pasja</i> o <i>pajsa</i>, de lo cual la <i>letra intrusa</i> del desfase apenas se pronuncia en un tiempo fonemático inferior a la mitad de la conjugación plena asociada a cualquier otra vocal. Y por el otro ámbito es vinculante la manera de reducirse con la mitad de su composición terminal que connota brevedad y ambigüedad: Así por ejemplo: <i>compa</i>, por <i>compañero</i> o <i>compadre</i>. Aplicado esto en el coloquio verbal solamente.</li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=16" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Portoviejo" title="Portoviejo">Portoviejo</a></li>
+<li><a href="/wiki/Provincias_del_Ecuador" class="mw-redirect" title="Provincias del Ecuador">Provincias del Ecuador</a></li>
+<li><a href="/wiki/Regi%C3%B3n_Litoral_de_Ecuador" class="mw-redirect" title="Región Litoral de Ecuador">Región Litoral de Ecuador</a></li>
+<li><a href="/wiki/Anexo:Prefectos_de_Manab%C3%AD" title="Anexo:Prefectos de Manabí">Anexo:Prefectos de Manabí</a></li>
+<li><a href="/wiki/Conurbaci%C3%B3n_de_Portoviejo" class="mw-redirect" title="Conurbación de Portoviejo">Conurbación de Portoviejo</a></li>
+<li><a href="/wiki/Manta_(Ecuador)" title="Manta (Ecuador)">Manta</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=17" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2022.xlsx">http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2022.xlsx</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 40</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 49</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 43</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span id="CITAREFEn_Cifras2010" class="citation web">En Cifras, Ecuador (2010). <a rel="nofollow" class="external text" href="https://www.ecuadorencifras.gob.ec/wp-content/descargas/Manu-lateral/Resultados-provinciales/manabi.pdf">«Ecuador en Cifras»</a>. INEC.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProvincia+de+Manab%C3%AD&amp;rft.au=En+Cifras%2C+Ecuador&amp;rft.aufirst=Ecuador&amp;rft.aulast=En+Cifras&amp;rft.btitle=Ecuador+en+Cifras&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pub=INEC&amp;rft_id=https%3A%2F%2Fwww.ecuadorencifras.gob.ec%2Fwp-content%2Fdescargas%2FManu-lateral%2FResultados-provinciales%2Fmanabi.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecuadorencifras.gob.ec/documentos/web-inec/Bibliotecas/Fasciculos_Censales/Fasc_Provinciales/Fasciculo_Manabi.pdf"><b>INEC</b> <i>Consultado el sábado 15 de abril del 2017 18:49</i></a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_Manab%C3%AD&amp;action=edit&amp;section=18" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Manab%C3%AD_Province" class="extiw" title="commons:Category:Manabí Province">Provincia de Manabí</a></b>.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150413161402/http://www.manabi.gob.ec/">Gobierno Provincial de Manabí</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gobernacionmanabi.gob.ec">Gobernación de Manabí</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q504666" class="extiw" title="wikidata:Q504666">Q504666</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Manabí_Province">Manabí Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q504666%22">Q504666</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Francia" title="Biblioteca Nacional de Francia">BNF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb123455111">123455111</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb123455111">(data)</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4217589-6">4217589-6</a></span></li>
+<li><b>Lugares</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/OpenStreetMap" title="OpenStreetMap">OSM</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/relation/112910">112910</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Getty_Thesaurus_of_Geographic_Names" class="mw-redirect" title="Getty Thesaurus of Geographic Names">TGN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://vocab.getty.edu/page/tgn/1001411">1001411</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q504666" class="extiw" title="wikidata:Q504666">Q504666</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Manabí_Province">Manabí Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q504666%22">Q504666</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1351
+Cached time: 20230707174343
+Cache expiry: 22578
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.547 seconds
+Real time usage: 0.699 seconds
+Preprocessor visited node count: 6754/1000000
+Post‐expand include size: 62257/2097152 bytes
+Template argument size: 10314/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6101/5000000 bytes
+Lua time usage: 0.220/10.000 seconds
+Lua memory usage: 5048506/52428800 bytes
+Number of Wikibase entities loaded: 6/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  476.295      1 -total
+ 56.47%  268.953      1 Plantilla:Ficha_de_entidad_subnacional
+ 53.01%  252.499      1 Plantilla:Ficha
+ 32.72%  155.842      1 Plantilla:Control_de_autoridades
+ 20.80%   99.079     25 Plantilla:Propiedad
+  6.66%   31.712      1 Plantilla:Listaref
+  4.85%   23.099      1 Plantilla:Coord
+  4.82%   22.939      1 Plantilla:Cita_web
+  3.29%   15.675      1 Plantilla:Bandera2
+  2.98%   14.189      1 Plantilla:Map_draw
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:175189-0!canonical and timestamp 20230707174343 and revision id 152292963. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Provincia_de_Manabí&amp;oldid=152292963">https://es.wikipedia.org/w/index.php?title=Provincia_de_Manabí&amp;oldid=152292963</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Manab%C3%AD" title="Categoría:Manabí">Manabí</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_por_trasladar_a_Wikidata" title="Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata">Wikipedia:Artículos con datos por trasladar a Wikidata</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_ficha_sin_actualizar" title="Categoría:Wikipedia:Artículos con ficha sin actualizar">Wikipedia:Artículos con ficha sin actualizar</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNF" title="Categoría:Wikipedia:Artículos con identificadores BNF">Wikipedia:Artículos con identificadores BNF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_GND" title="Categoría:Wikipedia:Artículos con identificadores GND">Wikipedia:Artículos con identificadores GND</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_Relaci%C3%B3n_OSM" title="Categoría:Wikipedia:Artículos con identificadores Relación OSM">Wikipedia:Artículos con identificadores Relación OSM</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_TGN" title="Categoría:Wikipedia:Artículos con identificadores TGN">Wikipedia:Artículos con identificadores TGN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:P%C3%A1ginas_con_mapas" title="Categoría:Wikipedia:Páginas con mapas">Wikipedia:Páginas con mapas</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 5 jul 2023 a las 23:07.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución Compartir Igual 4.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//foundation.wikimedia.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Provincia_de_Manab%C3%AD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="cdx-button cdx-button--icon-only vector-limited-width-toggle"
+	><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1419","wgBackendResponseTime":113,"wgKartographerLiveData":{"_cb2a503dfc119c6b9f03fd68fa2a6e36f0d34cd9":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q504666","properties":{"fill-opacity":0.1,"title":"geoshape1","fill":"#4D87CA"}}]},"wgPageParseReport":{"limitreport":{"cputime":"0.547","walltime":"0.699","ppvisitednodes":{"value":6754,"limit":1000000},"postexpandincludesize":{"value":62257,"limit":2097152},"templateargumentsize":{"value":10314,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6101,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00%  476.295      1 -total"," 56.47%  268.953      1 Plantilla:Ficha_de_entidad_subnacional"," 53.01%  252.499      1 Plantilla:Ficha"," 32.72%  155.842      1 Plantilla:Control_de_autoridades"," 20.80%   99.079     25 Plantilla:Propiedad","  6.66%   31.712      1 Plantilla:Listaref","  4.85%   23.099      1 Plantilla:Coord","  4.82%   22.939      1 Plantilla:Cita_web","  3.29%   15.675      1 Plantilla:Bandera2","  2.98%   14.189      1 Plantilla:Map_draw"]},"scribunto":{"limitreport-timeusage":{"value":"0.220","limit":"10.000"},"limitreport-memusage":{"value":5048506,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20230707174343","ttl":22578,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de Manab\u00ed","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_Manab%C3%AD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q504666","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q504666","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-13T17:43:48Z","dateModified":"2023-07-05T23:07:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/Manabi_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de Manab\u00ed","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_Manab%C3%AD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q504666","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q504666","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-13T17:43:48Z","dateModified":"2023-07-05T23:07:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/Manabi_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script>
+</body>
+</html>

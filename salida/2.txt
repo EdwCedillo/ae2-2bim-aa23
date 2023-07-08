@@ -1,0 +1,1256 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Provincia de El Oro - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )eswikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"41bb5842-95b7-476d-a9ab-f8aaf6ffbcd7",
+"wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Provincia_de_El_Oro","wgTitle":"Provincia de El Oro","wgCurRevisionId":152242316,"wgRevisionId":152242316,"wgArticleId":86714,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos con ficha sin actualizar","Wikipedia:Artículos sin imagen en entidad subnacional","Wikipedia:Artículos con identificadores BNF","Wikipedia:Artículos con identificadores Relación OSM","Wikipedia:Artículos con identificadores TGN","Wikipedia:Páginas con mapas","El Oro"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Provincia_de_El_Oro","wgRelevantArticleId":86714,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{
+"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"español","wgCoordinates":{"lat":-3.4833333333333,"lon":-79.816666666667},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q466019","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready",
+"skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo",
+"ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.16">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/1200px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1291">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/800px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="861">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/640px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="689">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Provincia de El Oro - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Provincia_de_El_Oro">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Provincia_de_El_Oro">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Provincia_de_El_Oro rootpage-Provincia_de_El_Oro skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Menú principal"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">En Wikipedia, los enlaces de idiomas se encuentran en la parte superior de la página, frente al título del artículo. <a href="#p-lang-btn">Ir arriba</a>.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="La enciclopedia libre"
+			src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar"
+	
+		id=""
+		class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+		title="Buscar en este wiki [f]"accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							
+						>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Herramientas personales" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+El+Oro" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+El+Oro" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas personales"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+El+Oro" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+El+Oro" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Historia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Historia</div>
+		</a>
+		
+			<button aria-controls="toc-Historia-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Historia</span>
+			</button>
+		
+		<ul id="toc-Historia-sublist" class="vector-toc-list">
+			<li id="toc-Época_colonial"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Época_colonial">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Época colonial</div>
+			</a>
+			
+			<ul id="toc-Época_colonial-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Independencia_y_Gran_Colombia"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Independencia_y_Gran_Colombia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Independencia y Gran Colombia</div>
+			</a>
+			
+			<ul id="toc-Independencia_y_Gran_Colombia-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Época_floreana"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Época_floreana">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>Época floreana</div>
+			</a>
+			
+			<ul id="toc-Época_floreana-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Batalla_de_la_Carreta"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Batalla_de_la_Carreta">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span>Batalla de la Carreta</div>
+			</a>
+			
+			<ul id="toc-Batalla_de_la_Carreta-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ferrocarril"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Ferrocarril">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5</span>Ferrocarril</div>
+			</a>
+			
+			<ul id="toc-Ferrocarril-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Inicios_del_siglo_XX"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Inicios_del_siglo_XX">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6</span>Inicios del siglo&nbsp;<span>XX</span></div>
+			</a>
+			
+			<ul id="toc-Inicios_del_siglo_XX-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Actualidad"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Actualidad">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.7</span>Actualidad</div>
+			</a>
+			
+			<ul id="toc-Actualidad-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Gobierno"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gobierno">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Gobierno</div>
+		</a>
+		
+		<ul id="toc-Gobierno-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Geografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Geografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Geografía</div>
+		</a>
+		
+			<button aria-controls="toc-Geografía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Geografía</span>
+			</button>
+		
+		<ul id="toc-Geografía-sublist" class="vector-toc-list">
+			<li id="toc-Límites"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Límites">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Límites</div>
+			</a>
+			
+			<ul id="toc-Límites-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Clima"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Clima">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Clima</div>
+			</a>
+			
+			<ul id="toc-Clima-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Hidrografía"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hidrografía">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.3</span>Hidrografía</div>
+			</a>
+			
+			<ul id="toc-Hidrografía-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Orografía"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Orografía">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.4</span>Orografía</div>
+			</a>
+			
+			<ul id="toc-Orografía-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Gobierno_y_política"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gobierno_y_política">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Gobierno y política</div>
+		</a>
+		
+			<button aria-controls="toc-Gobierno_y_política-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Gobierno y política</span>
+			</button>
+		
+		<ul id="toc-Gobierno_y_política-sublist" class="vector-toc-list">
+			<li id="toc-Política"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Política">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Política</div>
+			</a>
+			
+			<ul id="toc-Política-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-División_administrativa"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#División_administrativa">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>División administrativa</div>
+			</a>
+			
+			<ul id="toc-División_administrativa-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Fiestas_Populares"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Fiestas_Populares">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Fiestas Populares</div>
+		</a>
+		
+		<ul id="toc-Fiestas_Populares-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Gastronomía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gastronomía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Gastronomía</div>
+		</a>
+		
+		<ul id="toc-Gastronomía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Tabla de contenidos">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Cambiar a la tabla de contenidos</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Cambiar a la tabla de contenidos"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Provincia de El Oro</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-dropdown-checkbox mw-interlanguage-selector"
+		aria-label="Ir a un artículo en otro idioma. Disponible en 44 idiomas"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-44"
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-dropdown-label-text">44 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D8%A5%D9%84_%D8%A3%D9%88%D8%B1%D9%88" title="مقاطعة إل أورو (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Provincia_d%27El_Oro" title="Provincia d&#039;El Oro (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-%D0%9E%D1%80%D0%B0_(%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F)" title="Эль-Ора (правінцыя) (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-%D0%9E%D1%80%D0%B0" title="Эль-Ора (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BB_%D0%9E%D1%80%D0%BE_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Ел Оро (провинция) (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/El_Oro" title="El Oro (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Provincia_de_El_Oro" title="Provincia de El Oro (cebuano)" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Provinz_El_Oro" title="Provinz El Oro (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/El_Oro_Province" title="El Oro Province (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Provinco_El_Oro" title="Provinco El Oro (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/El_Oro_probintzia" title="El Oro probintzia (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%D9%84_%D8%A7%D9%88%D8%B1%D9%88" title="استان ال اورو (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/El_Oro" title="El Oro (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/El_Oro" title="El Oro (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/El_Oro_(Prowins)" title="El Oro (Prowins) (frisón septentrional)" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%95%D7%96_%D7%90%D7%9C_%D7%90%D7%95%D7%A8%D7%95" title="מחוז אל אורו (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/El_Oro_tartom%C3%A1ny" title="El Oro tartomány (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B7%D5%AC_%D5%95%D6%80%D5%B8_(%D5%BA%D6%80%D5%B8%D5%BE%D5%AB%D5%B6%D6%81%D5%AB%D5%A1)" title="Էլ Օրո (պրովինցիա) (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Provinsi_El_Oro" title="Provinsi El Oro (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Provincia_di_El_Oro" title="Provincia di El Oro (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%AD%E7%9C%8C" title="エル・オロ県 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A-%E1%83%9D%E1%83%A0%E1%83%9D%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="ელ-ოროს პროვინცია (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%97%98%EC%98%A4%EB%A1%9C%EC%A3%BC" title="엘오로주 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lad mw-list-item"><a href="https://lad.wikipedia.org/wiki/El_Oro_(vilayet)" title="El Oro (vilayet) (ladino)" lang="lad" hreflang="lad" class="interlanguage-link-target"><span>Ladino</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/El_Oro_provincija" title="El Oro provincija (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Pentadbiran_El_Oro" title="Pentadbiran El Oro (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/El_Oro" title="El Oro (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/El_Oro" title="El Oro (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Prowincja_El_Oro" title="Prowincja El Oro (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D8%A7%DB%8C%D9%84_%D8%A7%D9%88%D8%B1%D9%88" title="صوبہ ایل اورو (Western Punjabi)" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/El_Oro" title="El Oro (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Kuri_marka" title="Kuri marka (quechua)" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C-%D0%9E%D1%80%D0%BE" title="Эль-Оро (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/El_Oro_Province" title="El Oro Province (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/El_Oro_(provinsa)" title="El Oro (provinsa) (sami septentrional)" lang="se" hreflang="se" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/El_Oro_Province" title="El Oro Province (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/El_Oro_(provins)" title="El Oro (provins) (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/El_Oro_(il)" title="El Oro (il) (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C-%D0%9E%D1%80%D0%BE" title="Ель-Оро (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84_%D8%A7%D9%88%D8%B1%D9%88_%D8%B5%D9%88%D8%A8%DB%81" title="ایل اورو صوبہ (urdu)" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/El_Oro" title="El Oro (waray)" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%9F%83%E5%B0%94%E5%A5%A5%E7%BD%97%E7%9C%81" title="埃尔奥罗省 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%9F%83%E7%88%BE%E5%A5%A7%E7%BE%85%E7%9C%81" title="埃爾奧羅省 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/El_Oro_S%C3%A9ng" title="El Oro Séng (chino min nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q466019#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_El_Oro" title="Ver la página de contenido [c]" accesskey="c" class=""><span>Artículo</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Discusi%C3%B3n:Provincia_de_El_Oro" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t" class=""><span>Discusión</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-dropdown-checkbox"
+		aria-label="Cambiar variante de idioma"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-dropdown-label "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Provincia_de_El_Oro" class=""><span>Leer</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit" title="Editar esta página [e]" accesskey="e" class=""><span>Editar</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Provincia_de_El_Oro&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h" class=""><span>Ver historial</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Más opciones">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-dropdown-checkbox "
+		
+		aria-label="Herramientas"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Provincia_de_El_Oro"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=history"><span>Ver historial</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Provincia_de_El_Oro" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Provincia_de_El_Oro" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_El_Oro&amp;oldid=152242316" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Provincia_de_El_Oro&amp;id=152242316&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q466019" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Provincia+de+El+Oro"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Provincia_de_El_Oro&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Provincia_de_El_Oro&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:El_Oro_Province" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Más opciones">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-coordinates" class="mw-indicator"><div class="mw-parser-output"><span id="coordinates" style="font-size:small"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_El_Oro&amp;params=-3.4833333333333_N_-79.816666666667_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 3°29′00″S 79°49′00″O"><span class="latitude">3°29′00″S </span><span class="longitude">79°49′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -3.4833333333333 -79.816666666667"><span class="geo"><span class="latitude">-3.4833333333333, </span><span class="longitude">-79.816666666667</span></span></span></span></a></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="es" dir="ltr"><div class="mw-parser-output"><div class="rellink noprint hatnote"> Para otros usos de este término, véase <a href="/wiki/El_Oro" class="mw-disambig" title="El Oro">El Oro</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox geography vcard" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera mapa fn org" style="text-align:center;background-color:transparent;color:black;padding:0;">El Oro</th></tr><tr><td colspan="3" style="text-align:center;font-size:100%; font-weight:bold; background-color:#cddeff;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><td colspan="3" style="align:center;"><br /><table class="mergedrow" style="width:100%;"><tbody><tr><td style="text-align:center;background-color:transparent;align:center;vertical-align:middle;"><a href="/wiki/Archivo:Bandera_Provincia_El_Oro.svg" class="image"><img alt="Bandera Provincia El Oro.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bandera_Provincia_El_Oro.svg/100px-Bandera_Provincia_El_Oro.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bandera_Provincia_El_Oro.svg/150px-Bandera_Provincia_El_Oro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bandera_Provincia_El_Oro.svg/200px-Bandera_Provincia_El_Oro.svg.png 2x" data-file-width="900" data-file-height="600" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Bandera</div></td><td style="text-align:center;align:center;vertical-align:middle;background-color:transparent;"><a href="/wiki/Archivo:El_oro_escudo.png" class="image"><img alt="El oro escudo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/El_oro_escudo.png/88px-El_oro_escudo.png" decoding="async" width="88" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/El_oro_escudo.png/132px-El_oro_escudo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/19/El_oro_escudo.png 2x" data-file-width="137" data-file-height="127" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Escudo</div>
+<br /></td></tr></tbody></table></td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Anexo:Lemas_nacionales" title="Anexo:Lemas nacionales">Lema</a>: «¡Gestión y resultados!»</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a href="/wiki/Himno" title="Himno">Himno</a>: <i><a href="https://en.wikisource.org/wiki/es:Himno_de_El_Oro_(Ecuador)" class="extiw" title="wikisource:es:Himno de El Oro (Ecuador)">Himno de El Oro</a></i></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<a href="/wiki/Archivo:El_Oro_in_Ecuador_(%2BGalapagos).svg" class="image"><img alt="El Oro in Ecuador (+Galapagos).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/300px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png" decoding="async" width="300" height="323" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/450px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg/600px-El_Oro_in_Ecuador_%28%2BGalapagos%29.svg.png 2x" data-file-width="512" data-file-height="551" /></a><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de la <b>provincia de El Oro</b> en <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></div></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;padding:0.8em 0.7em; text-align:center;">
+<div class="mw-kartographer-container thumb tnone center"><div class="thumbinner" style="width: 300px;"><a class="mw-kartographer-map" style="width: 300px; height: 300px;" data-mw-kartographer="mapframe" data-style="osm-intl" data-width="300" data-height="300" data-zoom="8" data-lat="-3.48" data-lon="-79.82" data-overlays="[&quot;_7547d1c1a677d343803826be9de6b9912ceaabed&quot;]" href="/wiki/Especial:Map/8/-3.48/-79.82/es"><img src="https://maps.wikimedia.org/img/osm-intl,8,-3.48,-79.82,300x300.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+El+Oro&amp;revid=152242316&amp;groups=_7547d1c1a677d343803826be9de6b9912ceaabed" width="300" height="300" decoding="async" srcset="https://maps.wikimedia.org/img/osm-intl,8,-3.48,-79.82,300x300@2x.png?lang=es&amp;domain=es.wikipedia.org&amp;title=Provincia+de+El+Oro&amp;revid=152242316&amp;groups=_7547d1c1a677d343803826be9de6b9912ceaabed 2x" alt="Mapa" /></a></div></div><br /><div style="display:inline;font-size:smaller; font-weight:bold;">Ubicación de El Oro</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">Coordenadas</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="plainlinks nourlexpansion"><a class="external text" href="http://tools.wmflabs.org/geohack/geohack.php?language=es&amp;pagename=Provincia_de_El_Oro&amp;params=-3.4833333333333_N_-79.816666666667_E_type:city"><span class="geo-default"><span class="geo-dms" title="Mapas, fotos y otros datos de 3°29′00″S 79°49′00″O"><span class="latitude">3°29′00″S </span><span class="longitude">79°49′00″O</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Mapas, fotos y otros datos de -3.4833333333333 -79.816666666667"><span class="geo"><span class="latitude">-3.4833333333333, </span><span class="longitude">-79.816666666667</span></span></span></span></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Capital_(pol%C3%ADtica)" title="Capital (política)">Capital</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Machala" title="Machala">Machala</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;"><span style="font-size:90%">&#160;• Población</span></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span style="font-size:90%">231 260 habs.</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Idioma_oficial" title="Idioma oficial">Idioma oficial</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">Español</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Entidad_subnacional" class="mw-redirect" title="Entidad subnacional">Entidad</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">Provincia</a> del <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Anexo:Pa%C3%ADses" title="Anexo:Países">País</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+<span class="flagicon"><a href="/wiki/Archivo:Flag_of_Ecuador.svg" class="image" title="Bandera de Ecuador"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></a>&#160;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Anexo:Prefectos_de_El_Oro" title="Anexo:Prefectos de El Oro">Prefecto</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Clemente Bravo</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Subdivisiones</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<div class="mw-collapsible mw-collapsed" style="font-size:95%;border:none; padding: 0;">
+<div style="width:100%; background:transparent; font-weight:bold" align="left">14 cantones</div><div class="mw-collapsible-content" style="text-align:left;"><a href="/wiki/Archivo:Flag_of_Arenillas.svg" class="image"><img alt="Flag of Arenillas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/20px-Flag_of_Arenillas.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/30px-Flag_of_Arenillas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/40px-Flag_of_Arenillas.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Arenillas" title="Cantón Arenillas">Arenillas</a><br /><a href="/wiki/Archivo:Bandera_atahualpa.jpg" class="image"><img alt="Bandera atahualpa.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/20px-Bandera_atahualpa.jpg" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/30px-Bandera_atahualpa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/40px-Bandera_atahualpa.jpg 2x" data-file-width="319" data-file-height="215" /></a> <a href="/wiki/Cant%C3%B3n_Atahualpa" title="Cantón Atahualpa">Atahualpa</a><br /><a href="/wiki/Archivo:Bandera_de_Balsas.png" class="image"><img alt="Bandera de Balsas.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/20px-Bandera_de_Balsas.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/30px-Bandera_de_Balsas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/40px-Bandera_de_Balsas.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Balsas" title="Cantón Balsas">Balsas</a><br /><a href="/wiki/Archivo:Bandera_de_Chilla.png" class="image"><img alt="Bandera de Chilla.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/20px-Bandera_de_Chilla.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/30px-Bandera_de_Chilla.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/40px-Bandera_de_Chilla.png 2x" data-file-width="900" data-file-height="533" /></a> <a href="/wiki/Cant%C3%B3n_Chilla" title="Cantón Chilla">Chilla</a><br /><a href="/wiki/Archivo:Flag_of_El_Guabo.svg" class="image"><img alt="Flag of El Guabo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/20px-Flag_of_El_Guabo.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/30px-Flag_of_El_Guabo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/40px-Flag_of_El_Guabo.svg.png 2x" data-file-width="784" data-file-height="504" /></a> <a href="/wiki/Cant%C3%B3n_El_Guabo" title="Cantón El Guabo">El Guabo</a><br /><a href="/wiki/Archivo:Flag_of_Huaquillas.svg" class="image"><img alt="Flag of Huaquillas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/20px-Flag_of_Huaquillas.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/30px-Flag_of_Huaquillas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/40px-Flag_of_Huaquillas.svg.png 2x" data-file-width="800" data-file-height="500" /></a> <a href="/wiki/Cant%C3%B3n_Huaquillas" title="Cantón Huaquillas">Huaquillas</a><br /><a href="/wiki/Archivo:Bandera_de_Las_Lajas.png" class="image"><img alt="Bandera de Las Lajas.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/20px-Bandera_de_Las_Lajas.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/30px-Bandera_de_Las_Lajas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/40px-Bandera_de_Las_Lajas.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Las_Lajas" title="Cantón Las Lajas">Las Lajas</a><br /><span class="flagicon"><a href="/wiki/Archivo:Machala_Flag.svg" class="image" title="Bandera de Machala"><img alt="Bandera de Machala" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/20px-Machala_Flag.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/30px-Machala_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/40px-Machala_Flag.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> <a href="/wiki/Cant%C3%B3n_Machala" title="Cantón Machala">Machala</a><br /><a href="/wiki/Archivo:Bandera_de_Marcabel%C3%AD.png" class="image"><img alt="Bandera de Marcabelí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/20px-Bandera_de_Marcabel%C3%AD.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/30px-Bandera_de_Marcabel%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/40px-Bandera_de_Marcabel%C3%AD.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Cant%C3%B3n_Marcabel%C3%AD" title="Cantón Marcabelí">Marcabelí</a><br /><a href="/wiki/Archivo:Flag_of_Pasaje.svg" class="image"><img alt="Flag of Pasaje.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/20px-Flag_of_Pasaje.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/30px-Flag_of_Pasaje.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/40px-Flag_of_Pasaje.svg.png 2x" data-file-width="945" data-file-height="630" /></a> <a href="/wiki/Cant%C3%B3n_Pasaje" title="Cantón Pasaje">Pasaje</a><br /><a href="/wiki/Archivo:Flag_of_Pi%C3%B1as.svg" class="image"><img alt="Flag of Piñas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/20px-Flag_of_Pi%C3%B1as.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/30px-Flag_of_Pi%C3%B1as.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/40px-Flag_of_Pi%C3%B1as.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Cant%C3%B3n_Pi%C3%B1as" title="Cantón Piñas">Piñas</a><br /><a href="/wiki/Archivo:Bandera_de_Portovelo.png" class="image"><img alt="Bandera de Portovelo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/20px-Bandera_de_Portovelo.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/30px-Bandera_de_Portovelo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/40px-Bandera_de_Portovelo.png 2x" data-file-width="700" data-file-height="400" /></a>  <a href="/wiki/Cant%C3%B3n_Portovelo" title="Cantón Portovelo">Portovelo</a><br /><a href="/wiki/Archivo:Flag_of_Santa_Rosa.svg" class="image"><img alt="Flag of Santa Rosa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/20px-Flag_of_Santa_Rosa.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/30px-Flag_of_Santa_Rosa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/40px-Flag_of_Santa_Rosa.svg.png 2x" data-file-width="800" data-file-height="500" /></a> <a href="/wiki/Cant%C3%B3n_Santa_Rosa" title="Cantón Santa Rosa">Santa Rosa</a><br /><a href="/wiki/Archivo:Bandera_zaruma_2.jpg" class="image"><img alt="Bandera zaruma 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/20px-Bandera_zaruma_2.jpg" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/30px-Bandera_zaruma_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/40px-Bandera_zaruma_2.jpg 2x" data-file-width="1000" data-file-height="643" /></a> <a href="/wiki/Cant%C3%B3n_Zaruma" title="Cantón Zaruma">Zaruma</a></div>
+</div></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fundación</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+23 de abril de 1884 (139&#160;años)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%81rea" title="Área">Superficie</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">17</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+5766,68&#160;<a href="/wiki/Kil%C3%B3metro_cuadrado" title="Kilómetro cuadrado">km²</a><span class="wikidata-link lapiz noprint"> <a href="https://www.wikidata.org/wiki/Q466019?uselang=es#P2046" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Altitud" title="Altitud">Altitud</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+&#160;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Media</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+1000 <a href="/wiki/Msnm" class="mw-redirect" title="Msnm">m s. n. m.</a></td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Máxima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+3750 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Mínima</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+0 m&#160;s.&#160;n.&#160;m.</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Clima" title="Clima">Clima</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+De 12 a 35&#160;°C</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Poblaci%C3%B3n" title="Población">Población</a>&#160;(2020)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Puesto <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">6</a>.º</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• Total</th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+715&#160;751&#160;hab.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;border:0;padding:1px 7px;font-weight:100;">&#160;• <a href="/wiki/Densidad_de_poblaci%C3%B3n" title="Densidad de población">Densidad</a></th><td colspan="2" style="border:0;padding:1px 7px 1px 1px;">
+124,12 hab/km²</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Gentilicio" title="Gentilicio">Gentilicio</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+Orense</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/%C3%8Dndice_de_Desarrollo_Humano" class="mw-redirect" title="Índice de Desarrollo Humano">IDH</a>&#160;(2017)</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span title="Crecimiento"><img alt="Crecimiento" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span> 0.755&#160;(<a href="/wiki/Anexo:Provincias_de_Ecuador_por_IDH" title="Anexo:Provincias de Ecuador por IDH">6</a>.º)&#160;– <span style="color:#00CC00;"><b>alto</b></span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Huso_horario" title="Huso horario">Huso horario</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<a href="/wiki/Tiempo_de_Ecuador" class="mw-redirect" title="Tiempo de Ecuador">ECT</a> (UTC–5)</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/C%C3%B3digo_postal" title="Código postal">Código postal</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<span class="postal-code">EC07</span></td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Prefijo_telef%C3%B3nico" title="Prefijo telefónico">Prefijo telefónico</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+07</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/Matr%C3%ADcula_(autom%C3%B3viles)" title="Matrícula (automóviles)">Matrícula</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+O</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;"><a href="/wiki/ISO_3166-2" title="ISO 3166-2">ISO 3166-2</a></th><td colspan="2" style="padding:2px 7px 1px 1px;">
+EC-O</td></tr><tr><th scope="row" style="text-align:left;padding:2px 7px; width:30%;;">Fiestas mayores</th><td colspan="2" style="padding:2px 7px 1px 1px;">
+<b><a href="/wiki/23_de_abril" title="23 de abril">23 de abril</a></b> (provincialización)</td></tr><tr><td colspan="3" style="text-align:center;padding:2px 7px 1px 1px;">
+<a rel="nofollow" class="external text" href="http://www.eloro.gob.ec/">Sitio web oficial </a></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q466019" class="extiw" title="d:Q466019">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p><b>El Oro</b> es una <a href="/wiki/Provincias_de_Ecuador" title="Provincias de Ecuador">provincia</a> que conforma la <a href="/wiki/Ecuador" title="Ecuador">República del Ecuador</a>, situada en el sur del país, en la zona geográfica conocida como <a href="/wiki/Regi%C3%B3n_Litoral_del_Ecuador" class="mw-redirect" title="Región Litoral del Ecuador">región litoral o costa</a>. Su capital administrativa es la ciudad de <a href="/wiki/Machala" title="Machala">Machala</a>, la cual además es la urbe más grande y poblada. Ocupa un territorio de unos 5879 <a href="/wiki/Km%C2%B2" class="mw-redirect" title="Km²">km²</a>, lo que la hace la décima séptima provincia del país por extensión. Limita al norte con <a href="/wiki/Provincia_de_Guayas" class="mw-redirect" title="Provincia de Guayas">Guayas</a>, al sur y este con <a href="/wiki/Provincia_de_Loja" title="Provincia de Loja">Loja</a>, por el noreste con <a href="/wiki/Provincia_de_Azuay" title="Provincia de Azuay">Azuay</a> y al occidente con la provincia de <a href="/wiki/Provincia_de_Zarumilla" title="Provincia de Zarumilla">Zarumilla</a>, <a href="/wiki/Per%C3%BA" title="Perú">Perú</a>.
+</p><p>En el territorio orense, habitan 715 751 personas, según la proyección demográfica del INEC para 2020, lo que la convierte la sexta provincia más poblada del país. La provincia de El Oro está constituida por catorce cantones, de los cuales se derivan sus respectivas parroquias urbanas y rurales. Según el último ordenamiento territorial, la provincia de El Oro pertenecerá a una región comprendida también por las provincias de <a href="/wiki/Provincia_de_Loja" title="Provincia de Loja">Loja</a> y <a href="/wiki/Provincia_de_Zamora_Chinchipe" title="Provincia de Zamora Chinchipe">Zamora Chinchipe</a>, aunque no esté oficialmente conformada, denominada <a href="/wiki/Regi%C3%B3n_Sur_de_Ecuador" class="mw-redirect" title="Región Sur de Ecuador">Región Sur</a>.
+</p><p>La provincia es uno de los más importantes centros administrativos, económicos, financieros y comerciales del Ecuador. Las actividades principales de la provincia son el comercio, la ganadería, la industria y la agricultura. Su rica región genera un gran comercio basado en la producción agrícola, centrada en el cultivo de <a href="/wiki/Caridea" title="Caridea">camarón</a>, <a href="/wiki/Arroz" title="Arroz">arroz</a>, <a href="/wiki/Banana" title="Banana">banano</a>, <a href="/wiki/Caf%C3%A9" title="Café">café</a> y <a href="/wiki/Cacao" class="mw-redirect" title="Cacao">cacao</a>.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; <a href="/wiki/Puerto_Bol%C3%ADvar_(Ecuador)" title="Puerto Bolívar (Ecuador)">Puerto Bolívar</a>, al suroeste, es el más importante puerto exportador de banano de Ecuador y, por lo tanto, Machala es conocida también como la Capital Bananera del Mundo debido a que la actividad de la ciudad y la provincia gira en torno a la exportación de banano.
+</p><p>En la provincia, hubo distintos períodos migratorios como los tumbecinos y punáes. Más adelante, fue conquistada por los <a href="/wiki/Inca" title="Inca">incas</a> al mando de <a href="/wiki/T%C3%BApac_Yupanqui" title="Túpac Yupanqui">Túpac Yupanqui</a>. La colonización española se dio en <a href="/wiki/1537" title="1537">1537</a>, según Torres de Mendoza, cuando los españoles descubrieron el poblado de los machalas. Durante ese período, la entidad máxima y precursora de la provincia sería la <a href="/wiki/Tenencia_de_la_isla_Pun%C3%A1" title="Tenencia de la isla Puná">Tenencia de la isla Puná</a>. Después de la guerra independentista y la anexión de Ecuador a la <a href="/wiki/Gran_Colombia" title="Gran Colombia">Gran Colombia</a>, se creó la <a href="/wiki/Provincia_de_Guayaquil" class="mw-redirect" title="Provincia de Guayaquil">Provincia de Guayaquil</a>, el 25 de junio de 1824, en la que dentro de sus límites se encontraba el territorio orense actual. El <a href="/wiki/23_de_abril" title="23 de abril">23 de abril</a> de <a href="/wiki/1884" title="1884">1884</a>, se creó la décima cuarta provincia del país: la provincia de El Oro.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=1" title="Editar sección: Historia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".C3.89poca_colonial"></span><span class="mw-headline" id="Época_colonial">Época colonial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=2" title="Editar sección: Época colonial">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Algunos aventureros españoles salieron hacia <a href="/wiki/Isla_Pun%C3%A1" title="Isla Puná">Puná</a> después de fundar Guayaquil, llegaron a <a href="/wiki/Cant%C3%B3n_Balao" title="Cantón Balao">Balao</a> y después a la desembocadura del <a href="/wiki/R%C3%ADo_Jubones" title="Río Jubones">río Jubones</a>; en <a href="/wiki/1537" title="1537">1537</a> según Torres de Mendoza, los españoles descubrieron el poblado de los Machalas, que pudo estar en Guarumal, al sur de la ciudad. Machala no tuvo fundación española y fue solo un sitio de paso. En 1758, se entregó tierras a los Machalas para que hagan su poblado, donde actualmente se ubica el barrio San Jacinto. El indígena Ambrosio Gumal fue primer Gobernador; en 1763 el entregó definitivamente las tierras a los Machalas. Años después, Machala fue ascendido a Tenencia, durante la gobernación del Cacique Julián Belitama.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Independencia_y_Gran_Colombia">Independencia y Gran Colombia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=3" title="Editar sección: Independencia y Gran Colombia">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>En 1820, Machala se sumó al movimiento independentista guayaquileño, haciéndose representar con una estrella en la <a href="/wiki/Bandera_de_Guayaquil" title="Bandera de Guayaquil">Bandera de Guayaquil</a>. En 1822, se intenta la creación de la provincia de Tomalá, formada por los cantones, entre ellos, el de Machala con sus parroquias: Puná, Balao y Naranjal; la capital debía ser Santa Elena. Machala fue declarado cantón de la <a href="/wiki/Provincia_de_Guayas" class="mw-redirect" title="Provincia de Guayas">Provincia de Guayas</a>, ésta a su vez formaba parte del <a href="/wiki/Departamento_de_Guayaquil" title="Departamento de Guayaquil">Departamento de Guayaquil</a> el 25 de junio de <a href="/wiki/1824" title="1824">1824</a> por medio de la Ley de División Territorial de la <a href="/wiki/Gran_Colombia" title="Gran Colombia">Gran Colombia</a>. En 1829, algunos machaleños se suman al ejército de Sucre y pelean en la <a href="/wiki/Batalla_del_Portete_de_Tarqui" title="Batalla del Portete de Tarqui">Batalla del Portete de Tarqui</a>.
+</p>
+<h3><span id=".C3.89poca_floreana"></span><span class="mw-headline" id="Época_floreana">Época floreana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=4" title="Editar sección: Época floreana">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Al igual que tiempos anteriores, Machala apoyaba cada decisión guayaquileña, en 1830 apoyó a Guayaquil, que, tras muchas falsas promesas de <a href="/wiki/Juan_Jos%C3%A9_Flores" title="Juan José Flores">Juan José Flores</a> quería la independencia de <a href="/wiki/Colombia" title="Colombia">Colombia</a>. Años más tarde, Machala apoya al líder revolucionario <a href="/wiki/Vicente_Rocafuerte" title="Vicente Rocafuerte">Vicente Rocafuerte</a>, que intentaba en Guayaquil derrocar a Flores; acto que se vuelve a confirmar el 6 de marzo de 1845. Y tiempo después Machala brinda apoyo a Urbina para acabar con Flores; por lo que el 11 de julio de 1852, el pueblo de Machala libró un combate en Barbones, frente a las tropas de Flores, venciendo definitivamente a Flores y poniendo punto final al <i>floreanismo</i>.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Batalla_de_la_Carreta">Batalla de la Carreta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=5" title="Editar sección: Batalla de la Carreta">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Batalla_de_las_Carretas" title="Batalla de las Carretas"> Batalla de las Carretas</a></i></div><p>Ante el descontento nacional por la denominada <i>Venta de la Bandera</i>, el por aquel entonces coronel Manuel Serrano Renda se sublevó en El Guabo, el 2 de mayo de <a href="/wiki/1895" title="1895">1895</a>, con apoyo de un ejército voluntario de revolucionarios liberales, tomando también las ciudades de Pasaje y <a href="/wiki/Santa_Rosa_(Ecuador)" title="Santa Rosa (Ecuador)">Santa Rosa</a>. Faltando la toma de la ciudad de Machala para consolidarse, los revolucionarios liberales supieron de la llegada de refuerzos de artillería que impedirían tomar dicha ciudad; entonces, el coronel Serrano dispuso que sus fuerzas pasen de El Guabo a Santa Rosa y de allí a Machala.
+</p><p>El 8 de mayo hubo pocos roces, pero al día siguiente se vivió un ambiente de combate. El 9 de mayo, el <a href="/wiki/Juan_Borja_Mata" title="Juan Borja Mata">Dr. Juan Borja Mata</a>, Elías Puyano, Federico Irigoyen y otros, dirigieron el asalto de la carreta, en que las fuerzas leales a <a href="/wiki/Vicente_Lucio_Salazar" title="Vicente Lucio Salazar">Vicente Lucio Salazar</a> llevaban un cañón Krupp, una ametralladora Manlincher, varios fusiles Winchester y más pertrechos. Tras muchos combates hasta después del mediodía, llegó la capitulación de las fuerzas del gobierno, comandadas por el gobernador Pompeyo Baquero, ante los comisionados del coronel Serrano Renda. De allí el nombre <a href="/wiki/Batalla_de_las_Carretas" title="Batalla de las Carretas">«Combate de las carretas» o «Toma de la carreta»</a>, que es como se califica a un episodio de la lucha liberal, que aunque fue breve y no precisamente una batalla -ya se ha hablado mucho acerca de que hubo cierta exageración en los relatos posteriores-, sí marcó pautas para la toma del poder nacional por parte de los hombres del general Eloy Alfaro.
+</p><p>Esta batalla fue un preámbulo para la victoria de la revolución liberal en Guayaquil, el 5 de junio de 1895, que llevó al <a href="/wiki/Eloy_Alfaro" title="Eloy Alfaro">Gral. Eloy Alfaro Delgado</a> a la presidencia de la República.<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Ferrocarril">Ferrocarril</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=6" title="Editar sección: Ferrocarril">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Huertas_casa_colonial.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Huertas_casa_colonial.jpg/300px-Huertas_casa_colonial.jpg" decoding="async" width="300" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Huertas_casa_colonial.jpg/450px-Huertas_casa_colonial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Huertas_casa_colonial.jpg/600px-Huertas_casa_colonial.jpg 2x" data-file-width="1758" data-file-height="1145" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Huertas_casa_colonial.jpg" class="internal" title="Aumentar"></a></div>Casa Republicana en Huertas, Cantón Zaruma.</div></div></div>
+<p>En 1898, el Congreso Nacional aprobó la categoría de Puerto Mayor de la República para <a href="/wiki/Puerto_Bol%C3%ADvar_(Ecuador)" title="Puerto Bolívar (Ecuador)">Puerto Bolívar</a>. A fines del año <a href="/wiki/1899" title="1899">1899</a>, la vía férrea estaba concluida, pero en el 23 de abril de <a href="/wiki/1900" title="1900">1900</a>, cuando arribó a Machala el primer ferrocarril, se inauguró el servicio para Machala. La construcción del ferrocarril entre Puerto Bolívar a Machala y después hasta Pasaje, despertó el progreso de la región, permitió la comunicación entre los pueblos ribereños al mar y a su vez por vía marítima con Guayaquil, considerada ya la capital económica del Ecuador y posteriormente con los puertos de ultramar, considerándose al sistema ferroviario provincial como un “cordón umbilical” que brindó la oportunidad para que la producción especialmente agrícola pueda ser explotada en toda su dimensión. Para fines del año 1899, la vía férrea estaba virtualmente concluida, pero llegó el 23 de abril de 1900, cuando arribó a Machala definitivamente la primera locomotora, inaugurando el servicio de trenes para regocijo del pueblo orense.
+</p><p>Cinco años después de haberse inaugurado el servicio ferroviario entre Puerto de Bolívar y Machala, llegaron las locomotoras y se terminó la construcción de la Estación Terminal en Machala. Con este material rodante, continuó la construcción de la vía férrea hasta la ciudad de Pasaje, el mismo que se concluyó en 1908, bajo la administración de los Municipios de Machala y Pasaje respectivamente. En el año antes mencionado, el gobierno del Gral. Eloy Alfaro había planteado un ambicioso plan de redes ferroviarias nacionales. Con relación a la provincia de El Oro, este proyecto incluía extender las vías hacia tres regiones del sur ecuatoriano: Machala-Loja, Machala-Cuenca y Machala-Durán, en la provincia del Guayas. Sin embargo, por razones políticas y económicas el plan no se cumplió y en la primera ruta solamente llegó hasta la actual parroquia Piedras, jurisdicción del cantón Piñas; el ramal que hubiera llegado hasta Cuenca, solo quedó en Pasaje y finalmente el que debió avanzar hasta Durán, fue interrumpido en el sitio La Iberia a causa de un desbordamiento del río Jubones ocurrido en 1909. Por esta razón, este sistema ferroviario pasó a llamarse FERROCARRILES DE EL ORO.
+</p>
+<h3><span class="mw-headline" id="Inicios_del_siglo_XX">Inicios del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XX</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=7" title="Editar sección: Inicios del siglo XX">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:282px;"><a href="/wiki/Archivo:Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg/280px-Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg" decoding="async" width="280" height="383" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg/420px-Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg/560px-Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg 2x" data-file-width="2501" data-file-height="3420" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Puyango_exploration_joubert_dedeaux_ecuador_1938.jpg" class="internal" title="Aumentar"></a></div>Documento oficial permitiendo la explotación de oro a ingenieros norteamericanos en 1938.</div></div></div>
+<p>Cinco años después de haberse inaugurado el ferrocarril, entre Puerto Bolívar y Machala, se terminó la construcción de la Estación Terminal de Machala. Después se continuó la construcción de la vía férrea hasta Pasaje, esta obra se concluyó en 1908. Por un plan de Gral. Eloy Alfaro sobre redes ferroviarias nacionales se quería extender las vías desde Machala hasta <a href="/wiki/Loja_(Ecuador)" title="Loja (Ecuador)">Loja</a>, <a href="/wiki/Cuenca_(Ecuador)" title="Cuenca (Ecuador)">Cuenca</a> y <a href="/wiki/Cant%C3%B3n_Eloy_Alfaro_(Dur%C3%A1n)" class="mw-redirect" title="Cantón Eloy Alfaro (Durán)">Durán</a>, pero, por razones políticas y económicas esto no se cumplió y en la primera ruta solamente se llegó hasta la parroquia de Piedras, del cantón <a href="/wiki/Pi%C3%B1as" title="Piñas">Piñas</a>; la vía que hubiera llegado hasta Cuenca, se quedó en Pasaje y el que debió llegar a Durán, llegó hasta La Iberia por un desbordamiento del río Jubones en 1909.
+</p><p>Cuando llegó el año 1910, las relaciones entre Ecuador y Perú estaban tensas, por lo que, el Gral. Eloy Alfaro, al mando del ejército, llegó desde Guayaquil con la finalidad de ponerle fin al ambiente de tensión, pero, por intervención del <a href="/wiki/Rey_de_Espa%C3%B1a" title="Rey de España">Rey de España</a>, el problema no progresó, pero continuó hasta años después.
+</p><p>Durante las dictaduras de los años 30, se autorizó la exploración y explotación de los yacimientos auríferos en el río Puyango, a compañías mineras norteamericanas. Uno de estos ingenieros, <a href="/w/index.php?title=Joubert_de_Deaux&amp;action=edit&amp;redlink=1" class="new" title="Joubert de Deaux (aún no redactado)">Joubert de Deaux</a>, fue el primer estadounidense en explorar el río Puyango desde la desembocadura del río Moromoro, hasta la frontera con El Perú.
+</p>
+<h3><span class="mw-headline" id="Actualidad">Actualidad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=8" title="Editar sección: Actualidad">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Ecuador_en_guerra.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ecuador_en_guerra.jpg/300px-Ecuador_en_guerra.jpg" decoding="async" width="300" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ecuador_en_guerra.jpg/450px-Ecuador_en_guerra.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ecuador_en_guerra.jpg/600px-Ecuador_en_guerra.jpg 2x" data-file-width="640" data-file-height="400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Ecuador_en_guerra.jpg" class="internal" title="Aumentar"></a></div>Bombardeo aéreo contra la población ecuatoriana de Santa Rosa, hecho por los aviones bombarderos del <a href="/wiki/Fuerza_A%C3%A9rea_del_Per%C3%BA" title="Fuerza Aérea del Perú">Cuerpo Aeronáutico del Perú</a> en la Campaña Militar del Norte y Nororiente de 1941.</div></div></div>
+<p>El cantón Santa Rosa fue uno de los pueblos más afectados por invasión peruana de 1941. Después de tanto pelear, por falta de apoyo los santarroseños tuvieron que huir hacia el norte, hasta a Guayaquil, Cuenca y Quito. 
+</p><p>En año de 1948, se inició el denominado <b>“boom bananero”</b>. Fue una etapa en la que el <a href="/wiki/Banano" class="mw-redirect" title="Banano">banano</a>, se convirtió en la esperanza económica del pueblo.
+</p><p>Tras la firma del acuerdo de paz entre Ecuador y Perú en el año 1998, se incrementó el intercambio comercial entre los dos países, desde ese entonces se acrecentó la carga en tránsito por los muelles de Puerto Bolívar, provenientes especialmente del norte peruano, para los mercados estadounidense y europeo. El Grupo Binacional para la promoción Inversión Privada (GBPIP) en el marco del Plan Binacional Ecuador – Perú incentiva la creación de un eje portuario binacional de complementariedad de los puertos de Paita en Perú y de Puerto Bolívar en Ecuador para acrecentar el comercio marítimo y terrestre entre los dos países.
+</p>
+<h2><span class="mw-headline" id="Gobierno">Gobierno</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=9" title="Editar sección: Gobierno">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>El Gobierno Provincial Autónomo de El Oro (GPAEO) es el gobierno del territorio, que asume las competencias descritas en la Constitución de la República y el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD). Actualmente es presidido por el Ing. Clemente Bravo Riofrío quien cumple las funciones de Prefecto Provincial desde el 15 de mayo de 2019, ganándole las elecciones seccionales al candidato que buscaba la reelección. El Consejo Provincial es el órgano legislativo del GPAEO, el mismo que se conforma por los alcaldes o alcaldesas de los cantones de la provincia y delegados de los gobiernos autónomos descentralizados parroquiales.
+</p><p>El Gobierno Nacional ejecuta en las provincias las competencias asignadas por la Constitución, por lo que tiene presencia en el territorio con direcciones ministeriales y la Gobernación de El Oro.
+</p>
+<h2><span id="Geograf.C3.ADa"></span><span class="mw-headline" id="Geografía">Geografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=10" title="Editar sección: Geografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Salati-turismo.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Salati-turismo.png/220px-Salati-turismo.png" decoding="async" width="220" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Salati-turismo.png/330px-Salati-turismo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Salati-turismo.png/440px-Salati-turismo.png 2x" data-file-width="707" data-file-height="334" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Salati-turismo.png" class="internal" title="Aumentar"></a></div>Cascada Arcoíris y Cascada Tobogán, ubicadas en la parroquia Salatí, cantón Portovelo</div></div></div>
+<p>La provincia de El Oro es la provincia más meridional (ubicada al sur) de la Costa ecuatoriana. Tiene una zona subtropical compuesta por un sector insular y otro continental, con playas de singular belleza, zonas de importancia histórica y una tierra fértil y pródiga. Las zonas sur y sudeste son montañosas y están compuestas por las cordilleras de Tahuín y de Chilla. El resto es un <a href="/wiki/Piedemonte" title="Piedemonte">piedemonte</a> que baja hacia el noroeste para acabar en el Golfo de Guayaquil.
+</p><p>Gran parte del sector costero de la provincia, sobre todo en la desembocadura del río Santa Rosa, se mantiene un paisaje de esteros, palmeras y manglares; frente a este se encuentra un conjunto de canales naturales que lo separan del archipiélago de Jambelí. 
+</p>
+<h3><span id="L.C3.ADmites"></span><span class="mw-headline" id="Límites">Límites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=11" title="Editar sección: Límites">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Limita al norte con las provincias del <a href="/wiki/Guayas_(provincia)" class="mw-redirect" title="Guayas (provincia)">Guayas</a> y <a href="/wiki/Provincia_de_Azuay" title="Provincia de Azuay">Azuay</a>, al noroeste con el <a href="/wiki/Golfo_de_Guayaquil" title="Golfo de Guayaquil">Golfo de Guayaquil</a>, al sur y al este con la provincia de <a href="/wiki/Loja_(provincia)" class="mw-redirect" title="Loja (provincia)">Loja</a>, y al oeste con el <a href="/wiki/Per%C3%BA" title="Perú">Perú</a>.
+</p>
+<h3><span class="mw-headline" id="Clima">Clima</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=12" title="Editar sección: Clima">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El clima de la provincia varía en lo referente a la altura geográfica y la cantidad de lluvia que cae en cada zona. Por ejemplo: la zona costera varía entre un clima seco en época de verano y lluvioso en invierno. En cambio, su zona montañosa es generalmente lluviosa. y la temperatura varia de acuerdo a la altitud, siendo en la zona costera de unos 25 a 35&#160;°C, y en el altiplano de unos 10 a 22&#160;°C.
+</p>
+<h3><span id="Hidrograf.C3.ADa"></span><span class="mw-headline" id="Hidrografía">Hidrografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=13" title="Editar sección: Hidrografía">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Los ríos de esta provincia nacen en la cordillera de los <a href="/wiki/Cordillera_de_los_Andes" title="Cordillera de los Andes">Andes</a> y desembocan en el <a href="/wiki/Golfo_de_Guayaquil" title="Golfo de Guayaquil">Golfo de Guayaquil</a>. El más importante de todos es el <a href="/wiki/R%C3%ADo_Jubones" title="Río Jubones">río Jubones</a>, que atraviesa la provincia de este a oeste y desemboca cerca de las ciudades de <a href="/wiki/El_Guabo_(Ecuador)" title="El Guabo (Ecuador)">El Guabo</a> y <a href="/wiki/Machala_(cant%C3%B3n)" class="mw-redirect" title="Machala (cantón)">Machala</a>. En esta provincia también se destacan el <a href="/w/index.php?title=R%C3%ADo_Arenillas&amp;action=edit&amp;redlink=1" class="new" title="Río Arenillas (aún no redactado)">río Arenillas</a>, el río Santa Rosa, el <a href="/wiki/R%C3%ADo_Zarumilla" title="Río Zarumilla">río Zarumilla</a>, que forma la <a href="/wiki/Frontera" title="Frontera">frontera</a> con el <a href="/wiki/Per%C3%BA" title="Perú">Perú</a>, y el <a href="/wiki/R%C3%ADo_Puyango" class="mw-redirect" title="Río Puyango">río Puyango</a>, que separa a esta provincia de <a href="/wiki/Loja_(provincia)" class="mw-redirect" title="Loja (provincia)">Loja</a>.
+</p>
+<h3><span id="Orograf.C3.ADa"></span><span class="mw-headline" id="Orografía">Orografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=14" title="Editar sección: Orografía">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El Oro está dividida en dos áreas: hacia el noroeste se encuentra su zona baja o <a href="/wiki/Llanura" title="Llanura">llanura</a>, donde trabaja su más fuerte músculo productor, con el cultivo de banano y camarón en cautiverio, las principales fuentes económicas de la provincia; En esta zona se encuentra la ciudad capital <a href="/wiki/Machala_(cant%C3%B3n)" class="mw-redirect" title="Machala (cantón)">Machala</a>, y otros cantones importantes como <a href="/wiki/Pasaje_(ciudad)" title="Pasaje (ciudad)">Pasaje</a>, <a href="/wiki/Santa_Rosa_(Ecuador)" title="Santa Rosa (Ecuador)">Santa Rosa</a> (que incluye el Archipiélago de Jambelí), El Guabo, y los cantones fronterizos <a href="/wiki/Arenillas" title="Arenillas">Arenillas</a> y <a href="/wiki/Huaquillas" title="Huaquillas">Huaquillas</a>.
+</p><p>El sureste, en cambio, es la zona alta de la provincia. Está atravesada por la Cordillera Occidental de <a href="/wiki/Cordillera_de_los_Andes" title="Cordillera de los Andes">Los Andes</a>, y la <a href="/wiki/Temperatura" title="Temperatura">temperatura</a> va descendiendo de acuerdo a la <a href="/wiki/Altitud" title="Altitud">altura</a>. Los principales cantones de esta zona son <a href="/wiki/Pi%C3%B1as" title="Piñas">Piñas</a> (famosa por sus <a href="/wiki/Orqu%C3%ADdea" class="mw-redirect" title="Orquídea">orquídeas</a>), <a href="/w/index.php?title=Portovelo&amp;action=edit&amp;redlink=1" class="new" title="Portovelo (aún no redactado)">Portovelo</a> (zona de producción minera de <a href="/wiki/Oro" title="Oro">oro</a>), <a href="/wiki/Zaruma" title="Zaruma">Zaruma</a> (ciudad mágica por su arquitectura colonial) y Atahualpa (conocida por las Ruinas de Yacuviña, vestigios arqueológicos Cañari), Además incluye los cantones Balsas, Chilla, Las Lajas y Marcabelí.
+</p>
+<h2><span id="Gobierno_y_pol.C3.ADtica"></span><span class="mw-headline" id="Gobierno_y_política">Gobierno y política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=15" title="Editar sección: Gobierno y política">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Pol.C3.ADtica"></span><span class="mw-headline" id="Política">Política</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=16" title="Editar sección: Política">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Prefectos_de_El_Oro" title="Anexo:Prefectos de El Oro"> Anexo:Prefectos de El Oro</a></i></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Gobernadores_de_El_Oro" title="Anexo:Gobernadores de El Oro"> Anexo:Gobernadores de El Oro</a></i></div>
+<p>La estructura política de El Oro está conformada por el Gobierno Autónomo Descentralizado Provincial, comúnmente denominado "Prefectura de El Oro", que es una <a href="/wiki/Persona_jur%C3%ADdica" title="Persona jurídica">persona jurídica</a> de <a href="/wiki/Derecho_p%C3%BAblico" title="Derecho público">derecho público</a> que goza de autonomía política, administrativa y financiera, y ejerce las funciones ejecutivas, legislativas y de fiscalización dentro de la circunscripción territorial de la provincia.<sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203; La sede de este gobierno seccional se ubica en la ciudad de <a href="/wiki/Machala" title="Machala">Machala</a>, por su calidad de capital provincial.
+</p><p>El gobierno provincial está conformado por un prefecto, un viceprefecto y el consejo provincial. El prefecto es la máxima autoridad y representante legal de la función ejecutiva dentro de la provincia y es elegido en binomio junto al viceprefecto por <a href="/wiki/Votaci%C3%B3n_popular" class="mw-redirect" title="Votación popular">votación popular</a>.<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203; El consejo provincial es el órgano de legislación y fiscalización del gobierno provincial y está integrado por el prefecto -quien lo preside con voto dirimente-, el viceprefecto, los alcaldes de los catorce cantones orenses, y representantes de gobiernos de parroquias rurales.<sup id="cite_ref-8" class="reference separada"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203; En la actualidad, el cargo de prefecto lo ejerce Clemente Bravo, reelegido para el periodo 2023 - 2027. 
+</p><p>Paralelo al Gobierno Autónomo Descentralizado Provincial de El Oro, el <a href="/wiki/Poder_ejecutivo" title="Poder ejecutivo">poder ejecutivo</a> del <a href="/wiki/Presidente_del_Ecuador" title="Presidente del Ecuador">presidente de la República</a> está representado en la provincia por el <a href="/wiki/Gobernador" title="Gobernador">gobernador</a>. El cargo de gobernador es ocupado por una persona designada por el presidente de la República, y puede durar indefinidamente en sus funciones mientras así lo decida el primer mandatario del país. Actualmente, el gobernador de la provincia es Byron Zapata.
+</p>
+<h3><span id="Divisi.C3.B3n_administrativa"></span><span class="mw-headline" id="División_administrativa">División administrativa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=17" title="Editar sección: División administrativa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/Archivo:Cantones_de_El_Oro.png" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cantones_de_El_Oro.png/270px-Cantones_de_El_Oro.png" decoding="async" width="270" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cantones_de_El_Oro.png/405px-Cantones_de_El_Oro.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0a/Cantones_de_El_Oro.png 2x" data-file-width="476" data-file-height="415" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Cantones_de_El_Oro.png" class="internal" title="Aumentar"></a></div>Cantones de El Oro</div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Alcaldes_de_El_Oro" title="Anexo:Alcaldes de El Oro"> Anexo:Alcaldes de El Oro</a></i></div>
+<p>El Oro está dividido en 14 <a href="/wiki/Cant%C3%B3n_(entidad_subnacional)" title="Cantón (entidad subnacional)">cantones</a>, que a su vez están conformados por parroquias <a href="/wiki/Espacio_urbano" title="Espacio urbano">urbanas</a> y <a href="/wiki/Rural" class="mw-redirect" title="Rural">rurales</a>. Cada cantón es administrado por una alcaldía y un consejo cantonal, los cuales son elegidos por la población de sus respectivos cantones. La responsabilidad de las alcaldías es realizar el mantenimiento de vías, administrar el presupuesto del cantón para programas de asistencia social y económica, y administrar infraestructuras como parques y sistemas de saneamiento básico.
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th style="background: #810541; color: #FFFFFF">
+</th>
+<th style="background: #810541; color: #FFFFFF" width="170">Cantón
+</th>
+<th style="background: #810541; color: #FFFFFF" width="60">Pob. (2018)
+</th>
+<th style="background: #810541; color: #FFFFFF" width="50">Área (km²)
+</th>
+<th style="background: #810541; color: #FFFFFF" width="170">Cabecera Cantonal
+</th>
+<th style="background: #810541; color: #FFFFFF" width="60">Pob. (2010)
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_Arenillas.svg" class="image"><img alt="Flag of Arenillas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/20px-Flag_of_Arenillas.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/30px-Flag_of_Arenillas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Arenillas.svg/40px-Flag_of_Arenillas.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Arenillas" title="Cantón Arenillas">Arenillas</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">26 844
+</th>
+<th style="background: #FFFFEF; color: #000000">803
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=Arenillas_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Arenillas (Ecuador) (aún no redactado)">Arenillas</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">17 346
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_atahualpa.jpg" class="image"><img alt="Bandera atahualpa.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/20px-Bandera_atahualpa.jpg" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/30px-Bandera_atahualpa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandera_atahualpa.jpg/40px-Bandera_atahualpa.jpg 2x" data-file-width="319" data-file-height="215" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Atahualpa" title="Cantón Atahualpa">Atahualpa</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">5 833
+</th>
+<th style="background: #FFFFEF; color: #000000">278
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=Paccha_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Paccha (Ecuador) (aún no redactado)">Paccha</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">1 594
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Balsas.png" class="image"><img alt="Bandera de Balsas.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/20px-Bandera_de_Balsas.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/30px-Bandera_de_Balsas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandera_de_Balsas.png/40px-Bandera_de_Balsas.png 2x" data-file-width="800" data-file-height="480" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Balsas" title="Cantón Balsas">Balsas</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">6 861
+</th>
+<th style="background: #FFFFEF; color: #000000">69
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Balsas_(Ecuador)" class="mw-redirect" title="Balsas (Ecuador)">Balsas</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">4 032
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Chilla.png" class="image"><img alt="Bandera de Chilla.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/20px-Bandera_de_Chilla.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/30px-Bandera_de_Chilla.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Chilla.png/40px-Bandera_de_Chilla.png 2x" data-file-width="900" data-file-height="533" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Chilla" title="Cantón Chilla">Chilla</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">2 484
+</th>
+<th style="background: #FFFFEF; color: #000000">328
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Chilla_(Ecuador)" class="mw-redirect" title="Chilla (Ecuador)">Chilla</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">1 025
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_El_Guabo.svg" class="image"><img alt="Flag of El Guabo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/20px-Flag_of_El_Guabo.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/30px-Flag_of_El_Guabo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_El_Guabo.svg/40px-Flag_of_El_Guabo.svg.png 2x" data-file-width="784" data-file-height="504" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/El_Guabo_(cant%C3%B3n)" class="mw-redirect" title="El Guabo (cantón)">El Guabo</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">50 009
+</th>
+<th style="background: #FFFFEF; color: #000000">603
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/El_Guabo_(Ecuador)" title="El Guabo (Ecuador)">El Guabo</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">22 172
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_Huaquillas.svg" class="image"><img alt="Flag of Huaquillas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/20px-Flag_of_Huaquillas.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/30px-Flag_of_Huaquillas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Huaquillas.svg/40px-Flag_of_Huaquillas.svg.png 2x" data-file-width="800" data-file-height="500" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Huaquillas" title="Cantón Huaquillas">Huaquillas</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">48 285
+</th>
+<th style="background: #FFFFEF; color: #000000">72
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Huaquillas" title="Huaquillas">Huaquillas</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">47 706
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Las_Lajas.png" class="image"><img alt="Bandera de Las Lajas.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/20px-Bandera_de_Las_Lajas.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/30px-Bandera_de_Las_Lajas.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandera_de_Las_Lajas.png/40px-Bandera_de_Las_Lajas.png 2x" data-file-width="800" data-file-height="480" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Las_Lajas" title="Cantón Las Lajas">Las Lajas</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">4 794
+</th>
+<th style="background: #FFFFEF; color: #000000">297
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=La_Victoria_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="La Victoria (Ecuador) (aún no redactado)">La Victoria</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">1 178
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><span class="flagicon"><a href="/wiki/Archivo:Machala_Flag.svg" class="image" title="Bandera de Machala"><img alt="Bandera de Machala" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/20px-Machala_Flag.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/30px-Machala_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machala_Flag.svg/40px-Machala_Flag.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Machala" title="Cantón Machala">Machala</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">345 972
+</th>
+<th style="background: #FFFFEF; color: #000000">338
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Machala" title="Machala">Machala</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">231 260
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Marcabel%C3%AD.png" class="image"><img alt="Bandera de Marcabelí.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/20px-Bandera_de_Marcabel%C3%AD.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/30px-Bandera_de_Marcabel%C3%AD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bandera_de_Marcabel%C3%AD.png/40px-Bandera_de_Marcabel%C3%AD.png 2x" data-file-width="800" data-file-height="480" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Marcabel%C3%AD" title="Cantón Marcabelí">Marcabelí</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">5 450
+</th>
+<th style="background: #FFFFEF; color: #000000">147
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=Marcabel%C3%AD_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Marcabelí (Ecuador) (aún no redactado)">Marcabelí</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">3 682
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_Pasaje.svg" class="image"><img alt="Flag of Pasaje.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/20px-Flag_of_Pasaje.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/30px-Flag_of_Pasaje.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Pasaje.svg/40px-Flag_of_Pasaje.svg.png 2x" data-file-width="945" data-file-height="630" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Pasaje" title="Cantón Pasaje">Pasaje</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">72 806
+</th>
+<th style="background: #FFFFEF; color: #000000">452
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Pasaje_(ciudad)" title="Pasaje (ciudad)">Pasaje</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">52 673
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_Pi%C3%B1as.svg" class="image"><img alt="Flag of Piñas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/20px-Flag_of_Pi%C3%B1as.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/30px-Flag_of_Pi%C3%B1as.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Pi%C3%B1as.svg/40px-Flag_of_Pi%C3%B1as.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Pi%C3%B1as" title="Cantón Piñas">Piñas</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">25 988
+</th>
+<th style="background: #FFFFEF; color: #000000">615
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Pi%C3%B1as" title="Piñas">Piñas</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">15 517
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_de_Portovelo.png" class="image"><img alt="Bandera de Portovelo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/20px-Bandera_de_Portovelo.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/30px-Bandera_de_Portovelo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bandera_de_Portovelo.png/40px-Bandera_de_Portovelo.png 2x" data-file-width="700" data-file-height="400" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Portovelo" title="Cantón Portovelo">Portovelo</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">12 200
+</th>
+<th style="background: #FFFFEF; color: #000000">282
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/w/index.php?title=Portovelo_(Ecuador)&amp;action=edit&amp;redlink=1" class="new" title="Portovelo (Ecuador) (aún no redactado)">Portovelo</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">7 838
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Flag_of_Santa_Rosa.svg" class="image"><img alt="Flag of Santa Rosa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/20px-Flag_of_Santa_Rosa.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/30px-Flag_of_Santa_Rosa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Santa_Rosa.svg/40px-Flag_of_Santa_Rosa.svg.png 2x" data-file-width="800" data-file-height="500" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Santa_Rosa" title="Cantón Santa Rosa">Santa Rosa</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">69 036
+</th>
+<th style="background: #FFFFEF; color: #000000">889
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Santa_Rosa_(Ecuador)" title="Santa Rosa (Ecuador)">Santa Rosa</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">48 929
+</th></tr>
+<tr>
+<th style="background: #FFFFEF; color: #000000"><a href="/wiki/Archivo:Bandera_zaruma_2.jpg" class="image"><img alt="Bandera zaruma 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/20px-Bandera_zaruma_2.jpg" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/30px-Bandera_zaruma_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandera_zaruma_2.jpg/40px-Bandera_zaruma_2.jpg 2x" data-file-width="1000" data-file-height="643" /></a>
+</th>
+<td style="background: #FFFFCF; color: #000000"><b><a href="/wiki/Cant%C3%B3n_Zaruma" title="Cantón Zaruma">Zaruma</a></b>
+</td>
+<th style="background: #FFFFEF; color: #000000">24 097
+</th>
+<th style="background: #FFFFEF; color: #000000">645
+</th>
+<td style="background: #FFFFEF; color: #000000"><a href="/wiki/Zaruma" title="Zaruma">Zaruma</a>
+</td>
+<th style="background: #FFFFEF; color: #000000">9 677
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Fiestas_Populares">Fiestas Populares</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=18" title="Editar sección: Fiestas Populares">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Feria Mundial del Banano</li>
+<li>Feria Internacional del Langostino</li>
+<li>Feria de la Minería</li>
+<li>Festival del Café</li>
+<li>Exposiciones agropecuarias</li>
+<li>Celebraciones religiosas</li></ul>
+<h2><span id="Gastronom.C3.ADa"></span><span class="mw-headline" id="Gastronomía">Gastronomía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=19" title="Editar sección: Gastronomía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/wiki/Archivo:Bananas_white_background_DS.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/350px-Bananas_white_background_DS.jpg" decoding="async" width="350" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/525px-Bananas_white_background_DS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/700px-Bananas_white_background_DS.jpg 2x" data-file-width="3000" data-file-height="2000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Bananas_white_background_DS.jpg" class="internal" title="Aumentar"></a></div>El <a href="/wiki/Banano" class="mw-redirect" title="Banano">banano</a>, principal cultivo de El Oro.</div></div></div>
+<ul><li>Mariscos en general (sudados, aguados, melosos, sopas, arroces y frituras)</li>
+<li><a href="/wiki/Ceviche" class="mw-redirect" title="Ceviche">Ceviche</a> de camarón, concha, pescado, pulpo.</li>
+<li><a href="/wiki/Encebollado" title="Encebollado">Encebollado</a> de pescado</li>
+<li><a href="/wiki/Cangrejada" title="Cangrejada">Cangrejadas</a> (cangrejos rojos cocinados con verde y especias)</li>
+<li>Arroz con menestra y carne de res, chancho o pollo</li>
+<li><a href="/wiki/Guatitas" title="Guatitas">Guatita</a> (guiso de mondongo -panza de res- y papas con salsa de maní)</li>
+<li><a href="/wiki/Caldo_de_bolas" title="Caldo de bolas">Caldo de bolas</a> (plátano verde cocinado y relleno)</li>
+<li>Caldo de pata (de res) con yuca y mote</li>
+<li><a href="/w/index.php?title=Repe_lojano&amp;action=edit&amp;redlink=1" class="new" title="Repe lojano (aún no redactado)">Repe</a> de guineo (sopa cremosa de banano verde  maduro, cebolla, ajo, leche y queso)</li>
+<li>Arvejas con cuero se da en Portovelo</li>
+<li><a href="/wiki/Tigrillo_(platillo)" title="Tigrillo (platillo)">Tigrillo</a> (parte alta de la provincia: Portovelo, Piñas, Zaruma: plátano verde cocinado y desmenuzado, mezclado con huevo y queso o carne, acompañado con café de la zona).</li>
+<li><a href="/wiki/Fuf%C3%BA_de_pl%C3%A1tano_verde" title="Fufú de plátano verde">Bolones</a> y molidos de verde</li>
+<li>Pan de molde, roscones y bizcochuelos en Piñas.</li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=20" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Provincias_del_Ecuador" class="mw-redirect" title="Provincias del Ecuador">Provincias del Ecuador</a></li>
+<li><a href="/wiki/Regi%C3%B3n_Litoral_de_Ecuador" class="mw-redirect" title="Región Litoral de Ecuador">Región Litoral de Ecuador</a></li>
+<li><a href="/wiki/Machala" title="Machala">Machala</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=21" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2020.xlsx">http://app.sni.gob.ec/sni-link/sni/Portal%20SNI%202014/ESTADISTICA/Proyecciones_y_estudios_demograficos/Proyecciones%202010/Proyecciones%20de%20poblci%c3%b3n%20PARROQUIAL%202010-2020.xlsx</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mundomachala.com">Mundo Machala.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081023031029/http://www.mundomachala.com/">Archivado</a> el 23 de octubre de 2008 en <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Página con información sobre la localidad.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://web.archive.org/web/20131107080737/http://www.eqguia.com/provinciasciudades.php?provincia=7&amp;ciudad=37">https://web.archive.org/web/20131107080737/http://www.eqguia.com/provinciasciudades.php?provincia=7&amp;ciudad=37</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160825074442/http://www.mundomachala.com/pages/datos/historia.htm">«Copia archivada»</a>. Archivado desde <a rel="nofollow" class="external text" href="http://www.mundomachala.com/pages/datos/historia.htm">el original</a> el 25 de agosto de 2016<span class="reference-accessdate">. Consultado el 23 de mayo de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProvincia+de+El+Oro&amp;rft.btitle=Copia+archivada&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mundomachala.com%2Fpages%2Fdatos%2Fhistoria.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eluniverso.com/2007/05/09/0001/18/D9BFEF18AF81486EB5348745A3A6B588.html">http://www.eluniverso.com/2007/05/09/0001/18/D9BFEF18AF81486EB5348745A3A6B588.html</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 40</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 49</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Código Orgánico de Organización Territorial, Autonomías y Descentralización, Art. 43</span>
+</li>
+</ol></div>
+<p>La enciclopedia del estudiante - 20 Historia y Geografía del Ecuador - Editorial Santillana - Primera edición 2006
+</p><p>5.  "<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160318081806/http://www.enciclopediadelecuador.com/temasOpt.php?Ind=774&amp;Let=">Provincia de El Oro</a>". 2012-01-22.
+</p><p>6.Villalba, Juan. "<a rel="nofollow" class="external text" href="https://es.scribd.com/document/398970547/Indice-de-Desarrollo-Humano-en-Ecuador">Human Development Index in Ecuador</a>". <i>Scribd</i> (in Spanish). Retrieved 2019-02-05     
+</p><p>7. Cantons of Ecuador. Statoids.com. Retrieved 4 November 2009
+</p>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Provincia_de_El_Oro&amp;action=edit&amp;section=22" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:El_Oro_Province" class="extiw" title="commons:Category:El Oro Province">Provincia de El Oro</a></b>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.eloro.gob.ec">Gobierno Provincial Autónomo de El Oro</a>, sitio oficial del gobierno de la Provincia de El Oro.</li>
+<li><a rel="nofollow" class="external text" href="http://visitaeloro.com">VisitaElOro.com Portal Turístico, Comercial de Piñas y la Parte Alta</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200411054232/http://www.orenses.net/">Orenses - El Oro - Machala - Ecuador</a> Comunidad Virtual de la Provincia de El Oro</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q466019" class="extiw" title="wikidata:Q466019">Q466019</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:El_Oro_Province">El Oro Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q466019%22">Q466019</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Francia" title="Biblioteca Nacional de Francia">BNF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119640393">119640393</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119640393">(data)</a></span></li>
+<li><b>Lugares</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/OpenStreetMap" title="OpenStreetMap">OSM</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/relation/958681">958681</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Getty_Thesaurus_of_Geographic_Names" class="mw-redirect" title="Getty Thesaurus of Geographic Names">TGN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://vocab.getty.edu/page/tgn/1001233">1001233</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q466019" class="extiw" title="wikidata:Q466019">Q466019</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:El_Oro_Province">El Oro Province</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q466019%22">Q466019</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1359
+Cached time: 20230707174030
+Cache expiry: 22772
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.630 seconds
+Real time usage: 0.817 seconds
+Preprocessor visited node count: 6467/1000000
+Post‐expand include size: 53517/2097152 bytes
+Template argument size: 7214/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7145/5000000 bytes
+Lua time usage: 0.290/10.000 seconds
+Lua memory usage: 5617719/52428800 bytes
+Number of Wikibase entities loaded: 5/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  683.615      1 -total
+ 65.30%  446.417      1 Plantilla:Ficha_de_entidad_subnacional
+ 61.94%  423.459      1 Plantilla:Ficha
+ 23.00%  157.223     25 Plantilla:Propiedad
+ 20.87%  142.704      1 Plantilla:Control_de_autoridades
+  8.03%   54.884      1 Plantilla:Listaref
+  5.80%   39.639      1 Plantilla:Cita_web
+  5.67%   38.757      1 Plantilla:Fecha
+  4.85%   33.127      1 Plantilla:Lista_desplegable
+  3.29%   22.461      1 Plantilla:Coord
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:86714-0!canonical and timestamp 20230707174029 and revision id 152242316. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Provincia_de_El_Oro&amp;oldid=152242316">https://es.wikipedia.org/w/index.php?title=Provincia_de_El_Oro&amp;oldid=152242316</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:El_Oro" title="Categoría:El Oro">El Oro</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_por_trasladar_a_Wikidata" title="Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata">Wikipedia:Artículos con datos por trasladar a Wikidata</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_ficha_sin_actualizar" title="Categoría:Wikipedia:Artículos con ficha sin actualizar">Wikipedia:Artículos con ficha sin actualizar</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_sin_imagen_en_entidad_subnacional" title="Categoría:Wikipedia:Artículos sin imagen en entidad subnacional">Wikipedia:Artículos sin imagen en entidad subnacional</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNF" title="Categoría:Wikipedia:Artículos con identificadores BNF">Wikipedia:Artículos con identificadores BNF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_Relaci%C3%B3n_OSM" title="Categoría:Wikipedia:Artículos con identificadores Relación OSM">Wikipedia:Artículos con identificadores Relación OSM</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_TGN" title="Categoría:Wikipedia:Artículos con identificadores TGN">Wikipedia:Artículos con identificadores TGN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:P%C3%A1ginas_con_mapas" title="Categoría:Wikipedia:Páginas con mapas">Wikipedia:Páginas con mapas</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 3 jul 2023 a las 13:35.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución Compartir Igual 4.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//foundation.wikimedia.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Provincia_de_El_Oro&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="cdx-button cdx-button--icon-only vector-limited-width-toggle"
+	><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1418","wgBackendResponseTime":102,"wgKartographerLiveData":{"_7547d1c1a677d343803826be9de6b9912ceaabed":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q466019","properties":{"fill-opacity":0.1,"title":"geoshape1","fill":"#4D87CA"}}]},"wgPageParseReport":{"limitreport":{"cputime":"0.630","walltime":"0.817","ppvisitednodes":{"value":6467,"limit":1000000},"postexpandincludesize":{"value":53517,"limit":2097152},"templateargumentsize":{"value":7214,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7145,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  683.615      1 -total"," 65.30%  446.417      1 Plantilla:Ficha_de_entidad_subnacional"," 61.94%  423.459      1 Plantilla:Ficha"," 23.00%  157.223     25 Plantilla:Propiedad"," 20.87%  142.704      1 Plantilla:Control_de_autoridades","  8.03%   54.884      1 Plantilla:Listaref","  5.80%   39.639      1 Plantilla:Cita_web","  5.67%   38.757      1 Plantilla:Fecha","  4.85%   33.127      1 Plantilla:Lista_desplegable","  3.29%   22.461      1 Plantilla:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.290","limit":"10.000"},"limitreport-memusage":{"value":5617719,"limit":52428800}},"cachereport":{"origin":"mw1359","timestamp":"20230707174030","ttl":22772,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de El Oro","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_El_Oro","sameAs":"http:\/\/www.wikidata.org\/entity\/Q466019","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q466019","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-26T13:42:01Z","dateModified":"2023-07-03T13:35:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Provincia de El Oro","url":"https:\/\/es.wikipedia.org\/wiki\/Provincia_de_El_Oro","sameAs":"http:\/\/www.wikidata.org\/entity\/Q466019","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q466019","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-26T13:42:01Z","dateModified":"2023-07-03T13:35:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/El_Oro_in_Ecuador_%28%2BGalapagos%29.svg","headline":"provincia en Ecuador"}</script>
+</body>
+</html>
